@@ -3,5 +3,20 @@ main:
   - title: "About"
     url: /about
 
-  - title: "Sample Navigation Link 2"
+  - title: "Work"
+    url: /
+
+  - title: "Speaking"
+    url: /
+
+  - title: "Writing"
+    url: /
+
+  - title: "Projects"
+    url: /
+
+  - title: "Photos"
+    url: /
+
+  - title: "Contact"
     url: /
