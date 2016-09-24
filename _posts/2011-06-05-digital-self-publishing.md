@@ -1,0 +1,18 @@
+---
+id: 119
+title: Digital Self Publishing
+date: 2011-06-05T15:20:53+00:00
+author: Ben
+layout: default
+guid: http://ox10.it/allbs/2011/06/05/digital-self-publishing/
+permalink: /2011/06/05/digital-self-publishing/
+categories:
+  - handy
+  - inspiring
+  - petproject
+---
+Everything You Need to Know About How to Digitally Self Publish
+
+<http://www.livingdigitally.net/2010/09/everything-you-need-to-know-about-how-to-digitally-self-publish.html>
+
+By Christian Cantrell ( @cantrell )
