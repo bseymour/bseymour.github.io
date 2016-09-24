@@ -1,3 +1,8 @@
+.DS_Store
 _site/
+.jekyll-metadata
 .sass-cache/
 .jekyll-metadata
+codekit-config.json
+node_modules
+npm-debug.log*
