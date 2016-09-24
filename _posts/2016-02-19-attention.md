@@ -1,13 +1,11 @@
 ---
-id: 2564
+layout: single
+author_profile: true
+type: pages
+
 title: Assert Your Freedom of Attention
 date: 2016-02-19T23:15:57+00:00
-author: Ben
-layout: default
-guid: http://allbs.co.uk/?p=2564
 permalink: /2016/02/19/attention/
-builder_switch_frontend:
-  - 0
 post_image:
   - /images/allbsuploads/2016/02/2016-02-17-19.37.25.jpg
 categories:

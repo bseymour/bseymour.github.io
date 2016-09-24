@@ -1,15 +1,13 @@
 ---
-id: 2535
+layout: single
+author_profile: true
+type: pages
+
 title: Be A Better Me
 date: 2016-01-06T17:39:08+00:00
-author: Ben
-layout: default
-guid: http://allbs.co.uk/?p=2535
 permalink: /2016/01/06/be-a-better-me/
 post_image:
   - /images/allbsuploads/2016/01/1452101836_featured.jpeg
-builder_switch_frontend:
-  - 0
 categories:
   - habit
   - inspiring
