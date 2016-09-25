@@ -18,13 +18,13 @@
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
+  background-color: $primary-bg-colour;
   border-top: 1px solid $light-gray;
 
   footer {
     @include container;
     @include clearfix;
-    margin-top: 2em;
+    margin-top: 1em;
     padding: 0 1em 2em;
 
     @include breakpoint($x-large) {
