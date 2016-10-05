@@ -1,10 +1,10 @@
 ---
-id: 1854
+layout: single
+author_profile: true
+type: pages
+
 title: 'Healthy Working : Standing-Desk Edition'
 date: 2014-08-16T14:30:44+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1854
 permalink: /2014/08/16/healthy-working-standing-desk/
 post_image:
   - /images/allbsuploads/2014/08/2014-08-16-15.51.11_sq.jpg

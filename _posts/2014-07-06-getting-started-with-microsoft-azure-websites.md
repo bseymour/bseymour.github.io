@@ -1,10 +1,10 @@
 ---
-id: 1818
+layout: single
+author_profile: true
+type: pages
+
 title: 'Azure Like It : Getting started with Microsoft Azure Websites'
 date: 2014-07-06T13:35:16+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1818
 permalink: /2014/07/06/getting-started-with-microsoft-azure-websites/
 post_image:
   - http://ox10.it/allbs/wp-content/uploads/2014/07/Screenshot-2014-07-06-14.59.34.png

@@ -1,10 +1,10 @@
 ---
-id: 1559
+layout: single
+author_profile: true
+type: pages
+
 title: 'Node.js : hour 1'
 date: 2013-10-29T23:22:04+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1559
 permalink: /2013/10/29/nodejs-hour-1/
 post_image:
   - http://ox10.it/allbs/wp-content/uploads/2013/10/Screen-Shot-2013-10-29-at-23.25.09.png

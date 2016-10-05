@@ -1,11 +1,11 @@
 ---
-id: 1790
+layout: single
+author_profile: true
+type: pages
+
 title: 'Practical Responsive Images &#8211; Crop to point of interest'
 date: 2014-05-19T18:43:02+00:00
 author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1790
-permalink: /2014/05/19/practical-responsive-images-point-of-interest/
 post_image:
   - /images/allbsuploads/2014/05/2014-05-19-18.30.59_framed.png
 categories:

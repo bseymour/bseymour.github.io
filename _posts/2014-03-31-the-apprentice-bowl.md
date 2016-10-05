@@ -1,10 +1,10 @@
 ---
-id: 1682
+layout: single
+author_profile: true
+type: pages
+
 title: The Apprentice Bowl
 date: 2014-03-31T21:40:27+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1682
 permalink: /2014/03/31/the-apprentice-bowl/
 post_image:
   - http://ox10.it/allbs/wp-content/uploads/2014/03/2014-03-31-13.11.32_crop_sq.jpg

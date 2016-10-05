@@ -1,10 +1,10 @@
 ---
-id: 2556
+layout: single
+author_profile: true
+type: pages
+
 title: Make More of Your Videos
 date: 2014-10-09T13:49:38+00:00
-author: Ben
-layout: default
-guid: http://allbs.co.uk/?p=2556
 permalink: /2014/10/09/make-more-of-your-videos/
 builder_switch_frontend:
   - 0

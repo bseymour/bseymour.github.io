@@ -1,10 +1,10 @@
 ---
-id: 1735
+layout: single
+author_profile: true
+type: pages
+
 title: Screen Video Capture of non-rooted Android Tablet
 date: 2014-05-13T20:47:26+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1735
 permalink: /2014/05/13/screen-video-capture-of-non-rooted-android/
 post_image:
   - http://ox10.it/allbs/wp-content/uploads/2014/05/Screenshot-2014-05-13-21.49.13.png

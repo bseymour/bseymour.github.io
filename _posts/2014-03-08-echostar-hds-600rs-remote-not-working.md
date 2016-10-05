@@ -1,10 +1,10 @@
 ---
-id: 2407
+layout: single
+author_profile: true
+type: pages
+
 title: 'Echostar HDS-600RS &#8211; remote not working'
 date: 2014-03-08T21:28:13+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=2407
 permalink: /2014/03/08/echostar-hds-600rs-remote-not-working/
 post_image:
   - http://ox10.it/allbs/wp-content/uploads/2014/03/hds-600rs_remote.jpg

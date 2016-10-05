@@ -1,10 +1,9 @@
 ---
-id: 2425
+layout: single
+author_profile: true
+type: pages
+
 title: 'Tate Worlds : reimagined in Minecraft'
-date: 2014-11-25T21:43:16+00:00
-author: Ben
-layout: default
-guid: http://allbs.co.uk/?p=2425
 permalink: /2014/11/25/tate-worlds-reimagined-in-minecraft/
 post_image:
   - /images/allbsuploads/2014/11/Screenshot-2014-11-25-21.18.20.png

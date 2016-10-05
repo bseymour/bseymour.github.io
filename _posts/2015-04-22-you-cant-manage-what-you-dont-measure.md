@@ -1,10 +1,10 @@
 ---
-id: 2491
+layout: single
+author_profile: true
+type: pages
+
 title: 'You can&#8217;t manage what you don&#8217;t measure'
 date: 2015-04-22T19:11:57+00:00
-author: Ben
-layout: default
-guid: http://allbs.co.uk/?p=2491
 permalink: /2015/04/22/you-cant-manage-what-you-dont-measure/
 post_image:
   - /images/allbsuploads/2015/04/Screenshot-2015-04-22-11.16.00-rotate.png

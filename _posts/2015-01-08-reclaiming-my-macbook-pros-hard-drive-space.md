@@ -1,10 +1,10 @@
 ---
-id: 2439
+layout: single
+author_profile: true
+type: pages
+
 title: 'Reclaiming my MacBook Pro&#8217;s hard drive space'
 date: 2015-01-08T22:44:48+00:00
-author: Ben
-layout: default
-guid: http://allbs.co.uk/?p=2439
 permalink: /2015/01/08/reclaiming-my-macbook-pros-hard-drive-space/
 post_image:
   - /images/allbsuploads/2015/01/Screenshot-2015-01-08-19.35.16.png

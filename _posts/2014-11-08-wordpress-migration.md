@@ -1,10 +1,10 @@
 ---
-id: 2410
+layout: single
+author_profile: true
+type: pages
+
 title: WordPress Migration
 date: 2014-11-08T23:10:18+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=2410
 permalink: /2014/11/08/wordpress-migration/
 post_image:
   - /images/allbsuploads/2014/11/Screenshot-2014-11-09-19.54.16.png

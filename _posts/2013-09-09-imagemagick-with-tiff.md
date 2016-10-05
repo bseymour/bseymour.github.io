@@ -1,10 +1,10 @@
 ---
-id: 1513
+layout: single
+author_profile: true
+type: pages
+
 title: 'Imagemagick with TIFF support &#8211; &#8220;no decode delegate for this image format&#8221;'
 date: 2013-09-09T20:55:31+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1513
 permalink: /2013/09/09/imagemagick-with-tiff/
 categories:
   - Mac
@@ -16,13 +16,13 @@ I&#8217;ve been loving using Mac Terminal but I&#8217;d being having problem usi
 I couldn&#8217;t get past : &#8220;no decode delegate for this image format&#8221; . I tried far too many overly-complex possibilities, and it was becoming a real time-suck so while this is a short post it took me far too much time to find this solution:
 
 > >>$ brew uninstall imagemagick
-> 
+>
 > &nbsp;
-> 
+>
 > >>$ brew install libtiff
-> 
+>
 > &nbsp;
-> 
+>
 > >>$ brew install imagemagick &#8211;with-libtiff
 
 &nbsp;
@@ -30,7 +30,7 @@ I couldn&#8217;t get past : &#8220;no decode delegate for this image format&#822
 [update]: my work machine didn&#8217;t like the above approach, however the following then worked
 
 > >>$ brew install imagemagick &#8211;build-from-source
-> 
+>
 > &nbsp;
 
 Then to confirm it has worked:

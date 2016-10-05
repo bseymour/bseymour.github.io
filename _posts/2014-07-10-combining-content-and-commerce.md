@@ -1,13 +1,11 @@
 ---
-id: 2560
+layout: single
+author_profile: true
+type: pages
+
 title: Combining Content and Commerce
 date: 2014-07-10T13:52:33+00:00
-author: Ben
-layout: default
-guid: http://allbs.co.uk/?p=2560
 permalink: /2014/07/10/combining-content-and-commerce/
-builder_switch_frontend:
-  - 0
 categories:
   - eCommerce
 ---

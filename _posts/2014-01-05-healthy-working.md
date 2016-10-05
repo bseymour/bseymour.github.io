@@ -1,10 +1,10 @@
 ---
-id: 1619
+layout: single
+author_profile: true
+type: pages
+
 title: Healthy Working
 date: 2014-01-05T19:11:28+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1619
 permalink: /2014/01/05/healthy-working/
 categories:
   - general

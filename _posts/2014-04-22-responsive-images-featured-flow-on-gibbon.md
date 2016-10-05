@@ -1,10 +1,10 @@
 ---
-id: 1705
+layout: single
+author_profile: true
+type: pages
+
 title: 'Responsive Images : featured Flow on Gibbon'
 date: 2014-04-22T16:09:28+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1705
 permalink: /2014/04/22/responsive-images-featured-flow-on-gibbon/
 categories:
   - Dynamic Media

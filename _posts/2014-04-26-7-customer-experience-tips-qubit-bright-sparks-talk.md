@@ -1,10 +1,10 @@
 ---
-id: 1714
+layout: single
+author_profile: true
+type: pages
+
 title: '7 Customer Experience Tips : Qubit Bright Sparks talk'
 date: 2014-04-26T13:24:45+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1714
 permalink: /2014/04/26/7-customer-experience-tips-qubit-bright-sparks-talk/
 post_image:
   - http://ox10.it/allbs/wp-content/uploads/2014/04/QubitsBrightSparks-Screenshot-2014-04-26-14.23.37.png

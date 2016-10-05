@@ -1,10 +1,10 @@
 ---
-id: 1610
+layout: single
+author_profile: true
+type: pages
+
 title: Wireless Headless Node Server
 date: 2014-01-01T17:36:48+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1610
 permalink: /2014/01/01/wireless-headless-node-server/
 categories:
   - Family

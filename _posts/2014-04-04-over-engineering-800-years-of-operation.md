@@ -1,10 +1,10 @@
 ---
-id: 1690
+layout: single
+author_profile: true
+type: pages
+
 title: 'Over Engineering : 800 years of Operation'
 date: 2014-04-04T09:51:55+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1690
 permalink: /2014/04/04/over-engineering-800-years-of-operation/
 post_image:
   - http://ox10.it/allbs/wp-content/uploads/2014/04/2014-04-03-13.46.41.jpg

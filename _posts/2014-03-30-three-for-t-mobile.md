@@ -1,10 +1,10 @@
 ---
-id: 1671
+layout: single
+author_profile: true
+type: pages
+
 title: 'Three for T (-mobile) : [UK mobile networks]'
 date: 2014-03-30T21:34:03+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1671
 permalink: /2014/03/30/three-for-t-mobile/
 post_image:
   - /images/allbsuploads/2014/03/2014-03-30-21.55.27-crop.jpg

@@ -1,10 +1,10 @@
 ---
-id: 1750
+layout: single
+author_profile: true
+type: pages
+
 title: 'Practical Responsive Images with PictureFill (#1)'
 date: 2014-05-17T13:08:48+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1750
 permalink: /2014/05/17/practical-responsive-images-with-picturefill-1/
 categories:
   - Dynamic Media
@@ -21,9 +21,9 @@ Ahead of full take-up, and considering future-legacy-browers, there is an update
 **As such, you can seriously considering implementing a better images approach \*today\*.**
 
 First steps to try:
-  
+
 &#8211; grab a copy of picturefill.js
-  
+
 &#8211; Use the <picture> element:
 
 <code class="prettyprint lang-html">&lt;br />
@@ -39,7 +39,7 @@ First steps to try:
 
 ### [Update: I&#8217;ve launched a separate site focused on <a title="Practical Responsive Images" href="http://responsiveimag.es/" target="_blank">Practical Responsive Images: http://responsiveimag.es/</a> ]
 
-### 
+###
 
 ### <span style="color: #ff0000;"><strong>Demo: </strong></span>**<a title="Responsive Images PictureFill Demo" href="http://responsiveimag.es/picturefill1_apples.html" target="_blank">http://responsiveimag.es/picturefill1_apples.html</a>**
 
@@ -67,9 +67,9 @@ I am using a server-side Dynamic Imaging system to make the image manipulations 
 &#8230;?w=800&#8230;
 
 The second part of this overall problem, is in the workflows and solutions for actually sourcing and serving all of those image variants. There are two fundamental approaches:
-  
+
 1) generating batch statics
-  
+
 2) server-side solutions.
 
 * more to come on these topics shortly.

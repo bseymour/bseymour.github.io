@@ -1,13 +1,11 @@
 ---
-id: 2554
+layout: single
+author_profile: true
+type: pages
+
 title: Multi-Screen Journeys Require Adaptive Content
 date: 2014-09-17T13:45:23+00:00
-author: Ben
-layout: default
-guid: http://allbs.co.uk/?p=2554
 permalink: /2014/09/17/multi-screen-journeys-require-adaptive-content/
-builder_switch_frontend:
-  - 0
 categories:
   - eCommerce
 ---
