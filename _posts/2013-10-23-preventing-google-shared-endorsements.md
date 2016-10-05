@@ -1,10 +1,10 @@
 ---
-id: 1543
+layout: single
+author_profile: true
+type: pages
+
 title: Preventing Google Shared Endorsements
 date: 2013-10-23T20:48:03+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1543
 permalink: /2013/10/23/preventing-google-shared-endorsements/
 categories:
   - social
