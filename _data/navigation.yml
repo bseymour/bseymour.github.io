@@ -4,19 +4,19 @@ main:
     url: /about
 
   - title: "Work"
-    url: /
+    url: /work
 
   - title: "Speaking"
-    url: /
+    url: /speaking
 
   - title: "Writing"
-    url: /
+    url: /writing
 
   - title: "Projects"
-    url: /
+    url: /projects
 
   - title: "Photos"
-    url: /
+    url: /photos
 
   - title: "Contact"
-    url: /
+    url: /contact
