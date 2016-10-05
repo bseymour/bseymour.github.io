@@ -1,10 +1,10 @@
 ---
-id: 2517
+layout: single
+author_profile: true
+type: pages
+
 title: 'Syndicating WordPress posts to Medium : Test'
 date: 2015-10-25T15:57:39+00:00
-author: Ben
-layout: default
-guid: http://allbs.co.uk/?p=2517
 permalink: /2015/10/25/syndicating-wordpress-posts-to-medium-test/
 post_image:
   - /images/allbsuploads/2015/10/medium-thumb.png

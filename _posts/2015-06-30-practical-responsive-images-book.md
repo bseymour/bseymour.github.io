@@ -1,10 +1,10 @@
 ---
-id: 2501
+layout: single
+author_profile: true
+type: pages
+
 title: 'Practical Responsive Images : Book'
 date: 2015-06-30T08:20:35+00:00
-author: Ben
-layout: default
-guid: http://allbs.co.uk/?p=2501
 permalink: /2015/06/30/practical-responsive-images-book/
 post_image:
   - /images/allbsuploads/2015/06/Cover-PracticalResponsiveImages-coverimg.jpg

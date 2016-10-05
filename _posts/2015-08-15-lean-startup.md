@@ -1,10 +1,10 @@
 ---
-id: 2509
+layout: single
+author_profile: true
+type: pages
+
 title: Lean Startup
 date: 2015-08-15T10:16:41+00:00
-author: Ben
-layout: default
-guid: http://allbs.co.uk/?p=2509
 permalink: /2015/08/15/lean-startup/
 post_image:
   - /images/allbsuploads/2015/08/2015-08-15-11.18.31.jpg
