@@ -1,10 +1,10 @@
 ---
-id: 1284
+layout: single
+author_profile: true
+type: pages
+
 title: Timelapse via Android mobile
 date: 2013-05-12T22:15:46+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1284
 permalink: /2013/05/12/timelapse-via-android-mobile/
 post_image:
   - /images/allbsuploads/2013/05/Screen-Shot-2013-05-12-at-23.24.18.png

@@ -1,10 +1,10 @@
 ---
-id: 1472
+layout: single
+author_profile: true
+type: pages
+
 title: Sync All The Things
 date: 2013-08-07T18:22:09+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1472
 permalink: /2013/08/07/sync-all-the-things/
 post_image:
   - /images/allbsuploads/2013/08/Screen-Shot-2013-08-11-at-19.26.20.png

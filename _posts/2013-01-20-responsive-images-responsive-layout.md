@@ -1,10 +1,10 @@
 ---
-id: 1032
+layout: single
+author_profile: true
+type: pages
+
 title: Responsive Images in a Responsive Layout
 date: 2013-01-20T23:15:25+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1032
 permalink: /2013/01/20/responsive-images-responsive-layout/
 post_image:
   - /images/allbsuploads/2013/01/Screenshot_2013-01-20-22-44-20-Copy.jpg

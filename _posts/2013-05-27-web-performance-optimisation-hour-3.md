@@ -1,10 +1,10 @@
 ---
-id: 1402
+layout: single
+author_profile: true
+type: pages
+
 title: 'Web Performance Optimisation: hour 3'
 date: 2013-05-27T10:05:30+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1402
 permalink: /2013/05/27/web-performance-optimisation-hour-3/
 post_image:
   - /images/allbsuploads/2013/05/Screen-Shot-2013-05-27-at-10.50.24.png

@@ -1,10 +1,10 @@
 ---
-id: 1482
+layout: single
+author_profile: true
+type: pages
+
 title: Terminal Velocity
 date: 2013-09-05T19:42:01+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1482
 permalink: /2013/09/05/its-terminal/
 post_image:
   - http://ox10.it/allbs/wp-content/uploads/2013/09/Screen-Shot-2013-09-04-at-20.55.58.png

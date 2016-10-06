@@ -1,10 +1,10 @@
 ---
-id: 950
+layout: single
+author_profile: true
+type: pages
+
 title: 'Image SEO &#038; Dynamic Imaging Systems'
 date: 2013-01-07T23:03:38+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=950
 permalink: /2013/01/07/image-seo-dynamic-imaging/
 post_image:
   - http://ox10.it/allbs/wp-content/uploads/2013/01/book-art1.jpg

@@ -1,10 +1,10 @@
 ---
-id: 863
+layout: single
+author_profile: true
+type: pages
+
 title: Upload all the things!
 date: 2012-10-12T09:11:30+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=863
 permalink: /2012/10/12/upload-all-the-things/
 post_image:
   - /images/allbsuploads/2012/10/BT-Infinity.png

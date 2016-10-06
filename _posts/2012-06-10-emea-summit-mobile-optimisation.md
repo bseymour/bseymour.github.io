@@ -1,10 +1,10 @@
 ---
-id: 661
+layout: single
+author_profile: true
+type: pages
+
 title: 'Adobe EMEA Summit &#8211; Mobile Optimisation'
 date: 2012-06-10T19:34:18+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=661
 permalink: /2012/06/10/emea-summit-mobile-optimisation/
 categories:
   - conference
@@ -30,8 +30,8 @@ and here is the Slideshare of the deck from the session:
 &nbsp;
 
 <div id="__ss_13339320" style="width: 425px;">
-  <strong style="display: block; margin: 12px 0 4px;"><a title="Adobe Summit EMEA 2012 : 16706 Optimise Mobile Experience" href="http://www.slideshare.net/benseymour/adobe-summit-emea-2012-16706-optimise-mobile-experience" target="_blank">Adobe Summit EMEA 2012 : 16706 Optimise Mobile Experience</a></strong> </p> 
-  
+  <strong style="display: block; margin: 12px 0 4px;"><a title="Adobe Summit EMEA 2012 : 16706 Optimise Mobile Experience" href="http://www.slideshare.net/benseymour/adobe-summit-emea-2012-16706-optimise-mobile-experience" target="_blank">Adobe Summit EMEA 2012 : 16706 Optimise Mobile Experience</a></strong> </p>
+
   <div style="padding: 5px 0 12px;">
     View more <a href="http://www.slideshare.net/thecroaker/death-by-powerpoint" target="_blank">PowerPoint</a> from <a href="http://www.slideshare.net/benseymour" target="_blank">benseymour</a>
   </div>

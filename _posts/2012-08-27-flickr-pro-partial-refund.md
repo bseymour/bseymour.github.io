@@ -1,10 +1,10 @@
 ---
-id: 811
+layout: single
+author_profile: true
+type: pages
+
 title: 'Flickr Pro refund &#8211; how to get a partial refund'
 date: 2012-08-27T19:06:58+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=811
 permalink: /2012/08/27/flickr-pro-partial-refund/
 categories:
   - photography

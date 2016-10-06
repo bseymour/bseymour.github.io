@@ -1,10 +1,10 @@
 ---
-id: 1201
+layout: single
+author_profile: true
+type: pages
+
 title: iPad + Adobe Color Lava + Photoshop = creative workflow loveliness
 date: 2013-03-27T22:42:16+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1201
 permalink: /2013/03/27/ipad-adobe-color-lava-photoshop-goodness/
 categories:
   - general

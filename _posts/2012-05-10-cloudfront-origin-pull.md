@@ -1,10 +1,10 @@
 ---
-id: 532
+layout: single
+author_profile: true
+type: pages
+
 title: Origin pull on Amazon Cloudfront
 date: 2012-05-10T22:36:34+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=532
 permalink: /2012/05/10/cloudfront-origin-pull/
 post_image:
   - /images/allbsuploads/2012/05/Red_Fox_sq.jpg

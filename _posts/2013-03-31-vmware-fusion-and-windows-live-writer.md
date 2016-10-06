@@ -1,10 +1,10 @@
 ---
-id: 1246
+layout: single
+author_profile: true
+type: pages
+
 title: VMWare Fusion and Windows Live Writer
 date: 2013-03-31T23:30:44+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1246
 permalink: /2013/03/31/vmware-fusion-and-windows-live-writer/
 categories:
   - Mac

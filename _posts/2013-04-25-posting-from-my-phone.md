@@ -1,10 +1,10 @@
 ---
-id: 1267
+layout: single
+author_profile: true
+type: pages
+
 title: Posting from my phone
 date: 2013-04-25T18:52:39+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1267
 permalink: /2013/04/25/posting-from-my-phone/
 categories:
   - android

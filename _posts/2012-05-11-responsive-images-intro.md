@@ -1,10 +1,10 @@
 ---
-id: 496
+layout: single
+author_profile: true
+type: pages
+
 title: 'Responsive Images &#8211; #intro'
 date: 2012-05-11T10:21:58+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=496
 permalink: /2012/05/11/responsive-images-intro/
 post_image:
   - /images/allbsuploads/2012/05/ResponsiveImages3.png

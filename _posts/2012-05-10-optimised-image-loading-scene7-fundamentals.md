@@ -1,10 +1,10 @@
 ---
-id: 529
+layout: single
+author_profile: true
+type: pages
+
 title: 'Optimised Image Loading &#8211; Scene7 fundamentals #1'
 date: 2012-05-10T07:25:32+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=529
 permalink: /2012/05/10/optimised-image-loading-scene7-fundamentals/
 post_image:
   - /images/allbsuploads/2012/05/3Limes.jpg

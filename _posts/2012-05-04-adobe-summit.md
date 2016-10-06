@@ -1,10 +1,10 @@
 ---
-id: 504
+layout: single
+author_profile: true
+type: pages
+
 title: Adobe Summit
 date: 2012-05-04T14:29:50+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=504
 permalink: /2012/05/04/adobe-summit/
 categories:
   - conference

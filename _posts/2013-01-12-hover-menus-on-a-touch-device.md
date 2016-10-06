@@ -1,10 +1,10 @@
 ---
-id: 1042
+layout: single
+author_profile: true
+type: pages
+
 title: Navigating hover menus on a touch device
 date: 2013-01-12T22:26:08+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1042
 permalink: /2013/01/12/hover-menus-on-a-touch-device/
 categories:
   - android

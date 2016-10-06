@@ -1,10 +1,10 @@
 ---
-id: 772
+layout: single
+author_profile: true
+type: pages
+
 title: New family photo workflow
 date: 2012-08-17T20:18:41+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=772
 permalink: /2012/08/17/family-photo-workflow/
 post_image:
   - /images/allbsuploads/2012/08/jackyear1.png

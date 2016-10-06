@@ -1,10 +1,10 @@
 ---
-id: 1442
+layout: single
+author_profile: true
+type: pages
+
 title: Timelapse Workflow Update
 date: 2013-07-28T22:38:25+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1442
 permalink: /2013/07/28/timelapse-workflow-update/
 post_image:
   - /images/allbsuploads/2013/07/2013-07-28-17.50.42.jpg

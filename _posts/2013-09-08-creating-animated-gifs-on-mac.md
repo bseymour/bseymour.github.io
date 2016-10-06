@@ -1,10 +1,10 @@
 ---
-id: 1505
+layout: single
+author_profile: true
+type: pages
+
 title: 'Creating animated GIFs on Mac &#8211; the easy way'
 date: 2013-09-08T15:15:05+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1505
 permalink: /2013/09/08/creating-animated-gifs-on-mac/
 categories:
   - Mac
@@ -37,7 +37,7 @@ Guidance on uninstalling MacPorts**: <http://guide.macports.org/chunked/install
 Then install HomeBrew**: <http://brew.sh/>
 
 > >>$ ruby -e &#8220;$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)&#8221;
-> 
+>
 > >>$ brew doctor
 
 and then use Homebrew to install ImageMagick**:

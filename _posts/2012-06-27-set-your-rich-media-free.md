@@ -1,10 +1,10 @@
 ---
-id: 693
+layout: single
+author_profile: true
+type: pages
+
 title: Set Your Rich Media Free
 date: 2012-06-27T13:36:06+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=693
 permalink: /2012/06/27/set-your-rich-media-free/
 categories:
   - Dynamic Media
@@ -26,8 +26,8 @@ The topic was: Set Your Rich Media Free
 <strong style="display: block; margin: 12px 0 4px;"><a title="Set Your Rich Media Free - with Adobe Scene7" href="http://www.slideshare.net/benseymour/set-your-rich-media-free-with-adobe-scene7">Set Your Rich Media Free &#8211; with Adobe Scene7</a></strong>
 
 <div id="__ss_13481553" style="width: 425px;">
-  </p> 
-  
+  </p>
+
   <div style="padding: 5px 0 12px;">
     View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/benseymour">Ben Seymour</a>.
   </div>

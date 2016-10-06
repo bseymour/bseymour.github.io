@@ -1,10 +1,10 @@
 ---
-id: 778
+layout: single
+author_profile: true
+type: pages
+
 title: Nexus7 + OTG = freedom
 date: 2012-08-24T11:25:29+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=778
 permalink: /2012/08/24/nexus7-otg-freedom/
 categories:
   - android

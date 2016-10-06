@@ -1,10 +1,10 @@
 ---
-id: 1180
+layout: single
+author_profile: true
+type: pages
+
 title: Drawscript and HTML5 Canvas
 date: 2013-03-23T15:52:23+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1180
 permalink: /2013/03/23/drawscript-and-html5-canvas/
 post_image:
   - /images/allbsuploads/2013/03/Screen-Shot-2013-03-23-at-15.47.54.png

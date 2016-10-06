@@ -1,10 +1,10 @@
 ---
-id: 1153
+layout: single
+author_profile: true
+type: pages
+
 title: 'Installing Lynx on Mac &#8211; a text-only browser'
 date: 2013-03-02T15:57:33+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1153
 permalink: /2013/03/02/installing-lynx-on-mac/
 categories:
   - WebDev
@@ -31,13 +31,13 @@ Installing Lynx is straight forward enough, but is a little more involved than u
 1) Install Xcode (From App Store)
 
 2) Install MacPorts : download the .pkg from:
-  
+
 <http://www.macports.org/install.php>
 
 Use Terminal to confirm installed ok:
-  
+
 : $ port
-  
+
 >> MacPorts 2.1.3, Entering interactive mode&#8230;
 
 I then used the Terminal and tried:
@@ -45,13 +45,13 @@ I then used the Terminal and tried:
 3) $ sudo port install lynx
 
 Which gave me the following response:
-  
+
 >> &#8216;org.macports.configure returned configure failure&#8217;
-  
+
 but reading the rest of the output it also included
-  
+
 &#8230;
-  
+
 >> Warning: The Command Line Tools for Xcode don&#8217;t appear to be installed;
 
 4) install Xcode command line tools.
@@ -69,11 +69,11 @@ Which was this time successful, meaning I can browse sites as text-only via the 
 $lynx http://thedomain.com
 
 e.g.:
-  
+
 $lynx http://responsiveconf.com
 
 <img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-03-02 at 15.55.17.png" alt="Lynx: Responsive Conf Site" src="http://ox10.it/allbs/wp-content/uploads/2013/03/Screen-Shot-2013-03-02-at-15.55.17.png" width="422" height="480" border="0" />
 
 Footnote/Hat tip: I was initially pointed at this approach This approach based on the comments here (from &#8217;06):
-  
+
 <http://hints.macworld.com/article.php?story=20001105230841401>

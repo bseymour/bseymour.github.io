@@ -1,10 +1,10 @@
 ---
-id: 896
+layout: single
+author_profile: true
+type: pages
+
 title: Read it all later
 date: 2012-12-30T17:11:04+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=896
 permalink: /2012/12/30/read-it-all-later/
 post_image:
   - /images/allbsuploads/2012/12/IMG_20121231_000605.jpg

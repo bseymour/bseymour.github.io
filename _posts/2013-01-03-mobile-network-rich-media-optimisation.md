@@ -1,10 +1,10 @@
 ---
-id: 927
+layout: single
+author_profile: true
+type: pages
+
 title: Mobile Network Transcoding and Rich Media
 date: 2013-01-03T22:23:16+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=927
 permalink: /2013/01/03/mobile-network-rich-media-optimisation/
 categories:
   - Rich Media

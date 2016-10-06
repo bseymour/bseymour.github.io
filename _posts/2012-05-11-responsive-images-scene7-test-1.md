@@ -1,10 +1,10 @@
 ---
-id: 591
+layout: single
+author_profile: true
+type: pages
+
 title: 'Responsive Images &#8211; Scene7 test #1'
 date: 2012-05-11T10:49:04+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=591
 permalink: /2012/05/11/responsive-images-scene7-test-1/
 post_image:
   - /images/allbsuploads/2012/05/rosette_template.jpg

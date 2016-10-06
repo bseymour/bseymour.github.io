@@ -1,10 +1,10 @@
 ---
-id: 466
+layout: single
+author_profile: true
+type: pages
+
 title: 'How to transfer domains away from 1&#038;1'
 date: 2012-03-27T22:22:22+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=466
 permalink: /2012/03/27/transfer-domains-from-1and1/
 post_image:
   - /images/allbsuploads/2012/03/1and1-transfer-com-domain_cropped.png

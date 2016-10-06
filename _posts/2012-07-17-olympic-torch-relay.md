@@ -1,10 +1,10 @@
 ---
-id: 732
+layout: single
+author_profile: true
+type: pages
+
 title: Olympic Torch relay
 date: 2012-07-17T19:54:37+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=732
 permalink: /2012/07/17/olympic-torch-relay/
 categories:
   - Family

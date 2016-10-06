@@ -1,10 +1,10 @@
 ---
-id: 713
+layout: single
+author_profile: true
+type: pages
+
 title: Olympic Torch
 date: 2012-07-07T21:25:28+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=713
 permalink: /2012/07/07/olympic-torch/
 categories:
   - Family
@@ -15,7 +15,7 @@ The Olympic Torch has been very busy doing the rounds all over the UK in prepara
 
 <div id="attachment_714" style="width: 490px" class="wp-caption alignnone">
   <a href="http://ox10.it/allbs/wp-content/uploads/2012/07/IMG_7994.jpg"><img class=" wp-image-714" title="Ben and Zoe with the Olympic Torch" alt="Ben and Zoe with the Olympic Torch" src="http://ox10.it/allbs/wp-content/uploads/2012/07/IMG_7994-682x1024.jpg" width="480" height="718" /></a>
-  
+
   <p class="wp-caption-text">
     Ben and Zoe with the Olympic Torch
   </p>
@@ -25,7 +25,7 @@ The Olympic Torch has been very busy doing the rounds all over the UK in prepara
 
 <div id="attachment_715" style="width: 490px" class="wp-caption alignnone">
   <a href="http://ox10.it/allbs/wp-content/uploads/2012/07/IMG_8000.jpg"><img class=" wp-image-715" title="Em and Jack with the Olympic Torch" alt="Em and Jack with the Olympic Torch" src="http://ox10.it/allbs/wp-content/uploads/2012/07/IMG_8000-682x1024.jpg" width="480" height="720" srcset="/images/allbsuploads/2012/07/IMG_8000-200x300.jpg 200w, /images/allbsuploads/2012/07/IMG_8000-682x1024.jpg 682w" sizes="(max-width: 480px) 100vw, 480px" /></a>
-  
+
   <p class="wp-caption-text">
     Em and Jack with the Olympic Torch
   </p>

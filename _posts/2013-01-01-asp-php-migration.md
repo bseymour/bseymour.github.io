@@ -1,10 +1,10 @@
 ---
-id: 932
+layout: single
+author_profile: true
+type: pages
+
 title: 'ASP to PHP migration : PicasaWeb feed XSLT'
 date: 2013-01-01T17:37:07+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=932
 permalink: /2013/01/01/asp-php-migration/
 post_image:
   - /images/allbsuploads/2013/01/xslt.png

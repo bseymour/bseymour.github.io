@@ -1,10 +1,10 @@
 ---
-id: 794
+layout: single
+author_profile: true
+type: pages
+
 title: PicasaWeb export and Flickr Pro frustration
 date: 2012-08-25T19:57:29+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=794
 permalink: /2012/08/25/picasaweb-export-flickr-pro/
 post_image:
   - /images/allbsuploads/2012/08/flickr_pro.png

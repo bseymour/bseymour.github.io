@@ -1,10 +1,10 @@
 ---
-id: 1171
+layout: single
+author_profile: true
+type: pages
+
 title: 'Picasaweb —> Flickr migration'
 date: 2013-03-06T21:12:55+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1171
 permalink: /2013/03/06/picasaweb-flickr-migration/
 post_image:
   - /images/allbsuploads/2013/03/Screen-Shot-2013-03-06-at-07.51.22-copy.png

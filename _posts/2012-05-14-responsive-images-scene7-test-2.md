@@ -1,10 +1,10 @@
 ---
-id: 624
+layout: single
+author_profile: true
+type: pages
+
 title: 'Responsive Images &#8211; test #2'
 date: 2012-05-14T09:22:07+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=624
 permalink: /2012/05/14/responsive-images-scene7-test-2/
 post_image:
   - /images/allbsuploads/2012/05/Raspberry.jpg

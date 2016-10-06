@@ -1,10 +1,10 @@
 ---
-id: 1308
+layout: single
+author_profile: true
+type: pages
+
 title: 'Fluid &#8211; websites as Mac apps'
 date: 2013-05-16T18:51:04+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=1308
 permalink: /2013/05/16/fluid-websites-as-mac-apps/
 categories:
   - Mac
