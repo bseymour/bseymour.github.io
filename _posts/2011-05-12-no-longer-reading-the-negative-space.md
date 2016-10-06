@@ -1,10 +1,10 @@
 ---
-id: 23
+layout: single
+author_profile: true
+type: pages
+
 title: No longer reading the negative space
 date: 2011-05-12T12:53:07+00:00
-author: Ben
-layout: default
-guid: http://allbs.wordpress.com/?p=23
 permalink: /2011/05/12/no-longer-reading-the-negative-space/
 jabber_published:
   - 1305204787

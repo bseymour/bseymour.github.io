@@ -1,10 +1,10 @@
 ---
-id: 122
+layout: single
+author_profile: true
+type: pages
+
 title: Google Tasks
 date: 2011-06-12T01:39:53+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=122
 permalink: /2011/06/12/google-tasks/
 categories:
   - android

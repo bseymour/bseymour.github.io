@@ -1,10 +1,10 @@
 ---
-id: 257
+layout: single
+author_profile: true
+type: pages
+
 title: Stay hungry, stay foolish
 date: 2011-10-06T12:22:33+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=257
 permalink: /2011/10/06/stay-hungry-stay-foolish/
 categories:
   - general

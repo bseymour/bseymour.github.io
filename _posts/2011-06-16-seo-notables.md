@@ -1,10 +1,10 @@
 ---
-id: 140
+layout: single
+author_profile: true
+type: pages
+
 title: SEO notables
 date: 2011-06-16T21:07:06+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=140
 permalink: /2011/06/16/seo-notables/
 categories:
   - general

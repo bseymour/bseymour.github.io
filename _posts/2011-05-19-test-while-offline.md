@@ -1,10 +1,10 @@
 ---
-id: 43
+layout: single
+author_profile: true
+type: pages
+
 title: Test while offline
 date: 2011-05-19T11:35:38+00:00
-author: Ben
-layout: default
-guid: http://allbs.wordpress.com/2011/05/19/test-while-offline/
 permalink: /2011/05/19/test-while-offline/
 jabber_published:
   - 1305804939

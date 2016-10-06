@@ -1,10 +1,10 @@
 ---
-id: 110
+layout: single
+author_profile: true
+type: pages
+
 title: Microstock photography
 date: 2011-05-30T12:53:42+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=110
 permalink: /2011/05/30/microstock-photography/
 categories:
   - petproject

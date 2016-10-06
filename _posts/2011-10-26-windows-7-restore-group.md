@@ -1,10 +1,10 @@
 ---
-id: 263
+layout: single
+author_profile: true
+type: pages
+
 title: Windows 7 restore group
 date: 2011-10-26T10:46:48+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=263
 permalink: /2011/10/26/windows-7-restore-group/
 categories:
   - general

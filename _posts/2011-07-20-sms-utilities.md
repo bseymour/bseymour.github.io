@@ -1,10 +1,10 @@
 ---
-id: 172
+layout: single
+author_profile: true
+type: pages
+
 title: SMS Utilities (exit Skypekit, enter Tropo)
 date: 2011-07-20T08:33:14+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=172
 permalink: /2011/07/20/sms-utilities/
 categories:
   - general
@@ -14,21 +14,21 @@ I&#8217;ve been tinkering with some SMS based utilities for a little while using
 Enter <a title="SkypeKit" href="https://developer.skype.com" target="_blank">SkypeKit</a>: after months on the waiting list for the proper headless Skype SDK and runtime, I finally received my access (coincidentally just days after the Microsoft acquisition announcement).Unfortunately in reading the T&Cs prior to accessing the SkypeKit 3.4 Download :
 
 &#8220;At this time, the following use cases outside of consumer electronics are _**prohibited**_:&#8221;
-  
+
 &#8230;..
-  
+
 Web Applications
-  
+
 **Server Based Products**
-  
+
 Mobile Applications
-  
+
 Tablet Applications
-  
+
 &#8230;&#8230;
 
 I can only presume that this is a short term restriction as it seems at odds with the description on the SkypeKit home page:
-  
+
 &#8220;Get plugged into Skype with SkypeKit Ready to enable the world&#8217;s conversations in your devices or _**software**_?&#8221;
 
 Hopefully there will be a change to the T&C&#8217;s soon, but for now

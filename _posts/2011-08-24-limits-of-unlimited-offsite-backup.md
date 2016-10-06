@@ -1,10 +1,10 @@
 ---
-id: 49
+layout: single
+author_profile: true
+type: pages
+
 title: The limits of the unlimited (a.k.a. my offsite backup experiences)
 date: 2011-08-24T10:21:35+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=49
 permalink: /2011/08/24/limits-of-unlimited-offsite-backup/
 categories:
   - engagement

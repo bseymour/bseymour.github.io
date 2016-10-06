@@ -1,10 +1,10 @@
 ---
-id: 104
+layout: single
+author_profile: true
+type: pages
+
 title: fail constantly
 date: 2011-05-24T19:19:00+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=104
 permalink: /2011/05/24/fail-constantly/
 categories:
   - life

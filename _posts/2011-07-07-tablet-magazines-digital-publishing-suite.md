@@ -1,10 +1,10 @@
 ---
-id: 155
+layout: single
+author_profile: true
+type: pages
+
 title: 'Digital magazines don&#8217;t need to be so 2 dimensional'
 date: 2011-07-07T10:10:56+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=155
 permalink: /2011/07/07/tablet-magazines-digital-publishing-suite/
 categories:
   - android
@@ -18,7 +18,7 @@ Compared with some of the Digital Publishing Suite based magazines I’ve been l
 &nbsp;
 
 [Update 20 July 2011:] The latest release of the Zinio app for Android is much better.
-  
+
 Not a patch on the multi media rich DPS based digital magazines but a step in the right direction.
 
 Still no option to pay using Google checkout, but at least PayPal is there now.

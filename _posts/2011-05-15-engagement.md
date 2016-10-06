@@ -1,10 +1,10 @@
 ---
-id: 36
+layout: single
+author_profile: true
+type: pages
+
 title: (Commercial) Engagement
 date: 2011-05-15T18:02:00+00:00
-author: Ben
-layout: default
-guid: http://allbs.wordpress.com/?p=36
 permalink: /2011/05/15/engagement/
 jabber_published:
   - 1305490037

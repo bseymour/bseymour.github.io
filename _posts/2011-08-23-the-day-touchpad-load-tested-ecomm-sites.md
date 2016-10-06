@@ -1,10 +1,10 @@
 ---
-id: 207
+layout: single
+author_profile: true
+type: pages
+
 title: The day the TouchPad load-tested eComm sites
 date: 2011-08-23T11:03:53+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=207
 permalink: /2011/08/23/the-day-touchpad-load-tested-ecomm-sites/
 categories:
   - general

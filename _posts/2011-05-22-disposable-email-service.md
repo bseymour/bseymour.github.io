@@ -1,10 +1,10 @@
 ---
-id: 75
+layout: single
+author_profile: true
+type: pages
+
 title: Disposable email service
 date: 2011-05-22T19:04:03+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=75
 permalink: /2011/05/22/disposable-email-service/
 categories:
   - handy

@@ -1,10 +1,10 @@
 ---
-id: 313
+layout: single
+author_profile: true
+type: pages
+
 title: Picasa to Lightroom
 date: 2012-01-08T20:08:28+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=313
 permalink: /2012/01/08/picasa-lightroom/
 categories:
   - general
@@ -13,7 +13,7 @@ categories:
 ---
 For 5 years Picasa has been just what we needed for family day-to-day photo management, but lack of sync between multiple machines means it&#8217;s no longer tenable as my wife and I need to use our separate machines more and more.
 
-We&#8217;re going to start looking at transitioning over to Lightroom, and probably moving away from PicasaWeb as the host too. (Ideally I would like to use an Amazon Web Services hosted OpenPhoto based solution) 
+We&#8217;re going to start looking at transitioning over to Lightroom, and probably moving away from PicasaWeb as the host too. (Ideally I would like to use an Amazon Web Services hosted OpenPhoto based solution)
 
 I just hope we can find a workflow that is as simple and hassle free as the Picasa/PicasaWeb combination has been.
 

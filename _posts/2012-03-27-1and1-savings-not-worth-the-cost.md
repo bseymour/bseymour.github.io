@@ -1,10 +1,9 @@
 ---
-id: 436
+layout: single
+author_profile: true
+type: pages
 title: '1&#038;1 : the savings come at too great a cost'
 date: 2012-03-27T20:02:54+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=436
 permalink: /2012/03/27/1and1-savings-not-worth-the-cost/
 categories:
   - general

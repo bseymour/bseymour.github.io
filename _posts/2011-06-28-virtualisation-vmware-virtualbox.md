@@ -1,10 +1,10 @@
 ---
-id: 146
+layout: single
+author_profile: true
+type: pages
+
 title: 'Virtual Machines : VMware &#038; VirtualBox'
 date: 2011-06-28T18:50:21+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=146
 permalink: /2011/06/28/virtualisation-vmware-virtualbox/
 categories:
   - general

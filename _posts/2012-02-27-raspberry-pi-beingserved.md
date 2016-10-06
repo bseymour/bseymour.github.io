@@ -1,10 +1,10 @@
 ---
-id: 382
+layout: single
+author_profile: true
+type: pages
+
 title: Raspberry Pi is nearly being served
 date: 2012-02-27T15:27:12+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=382
 permalink: /2012/02/27/raspberry-pi-beingserved/
 Thumbnail:
   - http://ox10.it/allbs/wp-content/uploads/2012/02/RaspberryPiQR-300x300.png
@@ -17,7 +17,7 @@ They of course are aimed at quite different markets with in most cases rather co
 
 <div id="attachment_383" style="width: 310px" class="wp-caption aligncenter">
   <a href="http://ox10.it/allbs/wp-content/uploads/2012/02/RaspberryPiQR.png"><img class="size-medium wp-image-383" title="Raspberry Pi QR code" src="http://ox10.it/allbs/wp-content/uploads/2012/02/RaspberryPiQR-300x300.png" alt="Raspberry Pi QR code" width="300" height="300" srcset="/images/allbsuploads/2012/02/RaspberryPiQR-150x150.png 150w, /images/allbsuploads/2012/02/RaspberryPiQR-300x300.png 300w, /images/allbsuploads/2012/02/RaspberryPiQR.png 715w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
+
   <p class="wp-caption-text">
     Raspberry Pi QR code
   </p>

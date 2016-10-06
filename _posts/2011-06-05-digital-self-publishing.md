@@ -1,10 +1,10 @@
 ---
-id: 119
+layout: single
+author_profile: true
+type: pages
+
 title: Digital Self Publishing
 date: 2011-06-05T15:20:53+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/2011/06/05/digital-self-publishing/
 permalink: /2011/06/05/digital-self-publishing/
 categories:
   - handy

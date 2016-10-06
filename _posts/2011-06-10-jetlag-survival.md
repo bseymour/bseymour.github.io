@@ -1,10 +1,10 @@
 ---
-id: 121
+layout: single
+author_profile: true
+type: pages
+
 title: Jetlag survival
 date: 2011-06-10T00:37:25+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=121
 permalink: /2011/06/10/jetlag-survival/
 categories:
   - general

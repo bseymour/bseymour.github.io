@@ -1,10 +1,10 @@
 ---
-id: 418
+layout: single
+author_profile: true
+type: pages
+
 title: New (Elegant) WordPress Theme
 date: 2012-02-18T17:50:45+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=418
 permalink: /2012/02/18/elegant-wordress-theme/
 Thumbnail:
   - http://ox10.it/allbs/wp-content/uploads/2012/03/elegant_wordpress.png

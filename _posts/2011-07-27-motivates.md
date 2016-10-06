@@ -1,10 +1,10 @@
 ---
-id: 193
+layout: single
+author_profile: true
+type: pages
+
 title: What motivates us
 date: 2011-07-27T09:58:55+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=193
 permalink: /2011/07/27/motivates/
 categories:
   - inspiring

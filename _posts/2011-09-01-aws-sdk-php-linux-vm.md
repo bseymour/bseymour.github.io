@@ -1,10 +1,10 @@
 ---
-id: 246
+layout: single
+author_profile: true
+type: pages
+
 title: 'AWS sdk for PHP on Linux VM &#8211; time sync'
 date: 2011-09-01T13:52:50+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=246
 permalink: /2011/09/01/aws-sdk-php-linux-vm/
 categories:
   - general

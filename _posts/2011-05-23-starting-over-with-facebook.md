@@ -1,10 +1,10 @@
 ---
-id: 91
+layout: single
+author_profile: true
+type: pages
+
 title: Starting over with Facebook
 date: 2011-05-23T16:41:21+00:00
-author: Ben
-layout: default
-guid: http://ox10.it/allbs/?p=91
 permalink: /2011/05/23/starting-over-with-facebook/
 categories:
   - social
