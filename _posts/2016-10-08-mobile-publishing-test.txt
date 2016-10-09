@@ -1,0 +1,3 @@
+# iA Writer on iOS test post
+
+Testing out an iPhone based workflow for writing posts in iA Writer and pushing them to GitHub pages via Git2Go
