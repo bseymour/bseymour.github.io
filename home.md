@@ -8,10 +8,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: wallingford-bridge.jpg
   caption: "Photo credit: Emma Seymour"
-excerpt: "♦ eCommerce & Conversion Optimisation<br/>
+excerpt: "♦ eCommerce & Optimisation<br/>
           ♦ Dynamic Content Specialist<br/>
-          ♦ Responsive Images Advocate ♦ Author <br/>
-          ♦ Code Club volunteer & STEMNet Ambassador"
+          ♦ Responsive Images ♦ Author <br/>
+          ♦ Code Club ♦ STEMNet Ambassador"
 intro:
   - excerpt: '** This site is being migrated from Wordpress to gh-pages hosted Jekyll. Things might not always be as pretty as I would like **'
 feature_row:
