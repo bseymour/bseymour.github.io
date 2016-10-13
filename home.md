@@ -1,19 +1,18 @@
 ---
-title: "Ben Seymour, Oxford U.K."
+title: "Ben Seymour  (Oxford U.K.)"
 layout: splash
 permalink: /index.html
-date: 2016-03-23T11:48:41-04:00
+date: 2016-13-13T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: unsplash-image-1.jpg
-  cta_label: "Download"
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "The one based near Oxford, U.K. <br/>
-eCommerce & Dynamic/Rich Media ♦ Responsive Images ♦ Husband & Dad ♦ Motorbikes & cycling ♦ Code Club"
+  overlay_image: wallingford-bridge.jpg
+  caption: "Photo credit: Emma Seymour"
+excerpt: "♦ eCommerce and Dynamic Content Specialist<br/>
+          ♦ Responsive Images Advocate ♦ Author <br/>
+          ♦ Code Club volunteer & STEMNet Ambassador"
 intro:
-  - excerpt: 'With extensive experience in eCommerce, Dynamic/Rich Media, Conversion Optimisation, Digital Marketing – Ben Seymour has led the successful delivery of scores of projects for the largest global eCommerce clients and most prestigious brands.'
+  - excerpt: '** This site is being migrated from Wordpress to gh-pages hosted Jekyll. Things might not always be as pretty as I would like **'
 feature_row:
   - image_path: unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
