@@ -10,13 +10,17 @@ permalink: /work/
 <div>
   <div>
     <div>
+      Ben's <a href="https://www.linkedin.com/in/benseymour" target="_blank">LinkedIn Profile</a> is likely to be the most up to date.
+      <br/><br/>
+    </div>
+    <div>
       <div>
-        <span style="text-decoration: underline;"><strong>SUMMARY</strong></span>
+        <span style="text-decoration: underline;"><strong>Summary</strong></span>
       </div>
 
       <div>
         <p>
-          Extensive experience in eCommerce, Dynamic/Rich Media, Conversion Optimisation, Digital Marketing &#8211; leading the successful delivery of 100+ projects for online retailers and global brands.
+          Extensive experience in eCommerce, Dynamic Media and cutting-edge Dynamic Content solutions, Conversion Optimisation, Digital Marketing. Accomplished in both Technical Pre-Sales and leading the successful delivery of 100+ projects for leading global online retailers and prestigious global brands.
         </p>
 
         <p>
@@ -24,11 +28,14 @@ permalink: /work/
         </p>
 
         <p>
-          Regular presenter at UK developer/designer meet-ups (<a href="http://benseymour.com/speaking" target="_blank">http://benseymour.com/speaking</a>) and co-founder and organiser of the &#8220;NE Dev&#8221;​ meet-up in the North East.
+          Regular presenter at UK developer/designer meet-ups and co-founder and organiser of the &#8220;NE Dev&#8221;​ meet-up in the North East.
         </p>
 
         <p>
-          ♦ Significant role in establishing a new Dynamic Media Solution in the eCommerce marketplace<br /> ♦ Technology and Product Evangelism at Conferences and Customer/Developer Events<br /> ♦ Co-organiser of the &#8220;NE Dev&#8221;​ Developer Meet-up<br /> ♦ Overall responsibility for Professional Services Team and all client projects 2012/13<br /> ♦ Technical pre-sales for key and strategic Dynamic Media Solutions opportunities<br /> ♦ Conference and Webinar speaker as Adobe subject matter expert<br /> ♦ Directly helped retain and grow over $10M of business in FY 2011<br /> ♦ Overall responsibility for all Scene7 EMEA projects 2007-2010<br /> ♦ Technical pre-sales for appx $3M of business in FY09/10, and $2M FY 08/09
+        ♦ Technical Pre-Sales : exceeded EMEA Sales targets FY'16, consistent YoY growth. <br/>
+        ♦ Significant role in establishing new products in the eCommerce marketplace, supporting significant increases in AoV & YoY growth, expanding existing geographies, establishing a foothold in new territories. <br/>
+        ♦ Responsible for Professional Services and successful delivery of all client projects 2007-10, 2012-13 <br/>
+        ♦ Published Author, magazine contributor, Conference and Webinar speaker as subject matter expert, Technology and Product Evangelism for Customer and Developer Events. Co-organiser of the "NE Dev"​ Developer Meet-up
         </p>
 
         <p>
@@ -36,7 +43,10 @@ permalink: /work/
         </p>
 
         <p>
-          Comprehensive skill-set incorporating Technical Pre-Sales, Technology and Solution Evangelism, Solution Consulting, Team Leadership, Technical Project Management, Project Delivery, Business Analysis, Customer Advocacy, Customer Relationship Management.<br /> Created CodeParents.org, to help people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding
+          Diverse skill-set incorporating Technical Pre-Sales, Technology and Solution Evangelism, Solution Consulting, Team Leadership, Technical Project Management (PMP), Project Delivery, Business Analysis, Customer Advocacy, Customer Relationship Management.
+        </p>  
+
+        <p>Created CodeParents.org, to help people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding
         </p>
 
         <p>
@@ -52,6 +62,7 @@ permalink: /work/
 
       <div>
         <div>
+          <strong><u>Amplience</u></strong><br/>
           <strong>Director, Solutions Consulting</strong> (2012 &#8211; Present)
         </div>
 
@@ -60,12 +71,8 @@ permalink: /work/
         </div>
 
         <div>
-          Amplience
-        </div>
-
-        <div>
           <p>
-            Playing a significant role in establishing Amplience&#8217;s Dynamic Media solution in the eCommerce marketplace, I led the technical pre-sales engagements, have been extensively involved with RFPs, and then owned the post-sales projects and implementations as we established our initial Dynamic Media customer base, and continued to win over some of the largest global enterprises and brands to our platform.
+            Playing a significant role in establishing Amplience's Dynamic Media solution in the eCommerce marketplace, I led the technical pre-sales engagements, was a member of the core Product Management team, was extensively involved with RFPs, and then owned the post-sales projects and implementations as we established our initial Dynamic Media customer base, and continued to win over some of the most prestigious brands and largest global enterprises to our platform (including Shop Direct, Tesco and a global top 5 retailer I can't yet mention).
           </p>
 
           <p>
@@ -80,11 +87,8 @@ permalink: /work/
 
       <div>
         <div>
-          <strong>Senior Manager -> Senior Solution Specialist</strong> (2007 &#8211; 2012)
-        </div>
-
-        <div>
-          Adobe Systems
+        <strong><u>Adobe Systems</u></strong><br/>
+        <strong>Senior Manager -> Senior Solution Specialist</strong> (2007 &#8211; 2012)
         </div>
 
         <div>
@@ -104,30 +108,28 @@ permalink: /work/
             Adobe Scene7 is the industry-leading SaaS platform for automating the management, production and delivery of high-impact data-driven rich media. Enabling our large retailer/ecommerce clients to grow revenues, enhance customer experience and cut production costs.
           </p>
 
-          <p>
-            <strong>Co-Founder/CTO</strong> (2008 &#8211; present)
-          </p>
+        </div>
+      </div>
 
-          <p>
-            Save Your Past Ltd.
-          </p>
 
+      <div>
+        <div>
+        <strong><u>Save Your Past Ltd.</u></strong><br/>
+        <strong>Co-Founder/CTO</strong> (2008 &#8211; present)
+        </div>
+
+        <div>
           <p>
             Save Your Past specialises in helping people make the most of their pre-digital, and early-digital, precious memories.
           </p>
         </div>
       </div>
 
-      <div>
-      </div>
 
       <div>
         <div>
+          <strong><u>British Standards Institute</u></strong><br/>
           <strong>Committee member of IST41</strong> (2005 &#8211; 2009)
-        </div>
-
-        <div>
-          British Standards Institute
         </div>
 
         <div>
@@ -139,11 +141,8 @@ permalink: /work/
 
       <div>
         <div>
+          <strong><u>CSW Group Ltd</u></strong><br/>
           <strong>Technical Consultant (Team Lead) -> Technical Account/Project Manager</strong> (2004 &#8211; 2007)
-        </div>
-
-        <div>
-          CSW Group Ltd
         </div>
 
         <div>
@@ -162,11 +161,8 @@ permalink: /work/
 
       <div>
         <div>
+          <strong><u>Dendral (UK) Ltd</u></strong><br/>
           <strong>Senior Developer</strong> (2000 &#8211; 2003)
-        </div>
-
-        <div>
-          Dendral (UK) Ltd
         </div>
 
         <div>
@@ -196,43 +192,25 @@ permalink: /work/
         EDUCATION
       </div>
 
-      <div>
-        <div>
-          <strong>University of Liverpool</strong> (2004 &#8211; 2006)
-        </div>
+      <p>
+        <strong>MSc, Information Technology</strong>
+        <br/>
+        University of Liverpool</strong> (2004 &#8211; 2006)
+        <br/>
+        Dissertation: Topic Maps and Digital Social Trust Networks
+        <br/>
+      </p>
 
-        <div>
-          MSc, Information Technology
-        </div>
+      <p>
+        <strong>BSc, Physics, Mathematics (Joint Hons.)</strong>
+        <br/>
+        The University of Sheffield</strong> (1991 &#8211; 1994)
+        <br/>
+        Dissertation: Computational analysis of matter–antimatter annihilation using data from CERN.
+        <br/>
+        <em>Activities and societies:</em> Korfball &#8211; Captain, President, British Student Gold medal, Qualified Coach, University Colours.
+      </p>
 
-        <div>
-          Dissertation: Topic Maps and Digital Social Trust Networks
-        </div>
-      </div>
-
-      <div>
-        <div>
-        </div>
-
-        <div>
-          <strong>The University of Sheffield</strong> (1991 &#8211; 1994)
-        </div>
-
-        <div>
-          BSc, Physics, Mathematics (Joint Hons.)
-        </div>
-
-        <div>
-          Dissertation: Computational analysis of matter–antimatter annihilation using data from CERN.
-        </div>
-
-        <div>
-          <em>Activities and societies:</em> Korfball &#8211; Captain, President, British Student Gold medal, Qualified Coach, University Colours.
-        </div>
-
-        <div>
-        </div>
-      </div>
     </div>
 
     <div>
