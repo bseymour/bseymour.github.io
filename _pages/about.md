@@ -67,3 +67,27 @@ Matt E., Digital Content Manager
 > “He managed to teach me the product fundamentals over a single 2 hours meeting and I was amazed by how Ben can make even the most complex technology simple.”
 
 I.Baratz, Senior Consultant
+
+
+
+
+<hr/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+My Myers Briggs
+
+A couple of times a year someone brings up Myers-Briggs in conversation, and I rarely remember what mine is meant to be, so here seems as good a place as any to put it for future reference:
+
+Myers Briggs: ENFJ
+
+Extraverted (89%) iNtuitive (75%) Feeling (12%) Judging (56%)
+
+very expressed extravert
+distinctively expressed intuitive personality
+slightly expressed feeling personality
+moderately expressed judging personality
+eNFj : The Portrait of the educative mentor or  Teacher Idealist
+
+The Idealists called Teachers are abstract in their thought and speech, cooperative in their style of achieving goals, and directive and expressive in their interpersonal relations.
