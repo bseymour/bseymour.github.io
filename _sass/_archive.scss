@@ -41,6 +41,32 @@
   }
 }
 
+// adding layout styling for the post summary
+.post_object{
+  display: inline-block;
+  clear:both;
+  width: 95%;
+}
+
+.post_text{
+  width: 60%;
+  float: left;
+}
+
+.post_image{
+    float: right;
+    width: 40%;
+}
+
+.post_image img{
+    margin-top: 2em;
+    margin-left: 1em;
+    max-height: 150px;
+    border-radius: 25px;
+    align:right;
+  }
+
+
 /* remove border*/
 .page__content {
 
@@ -84,15 +110,15 @@
 
 .list__item {
   @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow;
+    // padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
+    // padding-right: $right-sidebar-width;
   }
 
   @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
+    // padding-right: $right-sidebar-width-wide;
   }
 
   .page__meta {
