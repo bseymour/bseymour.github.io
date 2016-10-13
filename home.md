@@ -16,19 +16,19 @@ intro:
   - excerpt: '** This site is being migrated from Wordpress to gh-pages hosted Jekyll. Things might not always be as pretty as I would like **'
 feature_row:
   - image_path: unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Writing"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Practical Responsive Images eBook"
+    title: "Practical Responsive Images"
+    excerpt: "This pocket guide considers the cost and value of images, reviews image formats and historic practices, and explores some of the new features and tools available to us, such that we can be in a position to undertake a practical approach to responsive images."
   - image_path: unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Speaking"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Save Your Past"
+    excerpt: "Save Your Past Ltd. specialises in helping you make the most of your pre-digital precious memories. We carefully transform your videos, photos, slides/negatives into a form where they will degrade no more, and can undertake digital restoration work to sensitively turn back the hands of time and rejuvenate them."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: unsplash-gallery-image-3-th.jpg
-    title: "Projects"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "code.parents()"
+    excerpt: "Code Parents is for people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding."
 feature_row2:
   - image_path: unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
