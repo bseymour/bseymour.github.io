@@ -1,22 +1,22 @@
 {
-  "name": "minimal-mistakes",
+  "name": "Ben Seymour dot com",
   "version": "3.4.6",
-  "description": "Minimal Mistakes Jekyll theme npm build scripts",
+  "description": "Ben Seymour dot com - forked from Minimal Mistakes Jekyll theme npm build scripts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git://github.com/bseymour/bseymour.github.io.git"
   },
   "keywords": [
     "jekyll",
     "theme",
     "minimal"
   ],
-  "author": "Michael Rose",
+  "author": "Ben Seymour",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/bseymour/bseymour.github.io/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://benseymour.com",
   "engines": {
     "node": ">= 0.10.0"
   },

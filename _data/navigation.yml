@@ -9,6 +9,9 @@ main:
   - title: "Speaking"
     url: /speaking
 
+  - title: "Blog"
+    url: /blog
+
   - title: "Writing"
     url: /writing
 
