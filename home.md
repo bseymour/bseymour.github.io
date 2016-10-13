@@ -1,5 +1,5 @@
 ---
-title: "Ben Seymour  (Oxford U.K.)"
+title: "Ben Seymour, Oxford UK"
 layout: splash
 permalink: /index.html
 date: 2016-13-13T11:48:41-04:00
@@ -8,7 +8,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: wallingford-bridge.jpg
   caption: "Photo credit: Emma Seymour"
-excerpt: "♦ eCommerce and Dynamic Content Specialist<br/>
+excerpt: "♦ eCommerce & Conversion Optimisation<br/>
+          ♦ Dynamic Content Specialist<br/>
           ♦ Responsive Images Advocate ♦ Author <br/>
           ♦ Code Club volunteer & STEMNet Ambassador"
 intro:
