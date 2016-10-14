@@ -8,11 +8,11 @@ header:
   overlay_filter: "0.5"
   overlay_image: jqueryuk-book.jpg
   caption: "Photo credit: Al Power"
-excerpt: "♦ eCommerce & Optimisation<br/>
-          ♦ Dynamic Content Specialist<br/>
-          ♦ Responsive Images ♦ Author <br/>
-          ♦ STEMNet Ambassador<br/>
-          ♦ Code Club"
+excerpt: "• eCommerce & Optimisation<br/>
+          • Dynamic Content Specialist<br/>
+          • Responsive Images • Author <br/>
+          • STEMNet Ambassador<br/>
+          • Code Club"
 intro:
   - excerpt: '** This site is being migrated from Wordpress to gh-pages hosted Jekyll. Things might not always be as pretty as I would like **'
 feature_row:
