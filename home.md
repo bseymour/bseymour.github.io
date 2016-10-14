@@ -6,7 +6,7 @@ date: 2016-13-13T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: jqueryuk-book2.jpg
+  overlay_image: jqueryuk-book.jpg
   caption: "Photo credit: Al Power"
 excerpt: "♦ eCommerce & Optimisation<br/>
           ♦ Dynamic Content Specialist<br/>
