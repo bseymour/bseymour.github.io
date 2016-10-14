@@ -29,5 +29,5 @@ permalink: /speaking/
 </div>
 
 <div>
-	<img src="http://benseymour.com/wp-content/uploads/2014/11/2014-10-08_SecWed-700x500.jpg" width="700" height="500" class=" wp-image-2420" alt="Photo: Ben Lumley https://www.facebook.com/whatnotphoto" />			
+	<img src="/images/secwed-700x500.jpg" width="700" height="500" class=" wp-image-2420" alt="Photo: Ben Lumley https://www.facebook.com/whatnotphoto" />			
 </div>
