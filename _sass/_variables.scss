@@ -12,6 +12,14 @@ $doc-font-size              : 16;
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
+
+/* Google Fonts - check /header/custom to see if loaded */
+$lato                       :'Lato', sans-serif;
+$opensans                   :'Open Sans', sans-serif;
+$abril                      :'Abril Fatface', cursive;
+$merriweather               :'Merriweather', serif;
+
+
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -28,8 +36,8 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $helvetica;
-$header-font-family         : $helvetica;
+$global-font-family         : $opensans;
+$header-font-family         : $merriweather;
 $caption-font-family        : $serif;
 
 /* type scale */

@@ -32,7 +32,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: codeparents1-th.jpg
     title: "code.parents()"
-    excerpt: "Code Parents is for people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding."
+    excerpt: "Code Parents is for people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding. Ben founded Code Parents, and is keen that it should develop into a community on contributors."
     url: "http://codeparents.org/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
