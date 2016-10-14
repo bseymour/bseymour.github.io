@@ -44,6 +44,12 @@ feature_row2:
     url: "/work"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+feature_row3:
+  - image_path: seymour-family-th.jpg
+    alt: "Seymour Family"
+    title: "Remembering Who I Work For"
+    excerpt: "Ben is also the co-founder of two energetic creative entities aged 10  & 7. He also enjoys motorbikes, mountain bikes, Formula1 and the occasional track day (most recently Lotus Exige and Audi R8 at Silverstone).<br/><br/> There are various less-public repositories of our very happy memories, which we tend to share with closer friends and family - ping me for an invitation if you don't already have access."
+
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -51,3 +57,5 @@ feature_row2:
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="center" %}
