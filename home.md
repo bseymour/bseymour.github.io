@@ -16,25 +16,28 @@ excerpt: "♦ eCommerce & Optimisation<br/>
 intro:
   - excerpt: '** This site is being migrated from Wordpress to gh-pages hosted Jekyll. Things might not always be as pretty as I would like **'
 feature_row:
-  - image_path: unsplash-gallery-image-1-th.jpg
+  - image_path: practical-responsive-images-book-and-speaking-th.jpg
     alt: "Practical Responsive Images eBook"
     title: "Practical Responsive Images"
     excerpt: "This pocket guide considers the cost and value of images, reviews image formats and historic practices, and explores some of the new features and tools available to us, such that we can be in a position to undertake a practical approach to responsive images."
-  - image_path: unsplash-gallery-image-2-th.jpg
+    url: "http://responsiveimag.es/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: SaveYourPast2-th.jpg
     alt: "placeholder image 2"
     title: "Save Your Past"
     excerpt: "Save Your Past Ltd. specialises in helping you make the most of your pre-digital precious memories. We carefully transform your videos, photos, slides/negatives into a form where they will degrade no more, and can undertake digital restoration work to sensitively turn back the hands of time and rejuvenate them."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: unsplash-gallery-image-3-th.jpg
+  - image_path: codeparents1-th.jpg
     title: "code.parents()"
     excerpt: "Code Parents is for people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding."
 feature_row2:
   - image_path: unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    title: "Dynamic Media and Dynamic Content Specialist"
+    excerpt: 'A decade of leading projects leveraging industry-leading SaaS Dynamic Media and Dynamic Content solutions. (headless CMS).net magazine industry expert, conference speaker (including Adobe Summit) This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
