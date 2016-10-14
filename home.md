@@ -1,17 +1,18 @@
 ---
-title: "Ben Seymour, Oxford UK"
+title: "Ben Seymour"
 layout: splash
 permalink: /index.html
 date: 2016-13-13T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: wallingford-bridge.jpg
-  caption: "Photo credit: Emma Seymour"
+  overlay_image: jqueryuk-book2.jpg
+  caption: "Photo credit: Al Power"
 excerpt: "♦ eCommerce & Optimisation<br/>
           ♦ Dynamic Content Specialist<br/>
           ♦ Responsive Images ♦ Author <br/>
-          ♦ Code Club ♦ STEMNet Ambassador"
+          ♦ STEMNet Ambassador<br/>
+          ♦ Code Club"
 intro:
   - excerpt: '** This site is being migrated from Wordpress to gh-pages hosted Jekyll. Things might not always be as pretty as I would like **'
 feature_row:
