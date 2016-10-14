@@ -19,6 +19,9 @@ $opensans                   :'Open Sans', sans-serif;
 $abril                      :'Abril Fatface', cursive;
 $merriweather               :'Merriweather', serif;
 
+/* Typekit fonts - check /header/custom to see if loaded */
+$tisa                       : "ff-tisa-web-pro",serif;
+$futura                     : "futura-pt",sans-serif;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
@@ -36,8 +39,8 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $opensans;
-$header-font-family         : $merriweather;
+$global-font-family         : $tisa;
+$header-font-family         : $futura;
 $caption-font-family        : $serif;
 
 /* type scale */
