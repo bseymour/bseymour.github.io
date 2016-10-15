@@ -19,6 +19,8 @@ $opensans                   :'Open Sans', sans-serif;
 $abril                      :'Abril Fatface', cursive;
 $merriweather               :'Merriweather', serif;
 $roboto                     :'Roboto', sans-serif;
+$sourcecode                 :'Source Code Pro', monospace;
+$raleway                    :'Raleway', sans-serif;
 
 /* Typekit fonts - check /header/custom to see if loaded */
 $tisa                       : "ff-tisa-web-pro",serif;
@@ -26,7 +28,7 @@ $futura                     : "futura-pt",sans-serif;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "Raleway",-apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -41,7 +43,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $opensans;
-$header-font-family         : $opensans;
+$header-font-family         : $raleway;
 $caption-font-family        : $serif;
 
 /* type scale */
