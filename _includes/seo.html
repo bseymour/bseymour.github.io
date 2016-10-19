@@ -10,6 +10,11 @@
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% endif %}
 
+<!-- Enable specific title to be declared, overwriting the standard MM approach -->
+{% if page.custom_title %}
+  {% assign seo_title = page.custom_title %}
+{% endif %}
+
 {% if seo_title %}
   {% assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}

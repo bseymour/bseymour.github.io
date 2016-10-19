@@ -1,5 +1,6 @@
 ---
 title: "Ben Seymour"
+custom_title: "Ben Seymour, Oxford U.K. - eCommerce & Dynamic Content Specialist, Responsive Images Advocate"
 layout: splash
 permalink: /index.html
 date: 2016-13-13T11:48:41-04:00
