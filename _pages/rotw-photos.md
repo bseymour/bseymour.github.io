@@ -5,6 +5,10 @@ date: 2016-10-19T09:00:00+00:00
 type: pages
 permalink: /reflecting/
 title: Reflecting on the Weekend - Photos
+
+sidebar:
+    nav: "sidenav"
+
 ---
 ## Reflecting on the Weekend - Photo collages
 

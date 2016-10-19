@@ -14,3 +14,21 @@ main:
 
   - title: "Blog"
     url: /blog
+    
+
+sidenav:
+  - title: Photos
+    children:
+      - title: "Reflecting on the Weekend"
+        url: /reflecting
+      - title: "Test 2"
+        url: /
+      - title: "Test 3"
+        url: /
+
+  - title: Memories
+    children:
+      - title: "DefMo"
+        url: /
+      - title: "Annual"
+        url: /
