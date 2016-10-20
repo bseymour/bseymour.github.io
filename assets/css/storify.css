@@ -7,6 +7,10 @@ body{
   background-color: rgb(0, 0, 0);
 }
 
+.s-story{
+  background-color: rgb(0, 0, 0);
+}
+
 /* Change the font */
 h1, h2, div {
   font-family: Arial, Verdana !important;
