@@ -29,8 +29,8 @@ sidenav:
         url: /2016stream
       - title: "Sketches"
         url: /sketches
-      - title: "Instagram [TODO]"
-        url: /
+      - title: "Instagram [external]"
+        url: https://www.instagram.com/boseymour/
 
   - title: Memories
     children:

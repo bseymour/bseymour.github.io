@@ -12,6 +12,6 @@ sidebar:
 ---
 ## Photos - Categories
 
-Lots more work to be done here - but for now, please use the left nav to access the specific categories of photo collections as I put them together.
+Lots more work to be done here - but for now, please **use the left nav** to access the specific categories of photo collections as I put them together.
 
-For family and friends, there are much larger collections of none-public albums - ping me if you don't already have access to these.
+(For family and friends, there are much larger collections of none-public albums - ping me if you don't already have access to these.)
