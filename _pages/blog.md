@@ -2,6 +2,8 @@
 layout: archive
 author_profile: true
 permalink: /blog/
+sidebar:
+    nav: "core_sidenav"
 ---
 
 {% include base_path %}

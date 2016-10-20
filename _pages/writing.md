@@ -5,7 +5,8 @@ title: Writing
 date: 2016-10-05T09:00:00+00:00
 type: pages
 permalink: /writing/
-
+sidebar:
+    nav: "core_sidenav"
 ---
 ###### My main tech writing is on my &#8220;All BS&#8221; blog: <http://allbs.co.uk> , below are some popular posts:
 

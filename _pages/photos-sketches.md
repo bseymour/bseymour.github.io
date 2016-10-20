@@ -7,7 +7,7 @@ permalink: /sketches/
 title: Sketches
 
 sidebar:
-    nav: "sidenav"
+    nav: "photos_sidenav"
 
 ---
 ## Sketches, by Ben

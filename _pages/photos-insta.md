@@ -7,7 +7,7 @@ permalink: /instagram/
 title: My Instagram Feed
 
 sidebar:
-    nav: "sidenav"
+    nav: "photos_sidenav"
 
 ---
 

@@ -2,6 +2,8 @@
 layout: archive
 author_profile: true
 permalink: /videolist/
+sidebar:
+    nav: "core_sidenav"
 ---
 
 

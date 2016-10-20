@@ -7,7 +7,7 @@ permalink: /reflecting/
 title: Reflecting on the Weekend - Photos collages
 
 sidebar:
-    nav: "sidenav"
+    nav: "photos_sidenav"
 
 ---
 My working week typically starts with a 2 hour drive/train/walk/tube/walk to the office (or flight out from Heathrow visiting our Continental European customers). During this time, I enjoy perusing some of the photos we took over the weekend (either direct on my phone, or via dropbox and our home collation process) and endeavour to form a small collage (using Diptic) of the highlights.

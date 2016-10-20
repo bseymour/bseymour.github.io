@@ -5,7 +5,8 @@ date: 2016-10-20T09:00:00+00:00
 type: pages
 permalink: /bookmarks/
 title: Recent Bookmarks - from Pinboard
-
+sidebar:
+    nav: "core_sidenav"
 ---
 Basic page displaying my recent public bookmarks from [Pinboard](https://pinboard.in).
 

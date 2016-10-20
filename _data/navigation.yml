@@ -18,8 +18,19 @@ main:
   - title: "Photos"
     url: /photos
 
+#basic links for side nav
+core_sidenav:
+  - title: "Links"
+    children:
+    - title: "About"
+      url: /about
+    - title: Photos
+      url: /photos
+    - title: Bookmarks
+      url: /bookmarks
 
-sidenav:
+
+photos_sidenav:
   - title: Photos
     url: /photos
     children:

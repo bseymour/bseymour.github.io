@@ -5,7 +5,8 @@ title: Speaking
 date: 2016-10-05T09:00:00+00:00
 type: pages
 permalink: /speaking/
-
+sidebar:
+    nav: "core_sidenav"
 ---
 * * *
 
