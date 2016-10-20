@@ -65,7 +65,7 @@ sidebar:
   </h1>
 
   <p>
-    STEMnet Ambassador and Code Club, volunteering to inspire young people in Science, Technology, Engineering and Mathematics (STEM). Organising and running a Code Club for Year 5 & 6 pupils; It&#8217;s amazing what you can learn, when you try to teach something <img src="http://benseymour.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+    STEMnet Ambassador and Code Club, volunteering to inspire young people in Science, Technology, Engineering and Mathematics (STEM). Organising and running a Code Club for Year 5 & 6 pupils; It&#8217;s amazing what you can learn, when you try to teach something.
   </p>
 </div>
 

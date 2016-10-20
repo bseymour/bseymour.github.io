@@ -20,20 +20,19 @@ sidebar:
   </p>
 </div>
 
-
 <div>
-	<h3>Are You Sitting Comfortably : MKGN : March 6th 2015</h3>
+	<h3>Making The Most Of Your Fears : MKGN : September 2016</h3>
 	<p>
-    <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/45556253" width="700" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen">
+    <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/ygPmJ7y71Eu4Hm" width="700" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen">
     </iframe>
   </p>
 </div>
 
 
 <div>
-	<h3>Making The Most Of Your Fears : MKGN : September 2016</h3>
+	<h3>Are You Sitting Comfortably : MKGN : March 6th 2015</h3>
 	<p>
-    <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/ygPmJ7y71Eu4Hm" width="700" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen">
+    <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/45556253" width="700" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen">
     </iframe>
   </p>
 </div>
