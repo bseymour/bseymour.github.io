@@ -14,21 +14,29 @@ main:
 
   - title: "Blog"
     url: /blog
-    
+
+  - title: "Photos"
+    url: /photos
+
 
 sidenav:
   - title: Photos
+    url: /photos
     children:
       - title: "Reflecting on the Weekend"
         url: /reflecting
-      - title: "Test 2"
-        url: /
-      - title: "Test 3"
+      - title: "2016 Photostream"
+        url: /2016stream
+      - title: "Sketches"
+        url: /sketches
+      - title: "Instagram [TODO]"
         url: /
 
   - title: Memories
     children:
-      - title: "DefMo"
+      - title: "Seymour Photos [external]"
+        url: http://www.seymour.photos/
+      - title: "Annual [TODO]"
         url: /
-      - title: "Annual"
+      - title: "DefMo [TODO]"
         url: /
