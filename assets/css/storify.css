@@ -1,0 +1,4 @@
+/* Hide the Storify header */
+.s-header .s-info {
+  display: none;
+}
