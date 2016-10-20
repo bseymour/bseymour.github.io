@@ -29,6 +29,27 @@ sidebar:
   </p>
 </div>
 
+
 <div>
+	<h3>Making The Most Of Your Fears : MKGN : September 2016</h3>
+	<p>
+    <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/ygPmJ7y71Eu4Hm" width="700" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen">
+    </iframe>
+  </p>
+</div>
+
+<div>
+  <h2>Second Wednesday - Nottingham</h2>
 	<img src="/images/secwed-700x500.jpg" width="700" height="500" class=" wp-image-2420" alt="Photo: Ben Lumley https://www.facebook.com/whatnotphoto" />			
+</div>
+
+<div>
+  <h2>Qubit - Bright Sparks - Expert Panel</h2>
+	<img src="/images/qubit-700x500.jpg" width="700" height="500" class=" wp-image-2420" alt="Qubit Bright Sparks - Ben Seymour" />			
+</div>
+
+
+<div>
+  <h2>Adobe Summit - Optimising Your Mobile Experience</h2>
+	<img src="/images/adobe-summit-ben-seymour.png" width="639" height="357" class=" wp-image-2420" alt="Adobe Summit - Ben Seymour" />			
 </div>
