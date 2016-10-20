@@ -1,5 +1,5 @@
 /* Hide the Storify header */
-.s-header .s-info {
+.s-header .s-info .footer {
   display: none;
 }
 
