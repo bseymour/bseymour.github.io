@@ -3,6 +3,10 @@
   display: none;
 }
 
+body{
+  background-color: #000;
+}
+
 /* Change the font */
 h1, h2, div {
   font-family: Arial, Verdana !important;
