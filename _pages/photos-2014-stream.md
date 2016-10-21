@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 date: 2016-10-20T09:00:00+00:00
 type: pages
-permalink: /2015stream/
+permalink: /2014stream/
 title: 2014 Photo Stream (mostly non-family)
 
 sidebar:
