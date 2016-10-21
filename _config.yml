@@ -10,10 +10,10 @@ locale                   : "en-GB"
 title                    : "Ben Seymour"
 title_separator          : "-"
 name                     : "Oxford U.K. - eCommerce & Dynamic Content Specialist, Responsive Images Advocate"
-description              : "The core online presence of Ben Seymour (Oxford, U.K.), eCommerce & Dynamic Content Specialist, Responsive Images Advocate"
-url                      : # the base hostname & protocol for your site
+description              : "The core online presence of Ben Seymour (Oxford, U.K.)"
+url                      : "https://benseymour.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : bseyour/bseymour.github.io # GitHub username/repo-name
+repository               : bseyour/bseymour.github.io # GitHub username/repo-name 
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -171,7 +171,7 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
-# paginate_path: page:num/
+# paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
