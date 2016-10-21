@@ -18,7 +18,7 @@ I've always admired the skills and guts of people who are willing to creatively 
 [TODO ** Also, content currently appears to be duplicated]
 [TODO - add on-click to see larger image]
 
-<article></article>
+<article id="gallery"></article>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 
@@ -43,7 +43,7 @@ $(function() {
         if(result=="success"){
             var photos = data.photoset.photo;
             for(var i=0; i<photos.length; i++){
-                $('<img class="gallery_image" >').attr("src",photos[i].url_s).appendTo("article");
+                $('<a href="' + photos[i].url_o + '" ><img class="gallery_image" src="' + photos[i].url_s + '" ></a>').appendTo("#gallery");
             }
         }
     }
