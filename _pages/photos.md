@@ -16,6 +16,12 @@ Lots more work to be done here - but for now, please **use the left nav** to acc
 
 [Reflecting on the Weekend](/reflecting)
 
+[Sketches](/sketches)
+
 [2016 Photostream](/2016stream)
 
-[Sketches](/sketches)
+[2015 Photostream](/2015stream)
+
+[2014 Photostream](/2014stream)
+
+[2013 Photostream](/2013stream)
