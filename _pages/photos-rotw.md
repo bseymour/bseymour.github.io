@@ -15,9 +15,11 @@ My working week typically starts with a 2 hour drive/train/walk/tube/walk to the
 In this very basic initial construction of the page, the images below are brought in via a public Flickr set of the collages I regularly make and share, and just displayed inline.
 (More info on the Flickr API : https://www.flickr.com/services/api/explore/flickr.photosets.getPhotos )
 
-<article>
+<article id="gallery"></article>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+<link rel="stylesheet" media="screen, projection" href="../assets/css/luminous-basic.min.css">
 
 <script type="text/javascript">
 $(function() {
@@ -40,11 +42,22 @@ $(function() {
         if(result=="success"){
             var photos = data.photoset.photo;
             for(var i=0; i<photos.length; i++){
-                $('<img class="gallery_image" >').attr("src",photos[i].url_m).appendTo("article");
+                $('<a href="' + photos[i].url_m + '" class="gallery_a"><img class="gallery_image" src="' + photos[i].url_s + '" ></a>').appendTo("#gallery");
             }
+            loadLuminous();
         }
     }
 });
 </script>
 
-</article>
+
+<script src="../assets/js/Luminous.min.js"></script>
+<script>
+  function loadLuminous(){
+      new LuminousGallery(document.querySelectorAll('.gallery_a'), {}, {
+        caption: function(trigger) {
+          return trigger.querySelector('img').getAttribute('alt');
+        }
+      });
+  };
+</script>

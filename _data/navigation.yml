@@ -36,18 +36,21 @@ photos_sidenav:
     children:
       - title: "Reflecting on the Weekend"
         url: /reflecting
-      - title: "2016 Photostream"
-        url: /2016stream
       - title: "Sketches"
         url: /sketches
-      - title: "Instagram [external]"
-        url: https://www.instagram.com/boseymour/
+      - title: "2016 Photostream"
+        url: /2016stream
+
 
   - title: Memories
     children:
+      - title: "2015 Photostream"
+        url: /2015stream
+      - title: "2014 Photostream"
+        url: /2014stream
+      - title: "2013 Photostream"
+        url: /2013stream
       - title: "Seymour Photos [external]"
         url: http://www.seymour.photos/
-      - title: "Annual [TODO]"
-        url: /
       - title: "DefMo [TODO]"
         url: /
