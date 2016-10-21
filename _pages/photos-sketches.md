@@ -16,7 +16,7 @@ I've always admired the skills and guts of people who are willing to creatively 
 
 Click on an image to see a larger view ('escape' to exit)
 
-[TODO: apply some layout and design elements to the gallery - for now it is just a inline stream.]
+[TODO: apply some layout and design elements to the gallery - for now it is just a inline stream..]
 
 <article id="gallery"></article>
 
