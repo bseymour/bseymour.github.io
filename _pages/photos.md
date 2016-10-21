@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 date: 2016-10-20T09:00:00+00:00
 type: pages
 permalink: /photos/
