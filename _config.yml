@@ -7,7 +7,6 @@
 
 # Site Settings
 locale                   : "en-GB"
-future                   : true
 title                    : "Ben Seymour"
 title_separator          : "-"
 name                     : "Oxford U.K. - eCommerce & Dynamic Content Specialist, Responsive Images Advocate"
