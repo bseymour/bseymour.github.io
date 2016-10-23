@@ -17,3 +17,7 @@ Go to : [All Posts Archive](/blog_archive)
 {% endfor %}
 
 Go to : [All Posts Archive](/blog_archive)
+
+{% for tag in tags %}
+	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+{% endfor %}

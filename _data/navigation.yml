@@ -30,6 +30,24 @@ core_sidenav:
       url: /bookmarks
 
 
+blog_sidenav:
+  - title: Blog Posts
+    url: /blog
+    children:
+      - title: "Categories [TODO]"
+        url: /
+      - title: "Tags [TODO]"
+        url: /
+  - title: "Links"
+    children:
+    - title: "About"
+      url: /about
+    - title: Photos
+      url: /photos
+    - title: Bookmarks
+      url: /bookmarks
+
+
 photos_sidenav:
   - title: Photos
     url: /photos

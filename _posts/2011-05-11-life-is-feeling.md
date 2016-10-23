@@ -8,6 +8,8 @@ date: 2011-05-11T11:53:21+00:00
 permalink: /2011/05/11/life-is-feeling/
 categories:
   - life
+category: personal
+tags: [life, perspective]
 ---
 Life is Feeling.
 
