@@ -24,7 +24,7 @@ Map the subdomain to the cloudfront ID -(I used my server&#8217;s cPanel&#8217;s
 
 img:mydomain.co.uk : qwerty12345.cloudfront.net
 
-er&#8230; that&#8217;s it <img src="http://allbs.co.uk/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+er&#8230; that&#8217;s it :)
 
 Now \_any\_ image previously served via:
 
