@@ -4,7 +4,7 @@ author_profile: true
 type: pages
 title: Testing testing 123
 date: 2016-10-23T2:09:00+00:00
-post_image: /images/posts/default.jpg
+post_image: /images/posts/default.png
 permalink: /2016/10/23/Testing-testing-123
 categories:
   - general
