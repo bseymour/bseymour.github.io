@@ -6,8 +6,7 @@ type: pages
 title: 2012 Olympics Gymnastics qualifiers
 date: 2012-01-12T22:50:49+00:00
 permalink: /2012/01/12/2012-olympics-gymnastics-qualifiers/
-post_image:
-  - /images/allbsuploads/2012/01/DSC06256-150x150.jpg
+post_image: /images/allbsuploads/2012/01/DSC06256-150x150.jpg
 categories:
   - inspiring
   - life
@@ -25,13 +24,13 @@ Congratulations to team GB who needed to come at least 4th in order to qualify f
 <div id='gallery-3' class='gallery galleryid-349 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://allbs.co.uk/2012/01/12/2012-olympics-gymnastics-qualifiers/dsc06531/'><img width="150" height="150" src="/images/allbsuploads/2012/01/DSC06531-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="DSC06531" /></a>
+      <a href="/2012/01/12/2012-olympics-gymnastics-qualifiers/dsc06531/'><img width="150" height="150" src="/images/allbsuploads/2012/01/DSC06531-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="DSC06531" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://allbs.co.uk/2012/01/12/2012-olympics-gymnastics-qualifiers/dsc06256/'><img width="150" height="150" src="/images/allbsuploads/2012/01/DSC06256-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="DSC06256" /></a>
+      <a href="/2012/01/12/2012-olympics-gymnastics-qualifiers/dsc06256/'><img width="150" height="150" src="/images/allbsuploads/2012/01/DSC06256-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="DSC06256" /></a>
     </dt>
   </dl>
 
@@ -39,13 +38,13 @@ Congratulations to team GB who needed to come at least 4th in order to qualify f
 
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://allbs.co.uk/2012/01/12/2012-olympics-gymnastics-qualifiers/dsc06362/'><img width="150" height="150" src="/images/allbsuploads/2012/01/DSC06362-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="DSC06362" /></a>
+      <a href="/2012/01/12/2012-olympics-gymnastics-qualifiers/dsc06362/'><img width="150" height="150" src="/images/allbsuploads/2012/01/DSC06362-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="DSC06362" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://allbs.co.uk/2012/01/12/2012-olympics-gymnastics-qualifiers/dsc06573/'><img width="150" height="150" src="/images/allbsuploads/2012/01/DSC06573-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="DSC06573" /></a>
+      <a href="/2012/01/12/2012-olympics-gymnastics-qualifiers/dsc06573/'><img width="150" height="150" src="/images/allbsuploads/2012/01/DSC06573-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="DSC06573" /></a>
     </dt>
   </dl>
 
@@ -53,7 +52,7 @@ Congratulations to team GB who needed to come at least 4th in order to qualify f
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://allbs.co.uk/2012/01/12/2012-olympics-gymnastics-qualifiers/dsc06259/'><img width="150" height="150" src="/images/allbsuploads/2012/01/DSC06259-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Olympics Gym Qualifiers 1" /></a>
+      <a href="/2012/01/12/2012-olympics-gymnastics-qualifiers/dsc06259/'><img width="150" height="150" src="/images/allbsuploads/2012/01/DSC06259-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Olympics Gym Qualifiers 1" /></a>
     </dt>
   </dl>
 

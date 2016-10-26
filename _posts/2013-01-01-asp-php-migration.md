@@ -12,7 +12,7 @@ categories:
   - general
   - quicktip
 ---
-I&#8217;ve been transferring most of my hosting away from 1&1 [<a title="1&1 : the savings come at too great a cost" href="http://allbs.co.uk/2012/03/27/1and1-savings-not-worth-the-cost/" target="_blank">previous blog article</a>] and as part of that I am also moving from ASP hosting services to PHP. I have been using XSLT to transform a feed from PicasaWeb to create a simple interface to browse our family photos, and so needed to convert these ASP pages to PHP (the XSL will initially remain the same, though I should also really update the design)
+I&#8217;ve been transferring most of my hosting away from 1&1 [<a title="1&1 : the savings come at too great a cost" href="/2012/03/27/1and1-savings-not-worth-the-cost/" target="_blank">previous blog article</a>] and as part of that I am also moving from ASP hosting services to PHP. I have been using XSLT to transform a feed from PicasaWeb to create a simple interface to browse our family photos, and so needed to convert these ASP pages to PHP (the XSL will initially remain the same, though I should also really update the design)
 
 The minor changes needed were as follows:
 
@@ -52,4 +52,4 @@ echo $proc->transformToXML($xmlDoc);
 
  <span style="color: #808080;">Response.write (mm_xsl.Transform());</span>
 
-The temporary home of the migrated page is:<a title="Seymour Potential - PicasaWeb feed" href="http://allbs.co.uk/picasa/picasa.php" target="_blank"> http://allbs.co.uk/picasa/picasa.php</a>
+The temporary home of the migrated page is:<a title="Seymour Potential - PicasaWeb feed" href="/picasa/picasa.php" target="_blank"> http://allbs.co.uk/picasa/picasa.php</a>

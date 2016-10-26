@@ -17,7 +17,7 @@ Currently Director of Solution Consulting (previously Director, Professional Ser
 
 Based near Oxford, Ben is a STEMnet Ambassador and Code Club volunteer, teaching coding and computer skills to Primary School children, and relishes the challenges of helping individuals and organisations to pragmatically make more of the potential available to them through the latest tools in today’s fast paced digital world.
 
-Ben&#8217;s personal blog is called &#8220;All BS&#8221;, and can be found at: <a title="All BS : the Peronsal Blog of Ben Seymour" href="http://allbs.co.uk/" target="_blank">http://allbs.co.uk/</a>
+Ben&#8217;s personal blog is called &#8220;All BS&#8221;, and can be found at: <a title="All BS : the Personal Blog of Ben Seymour" href="http://benseymour.com/blog" target="_blank">http://benseymour.com/blog</a>
 
 He is passionate about evangelising the benefits of Responsive Images & Dynamic Media Systems, presenting at conferences and community events, and curates: <a title="Practical Responsive Images" href="http://responsiveimag.es/" target="_blank">http://responsiveimag.es/</a>
 

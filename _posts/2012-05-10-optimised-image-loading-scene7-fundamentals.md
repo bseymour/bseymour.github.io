@@ -36,9 +36,9 @@ This can be especially important for your mobile visitors, who may well be on lo
 
 As an example, if you open the following to pages and tab between them, and you will hopefully agree that visually there is very little difference between them, yet the image file weights for one of them is around 70% lower:
 
-<a title="http://allbs.co.uk/richmedia/scene7/products_high.html" href="http://allbs.co.uk/richmedia/scene7/products_high.html" target="_blank">http://allbs.co.uk/richmedia/scene7/products_high.html</a>
+<a title="http://allbs.co.uk/richmedia/scene7/products_high.html" href="/richmedia/scene7/products_high.html" target="_blank">http://allbs.co.uk/richmedia/scene7/products_high.html</a>
 
-<a title="http://allbs.co.uk/richmedia/scene7/products_med.html" href="http://allbs.co.uk/richmedia/scene7/products_med.html" target="_blank">http://allbs.co.uk/richmedia/scene7/products_med.html</a>
+<a title="http://allbs.co.uk/richmedia/scene7/products_med.html" href="/richmedia/scene7/products_med.html" target="_blank">http://allbs.co.uk/richmedia/scene7/products_med.html</a>
 
 [<img class="wp-image-565 alignnone" title="Fruit Gallery" src="/images/allbsuploads/2012/05/FruitGallery.png" alt="" width="450" height="457" />](http://ox10.it/allbs/richmedia/scene7/products_high.html)
 

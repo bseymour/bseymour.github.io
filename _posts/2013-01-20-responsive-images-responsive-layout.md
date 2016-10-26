@@ -55,7 +55,7 @@ $(&#8216;<img src=&#8221;&#8216; + ampBase + imageid + &#8216;?w=&#8217; + (((ar
 
 You can see the live example here:
 
-<a title="Responsive Images and layout" href="http://allbs.co.uk/richmedia/amplience/ADM/" target="_blank">http://allbs.co.uk/richmedia/amplience/ADM/</a>
+<a title="Responsive Images and layout" href="/richmedia/amplience/ADM/" target="_blank">http://allbs.co.uk/richmedia/amplience/ADM/</a>
 
 (This test page has an auto reload on page resize bigger than 10px difference, which would be incredibly inefficient for live use, but is useful as for now this is just for demonstration purposes )
 

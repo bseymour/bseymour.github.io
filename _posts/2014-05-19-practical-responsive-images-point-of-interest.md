@@ -15,7 +15,7 @@ categories:
   - Responsive Images
   - Rich Media
 ---
-Following on from yesterday&#8217;s <a title="Practical Responsive Images with Picturefill" href="http://allbs.co.uk/2014/05/17/practical-responsive-images-with-picturefill-1/" target="_blank">Practical Responsive Images</a> post, the next example use of the < picture > element (and using Picturefill), is to apply a point-of-interest crop to an image to maintain the desired focus at different breakpoints.
+Following on from yesterday&#8217;s <a title="Practical Responsive Images with Picturefill" /2014/05/17/practical-responsive-images-with-picturefill-1/" target="_blank">Practical Responsive Images</a> post, the next example use of the < picture > element (and using Picturefill), is to apply a point-of-interest crop to an image to maintain the desired focus at different breakpoints.
 
 ## Demo : <span style="color: #ff0000;"><a href="http://responsiveimag.es/picturefill2_cropApples.html"><span style="color: #ff0000;">http://responsiveimag.es/picturefill2_cropApples.html</span></a></span>
 
@@ -43,7 +43,7 @@ Even Kindle Paperwhite’s view of that page:
 
 &nbsp;
 
-`Following on from yesterday&#8217;s <a title="Practical Responsive Images with Picturefill" href="http://allbs.co.uk/2014/05/17/practical-responsive-images-with-picturefill-1/" target="_blank">Practical Responsive Images</a> post, the next example use of the < picture > element (and using Picturefill), is to apply a point-of-interest crop to an image to maintain the desired focus at different breakpoints.
+`Following on from yesterday&#8217;s <a title="Practical Responsive Images with Picturefill" href="/2014/05/17/practical-responsive-images-with-picturefill-1/" target="_blank">Practical Responsive Images</a> post, the next example use of the < picture > element (and using Picturefill), is to apply a point-of-interest crop to an image to maintain the desired focus at different breakpoints.
 
 ## Demo : <span style="color: #ff0000;"><a href="http://responsiveimag.es/picturefill2_cropApples.html"><span style="color: #ff0000;">http://responsiveimag.es/picturefill2_cropApples.html</span></a></span>
 

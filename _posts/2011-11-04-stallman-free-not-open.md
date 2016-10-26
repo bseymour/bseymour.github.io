@@ -30,13 +30,13 @@ Whatever you don&#8217;t put that picture you took of him on Facebook!
 <div id='gallery-1' class='gallery galleryid-272 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://allbs.co.uk/2011/11/04/stallman-free-not-open/imag0216/'><img width="150" height="150" src="/images/allbsuploads/2011/11/IMAG0216-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="IMAG0216" srcset="/images/allbsuploads/2011/11/IMAG0216-150x150.jpg 150w, /images/allbsuploads/2011/11/IMAG0216-682x1024-200x200.jpg 200w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href="/2011/11/04/stallman-free-not-open/imag0216/'><img width="150" height="150" src="/images/allbsuploads/2011/11/IMAG0216-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="IMAG0216" srcset="/images/allbsuploads/2011/11/IMAG0216-150x150.jpg 150w, /images/allbsuploads/2011/11/IMAG0216-682x1024-200x200.jpg 200w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://allbs.co.uk/2011/11/04/stallman-free-not-open/imag0216-2/'><img width="150" height="150" src="/images/allbsuploads/2011/11/imag0216.jpg" class="attachment-thumbnail size-thumbnail" alt="imag0216" /></a>
+      <a href="/2011/11/04/stallman-free-not-open/imag0216-2/'><img width="150" height="150" src="/images/allbsuploads/2011/11/imag0216.jpg" class="attachment-thumbnail size-thumbnail" alt="imag0216" /></a>
     </dt>
   </dl>
 
@@ -44,7 +44,7 @@ Whatever you don&#8217;t put that picture you took of him on Facebook!
 
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://allbs.co.uk/2011/11/04/stallman-free-not-open/imag0213/'><img width="150" height="150" src="/images/allbsuploads/2011/11/IMAG0213-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="IMAG0213" /></a>
+      <a href="/2011/11/04/stallman-free-not-open/imag0213/'><img width="150" height="150" src="/images/allbsuploads/2011/11/IMAG0213-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="IMAG0213" /></a>
     </dt>
   </dl>
 

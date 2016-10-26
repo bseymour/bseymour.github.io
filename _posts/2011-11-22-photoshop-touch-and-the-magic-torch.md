@@ -27,7 +27,7 @@ Before and then After are below &#8211; click for larger images:
 <div id='gallery-2' class='gallery galleryid-308 gallery-columns-1 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://allbs.co.uk/2011/11/22/photoshop-touch-and-the-magic-torch/ph_touch_before_torch/'><img width="150" height="150" src="/images/allbsuploads/2011/11/Ph_touch_before_torch-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Ph_touch_before_torch" /></a>
+      <a href="/2011/11/22/photoshop-touch-and-the-magic-torch/ph_touch_before_torch/'><img width="150" height="150" src="/images/allbsuploads/2011/11/Ph_touch_before_torch-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Ph_touch_before_torch" /></a>
     </dt>
   </dl>
 
@@ -35,7 +35,7 @@ Before and then After are below &#8211; click for larger images:
 
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://allbs.co.uk/2011/11/22/photoshop-touch-and-the-magic-torch/ph_touch_after_torch/'><img width="150" height="150" src="/images/allbsuploads/2011/11/Ph_touch_after_torch-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Ph_touch_after_torch" srcset="/images/allbsuploads/2011/11/Ph_touch_after_torch-150x150.png 150w, /images/allbsuploads/2011/11/Ph_touch_after_torch-768x1024-200x200.png 200w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href="/2011/11/22/photoshop-touch-and-the-magic-torch/ph_touch_after_torch/'><img width="150" height="150" src="/images/allbsuploads/2011/11/Ph_touch_after_torch-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Ph_touch_after_torch" srcset="/images/allbsuploads/2011/11/Ph_touch_after_torch-150x150.png 150w, /images/allbsuploads/2011/11/Ph_touch_after_torch-768x1024-200x200.png 200w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
 

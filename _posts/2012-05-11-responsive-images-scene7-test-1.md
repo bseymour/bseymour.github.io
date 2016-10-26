@@ -51,7 +51,7 @@ Meanwhile for browsers with javascript, a little jQuery is uses .insertAfter to 
 
 You can see the live example here:
 
-<a title="http://allbs.co.uk/richmedia/scene7/noscript_test.html" href="http://allbs.co.uk/richmedia/scene7/noscript_test.html" target="_blank">http://allbs.co.uk/richmedia/scene7/noscript_test.html</a>
+<a title="http://allbs.co.uk/richmedia/scene7/noscript_test.html" /richmedia/scene7/noscript_test.html" target="_blank">http://allbs.co.uk/richmedia/scene7/noscript_test.html</a>
 
 (This test page has an auto reload on page resize bigger than 10px difference, but for now this is just for demonstration purposes )
 
@@ -59,7 +59,7 @@ Testing on my Android tablet and smartphone switching orientation triggers the r
 
 [<img class="alignnone size-medium wp-image-602" title="ResponsiveImages1" src="/images/allbsuploads/2012/05/ResponsiveImages1-141x300.png" alt="" width="141" height="300" />](http://ox10.it/allbs/richmedia/scene7/noscript_test.html)  [ <img class="alignnone size-medium wp-image-603" title="ResponsiveImages2" src="/images/allbsuploads/2012/05/ResponsiveImages2-300x273.png" alt="" width="300" height="273" srcset="/images/allbsuploads/2012/05/ResponsiveImages2-300x273.png 300w, /images/allbsuploads/2012/05/ResponsiveImages2.png 979w" sizes="(max-width: 300px) 100vw, 300px" />](http://ox10.it/allbs/richmedia/scene7/noscript_test.html)
 
-(There is now also a follow example: <a title="Responsive Images – Scene7 #2" href="http://allbs.co.uk/2012/05/14/responsive-images-scene7-test-2/" target="_blank">Responsive Images &#8211; test #2</a> )
+(There is now also a follow example: <a title="Responsive Images – Scene7 #2" /2012/05/14/responsive-images-scene7-test-2/" target="_blank">Responsive Images &#8211; test #2</a> )
 
 I&#8217;d would really appreciate any thoughts and suggestions, questions or comments, my work email address:: bseymour (at) adobe.com (or @bseymour)
 

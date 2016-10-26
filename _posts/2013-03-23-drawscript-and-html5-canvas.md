@@ -6,8 +6,7 @@ type: pages
 title: Drawscript and HTML5 Canvas
 date: 2013-03-23T15:52:23+00:00
 permalink: /2013/03/23/drawscript-and-html5-canvas/
-post_image:
-  - /images/allbsuploads/2013/03/Screen-Shot-2013-03-23-at-15.47.54.png
+post_image: /images/allbsuploads/2013/03/Screen-Shot-2013-03-23-at-15.47.54.png
 categories:
   - general
 ---
@@ -37,7 +36,7 @@ function draw() {</pre>
 
 See the following live page for an example output:
 
-## <span style="color: #800000;"><a title="http://allbs.co.uk/code/drawscript/drawscript5.html" href="http://allbs.co.uk/code/drawscript/drawscript5.html" target="_blank"><span style="color: #800000;">http://allbs.co.uk/code/drawscript/drawscript5.html</span></a></span>
+## <span style="color: #800000;"><a title="http://allbs.co.uk/code/drawscript/drawscript5.html" href="/code/drawscript/drawscript5.html" target="_blank"><span style="color: #800000;">http://allbs.co.uk/code/drawscript/drawscript5.html</span></a></span>
 
 (there is no error handling or fallback code &#8211; if don&#8217;t see anything, your browser may not support HTML5 canvas, or I&#8217;ve probably made a mistake &#8211; but it worked for me in Chrome, FF, Safari&#8230;)
 

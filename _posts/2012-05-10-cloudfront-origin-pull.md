@@ -36,7 +36,7 @@ http://img.mydomain.co.uk/images/myimage.jpg
 
 For example:
 
-<a title="http://allbs.co.uk/images/Red_Fox_400.jpg" href="http://allbs.co.uk/images/Red_Fox_400.jpg" target="_blank">http://allbs.co.uk/images/Red_Fox_400.jpg</a>
+<a title="http://allbs.co.uk/images/Red_Fox_400.jpg" href="/images/Red_Fox_400.jpg" target="_blank">http://allbs.co.uk/images/Red_Fox_400.jpg</a>
 
 is via my web server
 

@@ -17,7 +17,7 @@ categories:
 ---
 Here are details of my second test implementation of Responsive Images (a.k.a. Fluid Image) using the <noscript> and jQuery approach along with Adobe Scene7:
 
-Following on from :: <a title="Responsive Images – Scene7 test #1" href="http://allbs.co.uk/2012/05/11/responsive-images-scene7-test-1/" target="_blank">Responsive Images Test #1</a>
+Following on from :: <a title="Responsive Images – Scene7 test #1" href="/2012/05/11/responsive-images-scene7-test-1/" target="_blank">Responsive Images Test #1</a>
 
 (and [Responsive Images &#8211; #intro](http://allbs.co.uk/2012/05/11/responsive-images-intro/ "Responsive Images – #intro") )
 
@@ -29,7 +29,7 @@ This is a variation on test #1. In this example the noscript element contains at
 
 A couple of javascript variables are set to determine the widths at which those different alternates are shown. These values could also be passed in via attributes in the noscript element, which would again make this a more viable real-world solution.
 
-Live example: <a title="http://allbs.co.uk/richmedia/scene7/noscript_test2.html" href="http://allbs.co.uk/richmedia/scene7/noscript_test2.html" target="_blank">http://allbs.co.uk/richmedia/scene7/noscript_test2.html</a>
+Live example: <a title="http://allbs.co.uk/richmedia/scene7/noscript_test2.html" href="/richmedia/scene7/noscript_test2.html" target="_blank">http://allbs.co.uk/richmedia/scene7/noscript_test2.html</a>
 
 Testing on my Android tablet and smartphone, switching orientation triggers different content to be loaded, and this is where I see greater future benefits &#8211; perhaps not in changing the product content so radically, but there could certainly be benefits in having such design control also over images in a responsive design layout.
 
