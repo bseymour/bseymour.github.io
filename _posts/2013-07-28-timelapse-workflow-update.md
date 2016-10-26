@@ -18,13 +18,13 @@ We&#8217;re on holiday up on the stunning Holy Island, and it&#8217;s a perfect 
 
 &nbsp;
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="2013-07-28 17.50.42.jpg" src="http://ox10.it/allbs/wp-content/uploads/2013/07/2013-07-28-17.50.42.jpg" alt="2013 07 28 17 50 42" width="500" height="466" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="2013-07-28 17.50.42.jpg" src="/images/allbsuploads/2013/07/2013-07-28-17.50.42.jpg" alt="2013 07 28 17 50 42" width="500" height="466" border="0" />
 
 The Android App &#8216;LapseIt Pro&#8217; continues to be excellent for phone-only time-lapse rendering, but my day-long shoots generate around 9000+ images, and the Desire XE just can&#8217;t cope with the processing needed, and transferring to the Nexus4 is crazily slow (and inefficient).
 
 Enter the &#8216;Time-Lapse&#8217; app for Mac:
 
-<img style="float: right;" title="Screen Shot 2013-07-28 at 18.09.22.png" src="http://ox10.it/allbs/wp-content/uploads/2013/07/Screen-Shot-2013-07-28-at-18.09.222.png" alt="Screen Shot 2013 07 28 at 18 09 22" width="234" height="89" border="0" />
+<img style="float: right;" title="Screen Shot 2013-07-28 at 18.09.22.png" src="/images/allbsuploads/2013/07/Screen-Shot-2013-07-28-at-18.09.222.png" alt="Screen Shot 2013 07 28 at 18 09 22" width="234" height="89" border="0" />
 
 &#8211; easy drag and drop my batch of images straight from finder.
 
@@ -39,7 +39,7 @@ Enter the &#8216;Time-Lapse&#8217; app for Mac:
 &nbsp;
 
 <p style="text-align: center;">
-  <img class="aligncenter" style="display: block; border: 0px;" title="Screen Shot 2013-07-28 at 21.32.05.png" src="http://ox10.it/allbs/wp-content/uploads/2013/07/Screen-Shot-2013-07-28-at-21.32.05.png" alt="Screen Shot 2013 07 28 at 21 32 05" width="432" height="195" border="0" />
+  <img class="aligncenter" style="display: block; border: 0px;" title="Screen Shot 2013-07-28 at 21.32.05.png" src="/images/allbsuploads/2013/07/Screen-Shot-2013-07-28-at-21.32.05.png" alt="Screen Shot 2013 07 28 at 21 32 05" width="432" height="195" border="0" />
 </p>
 
 &nbsp;

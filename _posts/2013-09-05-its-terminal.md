@@ -7,7 +7,7 @@ title: Terminal Velocity
 date: 2013-09-05T19:42:01+00:00
 permalink: /2013/09/05/its-terminal/
 post_image:
-  - http://ox10.it/allbs/wp-content/uploads/2013/09/Screen-Shot-2013-09-04-at-20.55.58.png
+  - /images/allbsuploads/2013/09/Screen-Shot-2013-09-04-at-20.55.58.png
 categories:
   - HEADER
   - Mac
@@ -21,7 +21,7 @@ A few years ago I was working with the brilliant Jan Exner, and on a client site
 
 Last month, I went to the second 12Devs event, based out of the Mozilla Hackspace, and of the many great talks, I was really inspired by Paul&#8217;s (@nrocy) rapid-fire and completely hands-on (I love talks with live coding!) talk all about &#8220;Make Darwin your …..&#8221; &#8211; The 12dev&#8217;s team have made the video available here: <https://vimeo.com/72650338> (note: it&#8217;s a bit sweary)
 
-<a title="12 Devs Video" href="https://vimeo.com/72650338" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-09-05 at 20.38.11.png" src="http://ox10.it/allbs/wp-content/uploads/2013/09/Screen-Shot-2013-09-05-at-20.38.11.png" alt="Screen Shot 2013 09 05 at 20 38 11" width="480" height="262" border="0" /></a>
+<a title="12 Devs Video" href="https://vimeo.com/72650338" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-09-05 at 20.38.11.png" src="/images/allbsuploads/2013/09/Screen-Shot-2013-09-05-at-20.38.11.png" alt="Screen Shot 2013 09 05 at 20 38 11" width="480" height="262" border="0" /></a>
 
 I&#8217;ll admit that for parts of the solution I used Sublime Text 2&#8217;s powerful operators, but I&#8217;m pretty sure that next time it&#8217;ll be even quicker if I figured out the append/prepend commands.
 
@@ -61,7 +61,7 @@ I had to utilise multiple terminals running multiple cURLs for quite some time t
 
 &nbsp;
 
-<img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-09-05 at 08.46.21.png" src="http://ox10.it/allbs/wp-content/uploads/2013/09/Screen-Shot-2013-09-05-at-08.46.21.png" alt="Screen Shot 2013 09 05 at 08 46 21" width="480" height="282" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-09-05 at 08.46.21.png" src="/images/allbsuploads/2013/09/Screen-Shot-2013-09-05-at-08.46.21.png" alt="Screen Shot 2013 09 05 at 08 46 21" width="480" height="282" border="0" />
 
 &nbsp;
 

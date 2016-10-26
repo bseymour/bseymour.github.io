@@ -38,7 +38,7 @@ My final email to 1&1 support about my issues with one-click highlights the issu
 &#8211; one-click is therefore not fit for purpose.&#8221;
 
 <p style="text-align: center;">
-  <img class="wp-image-453 aligncenter" title="Wordpress_update_FAIL" src="http://ox10.it/allbs/wp-content/uploads/2012/03/Wordpress_update_FAIL1.png" alt="Wordpress update FAIL" width="496" height="230" />
+  <img class="wp-image-453 aligncenter" title="Wordpress_update_FAIL" src="/images/allbsuploads/2012/03/Wordpress_update_FAIL1.png" alt="Wordpress update FAIL" width="496" height="230" />
 </p>
 
  After 5 days of circular conversation, it finally got passed to someone who was able to provide a meaningful reply:

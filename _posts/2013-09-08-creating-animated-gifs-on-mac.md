@@ -62,6 +62,6 @@ Hat-tip: to this article on Stack Exchange for initially getting me to take the 
 
 &nbsp;
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-09-08 at 16.08.06.png" alt="Screen Shot 2013 09 08 at 16 08 06" src="http://ox10.it/allbs/wp-content/uploads/2013/09/Screen-Shot-2013-09-08-at-16.08.06.png" width="287" height="306" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-09-08 at 16.08.06.png" alt="Screen Shot 2013 09 08 at 16 08 06" src="/images/allbsuploads/2013/09/Screen-Shot-2013-09-08-at-16.08.06.png" width="287" height="306" border="0" />
 
 &nbsp;

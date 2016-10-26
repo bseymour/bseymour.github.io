@@ -7,7 +7,7 @@ title: 'Telephony as a Service &#8211; Twilio'
 date: 2012-02-15T21:11:35+00:00
 permalink: /2012/02/15/telephony-as-aservice-twilio/
 Thumbnail:
-  - http://ox10.it/allbs/wp-content/uploads/2012/03/twilio_cloud.png
+  - /images/allbsuploads/2012/03/twilio_cloud.png
 categories:
   - general
 ---

@@ -7,7 +7,7 @@ title: 'Azure Like It : Getting started with Microsoft Azure Websites'
 date: 2014-07-06T13:35:16+00:00
 permalink: /2014/07/06/getting-started-with-microsoft-azure-websites/
 post_image:
-  - http://ox10.it/allbs/wp-content/uploads/2014/07/Screenshot-2014-07-06-14.59.34.png
+  - /images/allbsuploads/2014/07/Screenshot-2014-07-06-14.59.34.png
 categories:
   - HEADER
   - services
@@ -52,7 +52,7 @@ Is there a free tier for a year (like with AWS) or developer environments &#8211
   So &#8211; let’s get stuck in:
 </div>
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.34.08.png" src="http://ox10.it/allbs/wp-content/uploads/2014/07/Screenshot-2014-07-05-10.34.08.png" alt="Screenshot 2014 07 05 10 34 08" width="494" height="263" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.34.08.png" src="/images/allbsuploads/2014/07/Screenshot-2014-07-05-10.34.08.png" alt="Screenshot 2014 07 05 10 34 08" width="494" height="263" border="0" />
 
 <div>
 </div>
@@ -60,7 +60,7 @@ Is there a free tier for a year (like with AWS) or developer environments &#8211
 <div>
 </div>
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.44.50.png" src="http://ox10.it/allbs/wp-content/uploads/2014/07/Screenshot-2014-07-05-10.44.50.png" alt="Screenshot 2014 07 05 10 44 50" width="489" height="295" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.44.50.png" src="/images/allbsuploads/2014/07/Screenshot-2014-07-05-10.44.50.png" alt="Screenshot 2014 07 05 10 44 50" width="489" height="295" border="0" />
 
 <div>
 </div>
@@ -72,7 +72,7 @@ Is there a free tier for a year (like with AWS) or developer environments &#8211
 <div>
 </div>
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.50.00.png" src="http://ox10.it/allbs/wp-content/uploads/2014/07/Screenshot-2014-07-05-10.50.00.png" alt="Screenshot 2014 07 05 10 50 00" width="465" height="62" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.50.00.png" src="/images/allbsuploads/2014/07/Screenshot-2014-07-05-10.50.00.png" alt="Screenshot 2014 07 05 10 50 00" width="465" height="62" border="0" />
 
 <div>
 </div>
@@ -80,7 +80,7 @@ Is there a free tier for a year (like with AWS) or developer environments &#8211
 <div>
 </div>
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.50.44.png" src="http://ox10.it/allbs/wp-content/uploads/2014/07/Screenshot-2014-07-05-10.50.44.png" alt="Screenshot 2014 07 05 10 50 44" width="481" height="270" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.50.44.png" src="/images/allbsuploads/2014/07/Screenshot-2014-07-05-10.50.44.png" alt="Screenshot 2014 07 05 10 50 44" width="481" height="270" border="0" />
 
 <div>
 </div>
@@ -92,7 +92,7 @@ Is there a free tier for a year (like with AWS) or developer environments &#8211
 <div>
 </div>
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.51.26.png" src="http://ox10.it/allbs/wp-content/uploads/2014/07/Screenshot-2014-07-05-10.51.26.png" alt="Screenshot 2014 07 05 10 51 26" width="473" height="193" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.51.26.png" src="/images/allbsuploads/2014/07/Screenshot-2014-07-05-10.51.26.png" alt="Screenshot 2014 07 05 10 51 26" width="473" height="193" border="0" />
 
 <div>
 </div>
@@ -106,7 +106,7 @@ Is there a free tier for a year (like with AWS) or developer environments &#8211
   </div>
 
   <p>
-    <img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.51.38.png" src="http://ox10.it/allbs/wp-content/uploads/2014/07/Screenshot-2014-07-05-10.51.38.png" alt="Screenshot 2014 07 05 10 51 38" width="467" height="63" border="0" />
+    <img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.51.38.png" src="/images/allbsuploads/2014/07/Screenshot-2014-07-05-10.51.38.png" alt="Screenshot 2014 07 05 10 51 38" width="467" height="63" border="0" />
   </p>
 
   <div>
@@ -122,7 +122,7 @@ Is there a free tier for a year (like with AWS) or developer environments &#8211
 <div>
 </div>
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.51.55.png" src="http://ox10.it/allbs/wp-content/uploads/2014/07/Screenshot-2014-07-05-10.51.55.png" alt="Screenshot 2014 07 05 10 51 55" width="480" height="299" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.51.55.png" src="/images/allbsuploads/2014/07/Screenshot-2014-07-05-10.51.55.png" alt="Screenshot 2014 07 05 10 51 55" width="480" height="299" border="0" />
 
 <div>
 </div>
@@ -134,7 +134,7 @@ Is there a free tier for a year (like with AWS) or developer environments &#8211
 <div>
 </div>
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.53.43.png" src="http://ox10.it/allbs/wp-content/uploads/2014/07/Screenshot-2014-07-05-10.53.43.png" alt="Screenshot 2014 07 05 10 53 43" width="475" height="240" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.53.43.png" src="/images/allbsuploads/2014/07/Screenshot-2014-07-05-10.53.43.png" alt="Screenshot 2014 07 05 10 53 43" width="475" height="240" border="0" />
 
 <div>
 </div>
@@ -143,12 +143,12 @@ Is there a free tier for a year (like with AWS) or developer environments &#8211
   Within a few minutes it’s looking good:
 </div>
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.53.53.png" src="http://ox10.it/allbs/wp-content/uploads/2014/07/Screenshot-2014-07-05-10.53.53.png" alt="Screenshot 2014 07 05 10 53 53" width="457" height="103" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.53.53.png" src="/images/allbsuploads/2014/07/Screenshot-2014-07-05-10.53.53.png" alt="Screenshot 2014 07 05 10 53 53" width="457" height="103" border="0" />
 
 <div>
 </div>
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.54.22.png" src="http://ox10.it/allbs/wp-content/uploads/2014/07/Screenshot-2014-07-05-10.54.22.png" alt="Screenshot 2014 07 05 10 54 22" width="470" height="296" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.54.22.png" src="/images/allbsuploads/2014/07/Screenshot-2014-07-05-10.54.22.png" alt="Screenshot 2014 07 05 10 54 22" width="470" height="296" border="0" />
 
 <div>
 </div>
@@ -161,7 +161,7 @@ Is there a free tier for a year (like with AWS) or developer environments &#8211
   <span style="font-size: 13px;"> </span>
 </div>
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.55.24.png" src="http://ox10.it/allbs/wp-content/uploads/2014/07/Screenshot-2014-07-05-10.55.24.png" alt="Screenshot 2014 07 05 10 55 24" width="459" height="295" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.55.24.png" src="/images/allbsuploads/2014/07/Screenshot-2014-07-05-10.55.24.png" alt="Screenshot 2014 07 05 10 55 24" width="459" height="295" border="0" />
 
 <div>
   <span style="font-size: 13px;"> </span>
@@ -174,7 +174,7 @@ Is there a free tier for a year (like with AWS) or developer environments &#8211
 <div>
 </div>
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.57.36.png" src="http://ox10.it/allbs/wp-content/uploads/2014/07/Screenshot-2014-07-05-10.57.36.png" alt="Screenshot 2014 07 05 10 57 36" width="452" height="310" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot 2014-07-05 10.57.36.png" src="/images/allbsuploads/2014/07/Screenshot-2014-07-05-10.57.36.png" alt="Screenshot 2014 07 05 10 57 36" width="452" height="310" border="0" />
 
 <div>
 </div>

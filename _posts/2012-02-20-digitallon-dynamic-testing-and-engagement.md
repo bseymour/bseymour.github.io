@@ -6,8 +6,7 @@ type: pages
 title: 'DigitalLON interviews : Dynamic Testing and Digital Customer Engagement'
 date: 2012-02-20T12:55:00+00:00
 permalink: /2012/02/20/digitallon-dynamic-testing-and-engagement/
-Thumbnail:
-  - http://ox10.it/allbs/wp-content/uploads/2012/03/digitalLON-sq.png
+post_image: /images/allbsuploads/2012/03/digitalLON-sq.png
 categories:
   - conference
   - Dynamic Media
@@ -31,7 +30,7 @@ Note: You may need sunglasses because of the way the <a title="http://en.wikiped
 
 A quick shot of the room when I arrived first thing:
 
-[<img class="aligncenter  wp-image-505" title="PANO_20120313_084129" src="http://ox10.it/allbs/wp-content/uploads/2012/02/PANO_20120313_084129-1024x355.jpg" alt="" width="483" height="167" srcset="/images/allbsuploads/2012/02/PANO_20120313_084129-300x104.jpg 300w, /images/allbsuploads/2012/02/PANO_20120313_084129-1024x355.jpg 1024w" sizes="(max-width: 483px) 100vw, 483px" />](http://ox10.it/allbs/wp-content/uploads/2012/02/PANO_20120313_084129.jpg)
+[<img class="aligncenter  wp-image-505" title="PANO_20120313_084129" src="/images/allbsuploads/2012/02/PANO_20120313_084129-1024x355.jpg" alt="" width="483" height="167" srcset="/images/allbsuploads/2012/02/PANO_20120313_084129-300x104.jpg 300w, /images/allbsuploads/2012/02/PANO_20120313_084129-1024x355.jpg 1024w" sizes="(max-width: 483px) 100vw, 483px" />](/images/allbsuploads/2012/02/PANO_20120313_084129.jpg)
 
 &nbsp;
 

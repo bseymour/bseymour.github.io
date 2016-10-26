@@ -19,7 +19,7 @@ In case anyone else has encountered similar problems, I will detail the workflow
 
 In the 1&1 admin panel, select the .com domain, then click the &#8216;Info&#8217; button &#8211; here you should see an &#8216;unlock&#8217; button, click this, and make a note of the Auth Code (a.k.a. EPP code).
 
-<img class="aligncenter size-full wp-image-470" title="1and1 transfer com domain" src="http://ox10.it/allbs/wp-content/uploads/2012/03/1and1-transfer-com-domain.png" alt="" width="494" height="386" srcset="/images/allbsuploads/2012/03/1and1-transfer-com-domain-300x234.png 300w, /images/allbsuploads/2012/03/1and1-transfer-com-domain.png 494w" sizes="(max-width: 494px) 100vw, 494px" />
+<img class="aligncenter size-full wp-image-470" title="1and1 transfer com domain" src="/images/allbsuploads/2012/03/1and1-transfer-com-domain.png" alt="" width="494" height="386" srcset="/images/allbsuploads/2012/03/1and1-transfer-com-domain-300x234.png 300w, /images/allbsuploads/2012/03/1and1-transfer-com-domain.png 494w" sizes="(max-width: 494px) 100vw, 494px" />
 
 When ordering the domain transfer from the Namecheap site, you will need to enter this EPP code (Auth code) in order to proceed.
 

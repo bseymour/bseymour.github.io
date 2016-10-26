@@ -20,7 +20,7 @@ If you have a site with either a healthy number of visits per month (>10k) or fo
 
 Over the last 6 months I&#8217;ve spent time with some of our main retail clients to review their current implementation, and exploring the opportunities for getting even more value from the platform.
 
-<img class="wp-image-547 alignright" title="Lemon_Lime_Slices" src="http://ox10.it/allbs/wp-content/uploads/2012/05/Lemon_Lime_Slices-300x300.jpg" alt="" width="200" height="200" srcset="/images/allbsuploads/2012/05/Lemon_Lime_Slices-150x150.jpg 150w, /images/allbsuploads/2012/05/Lemon_Lime_Slices-300x300.jpg 300w, /images/allbsuploads/2012/05/Lemon_Lime_Slices.jpg 499w" sizes="(max-width: 200px) 100vw, 200px" />
+<img class="wp-image-547 alignright" title="Lemon_Lime_Slices" src="/images/allbsuploads/2012/05/Lemon_Lime_Slices-300x300.jpg" alt="" width="200" height="200" srcset="/images/allbsuploads/2012/05/Lemon_Lime_Slices-150x150.jpg 150w, /images/allbsuploads/2012/05/Lemon_Lime_Slices-300x300.jpg 300w, /images/allbsuploads/2012/05/Lemon_Lime_Slices.jpg 499w" sizes="(max-width: 200px) 100vw, 200px" />
 
 One of the simplest and easiest ways Scene7 can help is through using Image Presets.  These are like a back-end shortcut to a bunch of setting relating to the ways that an image request is made, they follow the ? in the querystring and are wrapped in $ signs. For example:
 
@@ -40,7 +40,7 @@ As an example, if you open the following to pages and tab between them, and you 
 
 <a title="http://allbs.co.uk/richmedia/scene7/products_med.html" href="http://allbs.co.uk/richmedia/scene7/products_med.html" target="_blank">http://allbs.co.uk/richmedia/scene7/products_med.html</a>
 
-[<img class="wp-image-565 alignnone" title="Fruit Gallery" src="http://ox10.it/allbs/wp-content/uploads/2012/05/FruitGallery.png" alt="" width="450" height="457" />](http://ox10.it/allbs/richmedia/scene7/products_high.html)
+[<img class="wp-image-565 alignnone" title="Fruit Gallery" src="/images/allbsuploads/2012/05/FruitGallery.png" alt="" width="450" height="457" />](http://ox10.it/allbs/richmedia/scene7/products_high.html)
 
 Any questions or comments, my work email address:: bseymour (at) adobe.com
 

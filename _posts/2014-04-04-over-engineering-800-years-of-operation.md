@@ -7,7 +7,7 @@ title: 'Over Engineering : 800 years of Operation'
 date: 2014-04-04T09:51:55+00:00
 permalink: /2014/04/04/over-engineering-800-years-of-operation/
 post_image:
-  - http://ox10.it/allbs/wp-content/uploads/2014/04/2014-04-03-13.46.41.jpg
+  - /images/allbsuploads/2014/04/2014-04-03-13.46.41.jpg
 categories:
   - general
   - HEADER
@@ -21,7 +21,7 @@ The light source was originally from coal fires, with all of the fuel being carr
 
 **This amazing structure was NOT the crowning glory of Marshall’s dreams, it was a secondary feature, a beacon to encourage and safeguard the traffic that he needed for the business venture he was looking to establish.**
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="2014-04-04_The_Hook_Lighthouse.jpg" src="http://ox10.it/allbs/wp-content/uploads/2014/04/2014-04-04_The_Hook_Lighthouse.jpg" alt="2014 04 04 The Hook Lighthouse" width="500" height="500" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="2014-04-04_The_Hook_Lighthouse.jpg" src="/images/allbsuploads/2014/04/2014-04-04_The_Hook_Lighthouse.jpg" alt="2014 04 04 The Hook Lighthouse" width="500" height="500" border="0" />
 
 One current project management perspective might be be that the lighthouse was massively over-engineered. It probably could have been constructed in a shorter timeframe, and a lower budget. Yet, this lighthouse has saved countless lives, and the town of New Ross and Waterford still thrive today 8 centuries on.
 

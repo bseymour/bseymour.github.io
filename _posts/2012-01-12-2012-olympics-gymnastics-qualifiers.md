@@ -6,8 +6,8 @@ type: pages
 title: 2012 Olympics Gymnastics qualifiers
 date: 2012-01-12T22:50:49+00:00
 permalink: /2012/01/12/2012-olympics-gymnastics-qualifiers/
-Thumbnail:
-  - http://ox10.it/allbs/wp-content/uploads/2012/01/DSC06256-150x150.jpg
+post_image:
+  - /images/allbsuploads/2012/01/DSC06256-150x150.jpg
 categories:
   - inspiring
   - life

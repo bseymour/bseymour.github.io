@@ -19,17 +19,17 @@ Fluid ‘turns your favourite apps into real mac apps’ : <a title="http://flui
 Download for free (more features unlocked for $5).
 
 <p style="text-align: center;">
-  <a href="http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130516at08.56.17.png"><img class="aligncenter" style="display: block; border: 0px;" title="Screen Shot 2013-05-16 at 08.56.17" alt="Screen Shot 2013-05-16 at 08.56.17" src="http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130516at08.56.17_thumb.png" width="454" height="253" border="0" /></a>
+  <a href="/images/allbsuploads/2013/05/ScreenShot20130516at08.56.17.png"><img class="aligncenter" style="display: block; border: 0px;" title="Screen Shot 2013-05-16 at 08.56.17" alt="Screen Shot 2013-05-16 at 08.56.17" src="/images/allbsuploads/2013/05/ScreenShot20130516at08.56.17_thumb.png" width="454" height="253" border="0" /></a>
 </p>
 
 After installing, simply enter the URL to the site in question (first options for me were a specific Trello board, Google+, and Facebook)
 
-[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-05-16 at 08.56.34" alt="Screen Shot 2013-05-16 at 08.56.34" src="http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130516at08.56.34_thumb.png" width="381" height="118" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130516at08.56.34.png) Hey presto: you get a small stack of new apparent social apps:[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-05-16 at 17.51.57" alt="Screen Shot 2013-05-16 at 17.51.57" src="http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130516at17.51.57_thumb.png" width="244" height="118" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130516at17.51.57.png)
+[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-05-16 at 08.56.34" alt="Screen Shot 2013-05-16 at 08.56.34" src="/images/allbsuploads/2013/05/ScreenShot20130516at08.56.34_thumb.png" width="381" height="118" border="0" />](/images/allbsuploads/2013/05/ScreenShot20130516at08.56.34.png) Hey presto: you get a small stack of new apparent social apps:[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-05-16 at 17.51.57" alt="Screen Shot 2013-05-16 at 17.51.57" src="/images/allbsuploads/2013/05/ScreenShot20130516at17.51.57_thumb.png" width="244" height="118" border="0" />](/images/allbsuploads/2013/05/ScreenShot20130516at17.51.57.png)
 
 Which I added to my Automator with all of my usual Social Networks:
 
 &nbsp;
 
-[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-05-16 at 17.48.05" alt="Screen Shot 2013-05-16 at 17.48.05" src="http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130516at17.48.05_thumb.png" width="504" height="479" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130516at17.48.05.png)
+[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-05-16 at 17.48.05" alt="Screen Shot 2013-05-16 at 17.48.05" src="/images/allbsuploads/2013/05/ScreenShot20130516at17.48.05_thumb.png" width="504" height="479" border="0" />](/images/allbsuploads/2013/05/ScreenShot20130516at17.48.05.png)
 
 I suspect when I look more into scripting I’ll find other ways of achieving the same – but for now, it’s yet another brilliant simple Mac workflow.

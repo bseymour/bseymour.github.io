@@ -7,7 +7,7 @@ title: '7 Customer Experience Tips : Qubit Bright Sparks talk'
 date: 2014-04-26T13:24:45+00:00
 permalink: /2014/04/26/7-customer-experience-tips-qubit-bright-sparks-talk/
 post_image:
-  - http://ox10.it/allbs/wp-content/uploads/2014/04/QubitsBrightSparks-Screenshot-2014-04-26-14.23.37.png
+  - /images/allbsuploads/2014/04/QubitsBrightSparks-Screenshot-2014-04-26-14.23.37.png
 categories:
   - conference
   - Dynamic Media
@@ -37,4 +37,4 @@ It’s a fantastic line-up to be a part of, and I’ll be doing a &#8220;10 minu
 
 My deck from the talk is now on Slideshare:
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="QubitsBrightSparks-Screenshot 2014-04-07 22.12.04.png" src="http://ox10.it/allbs/wp-content/uploads/2014/04/QubitsBrightSparks-Screenshot-2014-04-07-22.12.04.png" alt="QubitsBrightSparks Screenshot 2014 04 07 22 12 04" width="389" height="600" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="QubitsBrightSparks-Screenshot 2014-04-07 22.12.04.png" src="/images/allbsuploads/2014/04/QubitsBrightSparks-Screenshot-2014-04-07-22.12.04.png" alt="QubitsBrightSparks Screenshot 2014 04 07 22 12 04" width="389" height="600" border="0" />

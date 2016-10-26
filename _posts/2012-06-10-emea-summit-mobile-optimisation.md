@@ -17,7 +17,7 @@ Somehow nearly a month has flown by since the Adobe EMEA Summit. With the videos
 
 I&#8217;d been using the Pano app on my Desire Sensation for a while, and am often impressed with the results, and am delighted that the official Adobe blog used one of my snaps in it&#8217;s <a title="Adobe Summit EMEA - it's a wrap" href="http://blogs.adobe.com/adobesummit/adobe-digital-marketing-summit-emea-2012-its-a-wrap/" target="_blank">event round-up post</a> :
 
-<img class="alignnone  wp-image-663" title="PANO_20120516_155428" src="http://ox10.it/allbs/wp-content/uploads/2012/06/PANO_20120516_155428-1024x361.jpg" alt="" width="500" height="176" />
+<img class="alignnone  wp-image-663" title="PANO_20120516_155428" src="/images/allbsuploads/2012/06/PANO_20120516_155428-1024x361.jpg" alt="" width="500" height="176" />
 
 &nbsp;
 

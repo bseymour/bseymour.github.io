@@ -14,7 +14,7 @@ We&#8217;ve been loving the Nexus 7 &#8211; it&#8217;s an Android which is so re
 
 It may only be around 30% smaller than our Asus Tranformer, but it being that more easily held in one hand makes for easier reading and movie watching on the go, and it seems to be somehow that much more chuck-into-a-bag-able.
 
-[<img class="alignright size-medium wp-image-779" title="Nexus7 on Transformer" src="http://ox10.it/allbs/wp-content/uploads/2012/08/nexus7_transformer-200x300.jpg" alt="Nexus7 on Transformer" width="200" height="300" srcset="/images/allbsuploads/2012/08/nexus7_transformer-200x300.jpg 200w, /images/allbsuploads/2012/08/nexus7_transformer-683x1024.jpg 683w" sizes="(max-width: 200px) 100vw, 200px" />](http://ox10.it/allbs/wp-content/uploads/2012/08/nexus7_transformer.jpg)
+[<img class="alignright size-medium wp-image-779" title="Nexus7 on Transformer" src="/images/allbsuploads/2012/08/nexus7_transformer-200x300.jpg" alt="Nexus7 on Transformer" width="200" height="300" srcset="/images/allbsuploads/2012/08/nexus7_transformer-200x300.jpg 200w, /images/allbsuploads/2012/08/nexus7_transformer-683x1024.jpg 683w" sizes="(max-width: 200px) 100vw, 200px" />](/images/allbsuploads/2012/08/nexus7_transformer.jpg)
 
 I pre-ordered during the excitement of the Google I/O live streaming, and only later looked in enough detail to see that there was no microSD slot, and so my choice of the 8GB version was a mistake.
 
@@ -28,7 +28,7 @@ Thankfully, last week I found an OTG cable for £3 on Amazon &#8211; which has w
 
 I&#8217;ve tried playing back some .mp4 via OTG/usb stick and it works perfectly &#8211; freedom <img src="http://allbs.co.uk/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
-[<img class="alignright  wp-image-783" title="Nexus7 and OTG" src="http://ox10.it/allbs/wp-content/uploads/2012/08/nexus7_otg-735x1024.jpg" alt="Nexus 7 and OTG" width="457" height="635" />](http://ox10.it/allbs/wp-content/uploads/2012/08/nexus7_otg.jpg)
+[<img class="alignright  wp-image-783" title="Nexus7 and OTG" src="/images/allbsuploads/2012/08/nexus7_otg-735x1024.jpg" alt="Nexus 7 and OTG" width="457" height="635" />](/images/allbsuploads/2012/08/nexus7_otg.jpg)
 
 &nbsp;
 

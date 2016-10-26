@@ -23,7 +23,7 @@ Step 1, was to get an exercise bike, and to gently cycle while emailing, or watc
 
 Step 2 was to get a sit-standing desk, which arrived a few weeks ago:
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="2014-08-06 Varidesk.jpg" src="http://ox10.it/allbs/wp-content/uploads/2014/08/2014-08-06-Varidesk.jpg" alt="2014 08 06 Varidesk" width="457" height="600" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="2014-08-06 Varidesk.jpg" src="/images/allbsuploads/2014/08/2014-08-06-Varidesk.jpg" alt="2014 08 06 Varidesk" width="457" height="600" border="0" />
 
 I’ve been considering buying a standing-desk for some time. During my years at Adobe, when I visited our US offices, they pretty much all had lovely big, electric sit/standing desks. On my return, I would look into the costs, and had to shelve the plans when the ticket price was typically upwards of £1000, and for items which were physically very heavy and hard to fit in to my relatively modest home-office. In recent years I’ve been tracking a few desks on eBay, and had found a couple in the £600 region, but which either had considerable shipping costs, or required me to pick them up, and which were unlikely to fit even into our family estate car.
 

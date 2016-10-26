@@ -43,7 +43,7 @@ DELEGATES      bzlib freetype jng jp2 jpeg png tiff xml zlib
 
 &nbsp;
 
-<img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-09-09 at 21.54.46.png" alt="Screen Shot 2013 09 09 at 21 54 46" src="http://ox10.it/allbs/wp-content/uploads/2013/09/Screen-Shot-2013-09-09-at-21.54.46.png" width="457" height="59" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-09-09 at 21.54.46.png" alt="Screen Shot 2013 09 09 at 21 54 46" src="/images/allbsuploads/2013/09/Screen-Shot-2013-09-09-at-21.54.46.png" width="457" height="59" border="0" />
 
 &nbsp;
 

@@ -14,7 +14,7 @@ Mouse-hover driven menu navigation can be a relatively nice user experience on a
 
 When navigating on a tablet, the typical experience is that when you touch the menu item you may briefly see a flash of the sub-menus, before being automatically taken to the category page, or which ever page is the top or default sub-category:
 
-<img class="alignnone size-full wp-image-1053" alt="Hover-Nav1" src="http://ox10.it/allbs/wp-content/uploads/2013/01/Hover-Nav11.png" width="195" height="250" />    <img class="size-full wp-image-1046 alignnone" alt="Hover-Nav2" src="http://ox10.it/allbs/wp-content/uploads/2013/01/Hover-Nav2.png" width="199" height="247" />
+<img class="alignnone size-full wp-image-1053" alt="Hover-Nav1" src="/images/allbsuploads/2013/01/Hover-Nav11.png" width="195" height="250" />    <img class="size-full wp-image-1046 alignnone" alt="Hover-Nav2" src="/images/allbsuploads/2013/01/Hover-Nav2.png" width="199" height="247" />
 
 From that category page,  you will hopefully find links to the other sub-categories, but if not then you may have to find and then utilise the sitemap to navigate to the page you are interested in.
 
@@ -22,11 +22,11 @@ From that category page,  you will hopefully find links to the other sub-catego
 
 Long pressing on the link (1-2 seconds) causes the link-options dialogue to appear (open in new tab, save link etc..):
 
-<img class="alignnone size-full wp-image-1047" alt="Hover-Nav3" src="http://ox10.it/allbs/wp-content/uploads/2013/01/Hover-Nav3.png" width="450" height="544" />
+<img class="alignnone size-full wp-image-1047" alt="Hover-Nav3" src="/images/allbsuploads/2013/01/Hover-Nav3.png" width="450" height="544" />
 
 If you then touch outside of the options dialogue, the dialogue disappears, but the menu remains in its drop-down state, such that you can then select the sub-menu item you are interested in:
 
- <img class="alignnone size-full wp-image-1048" alt="Hover-Nav4" src="http://ox10.it/allbs/wp-content/uploads/2013/01/Hover-Nav4.png" width="190" height="238" /><img class="alignnone size-medium wp-image-1049" alt="Hover-Nav5" src="http://ox10.it/allbs/wp-content/uploads/2013/01/Hover-Nav5-300x168.png" width="200" height="111" />
+ <img class="alignnone size-full wp-image-1048" alt="Hover-Nav4" src="/images/allbsuploads/2013/01/Hover-Nav4.png" width="190" height="238" /><img class="alignnone size-medium wp-image-1049" alt="Hover-Nav5" src="/images/allbsuploads/2013/01/Hover-Nav5-300x168.png" width="200" height="111" />
 
 This is the behaviour I see on my Android devices when running Chrome browser &#8211; I hope it works for you. I&#8217;d appreciate any feedback regarding the behaviour on other OSes and browsers, and I&#8217;ll update the post accordingly.
 

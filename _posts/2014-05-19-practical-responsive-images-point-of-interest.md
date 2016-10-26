@@ -33,13 +33,13 @@ smaller than that, use a different, focused image request
 
 Initial device testing is looking good, screen shots from Nexus 4 and Nexus7
 
-<img title="2014-05-19 18.30.59_framed.png" src="http://ox10.it/allbs/wp-content/uploads/2014/05/2014-05-19-18.30.59_framed.png" alt="2014 05 19 18 30 59 framed" width="500" height="333" border="0" />
+<img title="2014-05-19 18.30.59_framed.png" src="/images/allbsuploads/2014/05/2014-05-19-18.30.59_framed.png" alt="2014 05 19 18 30 59 framed" width="500" height="333" border="0" />
 
-<img class="alignnone size-full wp-image-1787" src="http://ox10.it/allbs/wp-content/uploads/2014/05/2014-05-19-18.30.40_framed.png" alt="2014-05-19-18.30.40_framed.png" width="399" height="600" /><img class="alignnone size-full wp-image-1788" src="http://ox10.it/allbs/wp-content/uploads/2014/05/2014-05-19-19.39.20_framed.png" alt="2014-05-19-19.39.20_framed.png" width="359" height="600" />
+<img class="alignnone size-full wp-image-1787" src="/images/allbsuploads/2014/05/2014-05-19-18.30.40_framed.png" alt="2014-05-19-18.30.40_framed.png" width="399" height="600" /><img class="alignnone size-full wp-image-1788" src="/images/allbsuploads/2014/05/2014-05-19-19.39.20_framed.png" alt="2014-05-19-19.39.20_framed.png" width="359" height="600" />
 
 Even Kindle Paperwhite’s view of that page:
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="2014-05-17 16.55.02.jpg" src="http://ox10.it/allbs/wp-content/uploads/2014/05/2014-05-17-16.55.02.jpg" alt="2014 05 17 16 55 02" width="450" height="600" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="2014-05-17 16.55.02.jpg" src="/images/allbsuploads/2014/05/2014-05-17-16.55.02.jpg" alt="2014 05 17 16 55 02" width="450" height="600" border="0" />
 
 &nbsp;
 
@@ -61,13 +61,13 @@ smaller than that, use a different, focused image request
 
 Initial device testing is looking good, screen shots from Nexus 4 and Nexus7
 
-<img title="2014-05-19 18.30.59_framed.png" src="http://ox10.it/allbs/wp-content/uploads/2014/05/2014-05-19-18.30.59_framed.png" alt="2014 05 19 18 30 59 framed" width="500" height="333" border="0" />
+<img title="2014-05-19 18.30.59_framed.png" src="/images/allbsuploads/2014/05/2014-05-19-18.30.59_framed.png" alt="2014 05 19 18 30 59 framed" width="500" height="333" border="0" />
 
-<img class="alignnone size-full wp-image-1787" src="http://ox10.it/allbs/wp-content/uploads/2014/05/2014-05-19-18.30.40_framed.png" alt="2014-05-19-18.30.40_framed.png" width="399" height="600" /><img class="alignnone size-full wp-image-1788" src="http://ox10.it/allbs/wp-content/uploads/2014/05/2014-05-19-19.39.20_framed.png" alt="2014-05-19-19.39.20_framed.png" width="359" height="600" />
+<img class="alignnone size-full wp-image-1787" src="/images/allbsuploads/2014/05/2014-05-19-18.30.40_framed.png" alt="2014-05-19-18.30.40_framed.png" width="399" height="600" /><img class="alignnone size-full wp-image-1788" src="/images/allbsuploads/2014/05/2014-05-19-19.39.20_framed.png" alt="2014-05-19-19.39.20_framed.png" width="359" height="600" />
 
 Even Kindle Paperwhite’s view of that page:
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="2014-05-17 16.55.02.jpg" src="http://ox10.it/allbs/wp-content/uploads/2014/05/2014-05-17-16.55.02.jpg" alt="2014 05 17 16 55 02" width="450" height="600" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="2014-05-17 16.55.02.jpg" src="/images/allbsuploads/2014/05/2014-05-17-16.55.02.jpg" alt="2014 05 17 16 55 02" width="450" height="600" border="0" />
 
 &nbsp;
 

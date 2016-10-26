@@ -7,7 +7,7 @@ title: 'Echostar HDS-600RS &#8211; remote not working'
 date: 2014-03-08T21:28:13+00:00
 permalink: /2014/03/08/echostar-hds-600rs-remote-not-working/
 post_image:
-  - http://ox10.it/allbs/wp-content/uploads/2014/03/hds-600rs_remote.jpg
+  - /images/allbsuploads/2014/03/hds-600rs_remote.jpg
 categories:
   - general
 ---

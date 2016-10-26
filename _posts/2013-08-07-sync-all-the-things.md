@@ -64,7 +64,7 @@ More testing to come, I&#8217;ll report back any problems.
 
 [<span style="color: #ff300a;">update 2013-09-06</span>] After my first main proper sync had finished, I just went to check the destination machine &#8211; <span style="color: #ff2d08;"><strong>to find the folders empty…. oh, and my trash can size is now 45.9GB</strong></span>…….. \[redacted\] \[redacted\] ….. glad I took external HDD backups. I suspect I&#8217;ll uninstall it now, as I really can&#8217;t trust our family photos to a workflow unless I have very high confidence that it won&#8217;t delete all our photos!
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-09-06 at 19.42.43.png" src="http://ox10.it/allbs/wp-content/uploads/2013/09/Screen-Shot-2013-09-06-at-19.42.43.png" alt="Screen Shot 2013 09 06 at 19 42 43" width="296" height="65" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-09-06 at 19.42.43.png" src="/images/allbsuploads/2013/09/Screen-Shot-2013-09-06-at-19.42.43.png" alt="Screen Shot 2013 09 06 at 19 42 43" width="296" height="65" border="0" />
 
 [update 2013-09-16] The Support team from Eltima have been pretty responsive, but their latest response reinforces that it was definitely for the best that I removed the software from my computers. <span style="color: #ff0000;"><span style="color: #000000;">Apparently, 45GB of family photos may have been deleted</span></span>**<span style="text-decoration: underline; color: #ff0000;">because one of the machine went into stand-by mode</span>** , and that this behaviour is not considered to be the software malfunctioning :
 

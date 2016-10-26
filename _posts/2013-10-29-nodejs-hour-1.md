@@ -7,7 +7,7 @@ title: 'Node.js : hour 1'
 date: 2013-10-29T23:22:04+00:00
 permalink: /2013/10/29/nodejs-hour-1/
 post_image:
-  - http://ox10.it/allbs/wp-content/uploads/2013/10/Screen-Shot-2013-10-29-at-23.25.09.png
+  - /images/allbsuploads/2013/10/Screen-Shot-2013-10-29-at-23.25.09.png
 categories:
   - HEADER
   - Mac
@@ -133,7 +133,7 @@ You need to get your consumer key and consumer secret from <!--?xml version="1.
 
 <a style="font-family: Arial;" href="https://dev.twitter.com/">https://dev.twitter.com/</a> in the ‘manage your apps’ section. As my initial <span style="font-family: Arial;">use will be local, and just for some initial basic status updates, I stored the access token and access token secret as variable:</span>
 
-<img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Nodejs - Twitter - Code shot.png" src="http://ox10.it/allbs/wp-content/uploads/2013/10/Nodejs-Twitter-Code-shot.png" alt="Nodejs  Twitter  Code shot" width="480" height="382" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Nodejs - Twitter - Code shot.png" src="/images/allbsuploads/2013/10/Nodejs-Twitter-Code-shot.png" alt="Nodejs  Twitter  Code shot" width="480" height="382" border="0" />
 
 &nbsp;
 
@@ -145,13 +145,13 @@ data: &#8216;{&#8220;request&#8221;:&#8221;\\/1.1\\/statuses\\/update.json&#8221
 
 So I updated the application type setting on dev.twitter.com:
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-10-28 at 22.24.06.png" src="http://ox10.it/allbs/wp-content/uploads/2013/10/Screen-Shot-2013-10-28-at-22.24.06.png" alt="Screen Shot 2013 10 28 at 22 24 06" width="333" height="149" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-10-28 at 22.24.06.png" src="/images/allbsuploads/2013/10/Screen-Shot-2013-10-28-at-22.24.06.png" alt="Screen Shot 2013 10 28 at 22 24 06" width="333" height="149" border="0" />
 
 &nbsp;
 
 &#8211; and then ensure you recreate your access token. Run the code, and hey presto:
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-10-29 at 22.59.12.png" src="http://ox10.it/allbs/wp-content/uploads/2013/10/Screen-Shot-2013-10-29-at-22.59.12.png" alt="Screen Shot 2013 10 29 at 22 59 12" width="310" height="75" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-10-29 at 22.59.12.png" src="/images/allbsuploads/2013/10/Screen-Shot-2013-10-29-at-22.59.12.png" alt="Screen Shot 2013 10 29 at 22 59 12" width="310" height="75" border="0" />
 
 &nbsp;
 
@@ -167,11 +167,11 @@ Another favourite hello world is to use the wonderful Twilio API to send an SMS 
 
 I grabbed my Twilio account SID and Auth Token, and using the code example from here: <https://www.twilio.com/blog/2013/03/introducing-the-twilio-module-for-node-js.html> :
 
-<img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-10-29 at 23.12.30.png" src="http://ox10.it/allbs/wp-content/uploads/2013/10/Screen-Shot-2013-10-29-at-23.12.30.png" alt="Screen Shot 2013 10 29 at 23 12 30" width="480" height="399" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-10-29 at 23.12.30.png" src="/images/allbsuploads/2013/10/Screen-Shot-2013-10-29-at-23.12.30.png" alt="Screen Shot 2013 10 29 at 23 12 30" width="480" height="399" border="0" />
 
 and moments later my mobile received:
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot_2013-10-29-23-05-17.png" src="http://ox10.it/allbs/wp-content/uploads/2013/10/Screenshot_2013-10-29-23-05-171.png" alt="Screenshot 2013 10 29 23 05 17" width="300" height="132" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screenshot_2013-10-29-23-05-17.png" src="/images/allbsuploads/2013/10/Screenshot_2013-10-29-23-05-171.png" alt="Screenshot 2013 10 29 23 05 17" width="300" height="132" border="0" />
 
 &nbsp;
 

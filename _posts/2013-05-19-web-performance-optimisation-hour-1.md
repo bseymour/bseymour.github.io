@@ -7,7 +7,7 @@ title: 'Web Performance Optimisation: hour 1'
 date: 2013-05-19T20:33:08+00:00
 permalink: /2013/05/19/web-performance-optimisation-hour-1/
 post_image:
-  - http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130519at21.20.372.8secs_thumb.png
+  - /images/allbsuploads/2013/05/ScreenShot20130519at21.20.372.8secs_thumb.png
 categories:
   - HEADER
   - quicktip
@@ -29,7 +29,7 @@ At the start of my hour, I ran  both:
 
 &nbsp;
 
-[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="Screen Shot 2013-05-19 at 20.33.27" src="http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130519at20.33.27_thumb.png" alt="Screen Shot 2013-05-19 at 20.33.27" width="434" height="484" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130519at20.33.27.png)
+[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="Screen Shot 2013-05-19 at 20.33.27" src="/images/allbsuploads/2013/05/ScreenShot20130519at20.33.27_thumb.png" alt="Screen Shot 2013-05-19 at 20.33.27" width="434" height="484" border="0" />](/images/allbsuploads/2013/05/ScreenShot20130519at20.33.27.png)
 
 PageSpeed’s initial suggestions being that I should address these items first:  Optimize images, Leverage browser caching, Serve scaled images.
 
@@ -37,13 +37,13 @@ Clearly those long blue bars were an area ripe for improvement.
 
 There are a stack of **image optimisation** tools around, and at some point I need to do a much deeper dive.  But within my tight timeframes, I opted to try out  <a href="http://www.jpegmini.com/" target="_blank">JPEGmini</a> and <a href="http://imageoptim.com/" target="_blank">ImageOptim</a>
 
-[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="Screen Shot 2013-05-19 at 20.42.37" src="http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130519at20.42.37_thumb.png" alt="Screen Shot 2013-05-19 at 20.42.37" width="404" height="205" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130519at20.42.37.png)
+[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="Screen Shot 2013-05-19 at 20.42.37" src="/images/allbsuploads/2013/05/ScreenShot20130519at20.42.37_thumb.png" alt="Screen Shot 2013-05-19 at 20.42.37" width="404" height="205" border="0" />](/images/allbsuploads/2013/05/ScreenShot20130519at20.42.37.png)
 
 The main page of the site in question (a luxury cottage available for rent) has a heavy emphasis on the rich visuals of this stunning property, using a jQuery based image slider to rotate through 10 beautiful images.
 
 JPEGmini (for JPGs) knocked around 3MB of the sites slider based image assets (not all of which are on the main page).
 
-[<img style="display: inline; border-width: 0px;" title="Screen Shot 2013-05-18 at 10.42.32" src="http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130518at10.42.32_thumb.png" alt="Screen Shot 2013-05-18 at 10.42.32" width="106" height="244" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130518at10.42.32.png) [<img class="aligncenter" style="display: inline; border-width: 0px;" title="Screen Shot 2013-05-18 at 13.13.50" src="http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130518at13.13.50_thumb.png" alt="Screen Shot 2013-05-18 at 13.13.50" width="300" height="242" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130518at13.13.50.png)
+[<img style="display: inline; border-width: 0px;" title="Screen Shot 2013-05-18 at 10.42.32" src="/images/allbsuploads/2013/05/ScreenShot20130518at10.42.32_thumb.png" alt="Screen Shot 2013-05-18 at 10.42.32" width="106" height="244" border="0" />](/images/allbsuploads/2013/05/ScreenShot20130518at10.42.32.png) [<img class="aligncenter" style="display: inline; border-width: 0px;" title="Screen Shot 2013-05-18 at 13.13.50" src="/images/allbsuploads/2013/05/ScreenShot20130518at13.13.50_thumb.png" alt="Screen Shot 2013-05-18 at 13.13.50" width="300" height="242" border="0" />](/images/allbsuploads/2013/05/ScreenShot20130518at13.13.50.png)
 
 Rerunning webpagetest, I now get:
 
@@ -189,4 +189,4 @@ PageSpeed score up from  **79/100 –> 88/100**
 
 All in all, an hour well spent, I just can’t figure out why I’ve not done it before &#8212; Thanks Andy <img src="http://allbs.co.uk/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
-[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="Screen Shot 2013-05-19 at 21.20.37 - 2.8 secs" src="http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130519at21.20.372.8secs_thumb.png" alt="Screen Shot 2013-05-19 at 21.20.37 - 2.8 secs" width="426" height="484" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130519at21.20.372.8secs.png)
+[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="Screen Shot 2013-05-19 at 21.20.37 - 2.8 secs" src="/images/allbsuploads/2013/05/ScreenShot20130519at21.20.372.8secs_thumb.png" alt="Screen Shot 2013-05-19 at 21.20.37 - 2.8 secs" width="426" height="484" border="0" />](/images/allbsuploads/2013/05/ScreenShot20130519at21.20.372.8secs.png)

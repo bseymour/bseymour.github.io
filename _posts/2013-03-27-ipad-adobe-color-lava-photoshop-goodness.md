@@ -13,14 +13,14 @@ I&#8217;ve finally got my hands on an iPad. The first thing I wanted to try out,
 
 Adobe Color Lava is an iPad-only companion app for Photoshop, which provides colour mixer functionality which real-time syncs with Photoshop to control your colour palette and currently selected colour.
 
-<img class="aligncenter size-medium wp-image-1207" alt="2013-03-27 21.46.25" src="http://ox10.it/allbs/wp-content/uploads/2013/03/2013-03-27-21.46.25-300x201.jpg" width="300" height="201" srcset="/images/allbsuploads/2013/03/2013-03-27-21.46.25-300x201.jpg 300w, /images/allbsuploads/2013/03/2013-03-27-21.46.25-1024x687.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="aligncenter size-medium wp-image-1207" alt="2013-03-27 21.46.25" src="/images/allbsuploads/2013/03/2013-03-27-21.46.25-300x201.jpg" width="300" height="201" srcset="/images/allbsuploads/2013/03/2013-03-27-21.46.25-300x201.jpg 300w, /images/allbsuploads/2013/03/2013-03-27-21.46.25-1024x687.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Select from the primary colours available (or greyscales), mix around with your finger, dap into the water to mix together even more, then load up the Color Lava palette. With a single tap, you can then send the mixed colour to be the currently selected colour in Photoshop, and away you go. (another great option is to use the iPad&#8217;s camera to take a picture to give you the starting images/colours &#8211; perfect for real-world inspired imagery)
 
-<img class="size-medium wp-image-1213 alignnone" alt="2013-03-27 21.39.48" src="http://ox10.it/allbs/wp-content/uploads/2013/03/2013-03-27-21.39.48-300x169.jpg" width="300" height="169" srcset="/images/allbsuploads/2013/03/2013-03-27-21.39.48-300x169.jpg 300w, /images/allbsuploads/2013/03/2013-03-27-21.39.48-1024x577.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="size-medium wp-image-1213 alignnone" alt="2013-03-27 21.39.48" src="/images/allbsuploads/2013/03/2013-03-27-21.39.48-300x169.jpg" width="300" height="169" srcset="/images/allbsuploads/2013/03/2013-03-27-21.39.48-300x169.jpg 300w, /images/allbsuploads/2013/03/2013-03-27-21.39.48-1024x577.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
 
 <p style="text-align: center;">
-  <img class="aligncenter  wp-image-1212" alt="2013-03-27 21.40.13" src="http://ox10.it/allbs/wp-content/uploads/2013/03/2013-03-27-21.40.13-577x1024.jpg" width="462" height="819" />
+  <img class="aligncenter  wp-image-1212" alt="2013-03-27 21.40.13" src="/images/allbsuploads/2013/03/2013-03-27-21.40.13-577x1024.jpg" width="462" height="819" />
 </p>
 
 &nbsp;

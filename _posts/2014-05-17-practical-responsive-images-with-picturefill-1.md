@@ -58,11 +58,11 @@ I am using a server-side Dynamic Imaging system to make the image manipulations 
 &lt;/picture&gt;&lt;br />
 </code>
 
-<img class="aligncenter wp-image-1762" src="http://ox10.it/allbs/wp-content/uploads/2014/05/Apple_Row2.jpg" alt="Apple_Row2" width="500" height="149" srcset="/images/allbsuploads/2014/05/Apple_Row2-300x89.jpg 300w, /images/allbsuploads/2014/05/Apple_Row2-1024x304.jpg 1024w, /images/allbsuploads/2014/05/Apple_Row2-900x267.jpg 900w, /images/allbsuploads/2014/05/Apple_Row2.jpg 3253w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="aligncenter wp-image-1762" src="/images/allbsuploads/2014/05/Apple_Row2.jpg" alt="Apple_Row2" width="500" height="149" srcset="/images/allbsuploads/2014/05/Apple_Row2-300x89.jpg 300w, /images/allbsuploads/2014/05/Apple_Row2-1024x304.jpg 1024w, /images/allbsuploads/2014/05/Apple_Row2-900x267.jpg 900w, /images/allbsuploads/2014/05/Apple_Row2.jpg 3253w" sizes="(max-width: 500px) 100vw, 500px" />
 
 &#8230;?w=1400
 
-<img class="aligncenter wp-image-1762 size-medium" src="http://ox10.it/allbs/wp-content/uploads/2014/05/Apple_Row2-300x89.jpg" alt="Apple_Row2" width="300" height="89" srcset="/images/allbsuploads/2014/05/Apple_Row2-300x89.jpg 300w, /images/allbsuploads/2014/05/Apple_Row2-1024x304.jpg 1024w, /images/allbsuploads/2014/05/Apple_Row2-900x267.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="aligncenter wp-image-1762 size-medium" src="/images/allbsuploads/2014/05/Apple_Row2-300x89.jpg" alt="Apple_Row2" width="300" height="89" srcset="/images/allbsuploads/2014/05/Apple_Row2-300x89.jpg 300w, /images/allbsuploads/2014/05/Apple_Row2-1024x304.jpg 1024w, /images/allbsuploads/2014/05/Apple_Row2-900x267.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" />
 
 &#8230;?w=800&#8230;
 

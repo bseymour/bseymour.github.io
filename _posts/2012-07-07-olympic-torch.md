@@ -14,7 +14,7 @@ The Olympic Torch has been very busy doing the rounds all over the UK in prepara
 (I&#8217;d appreciate any recommendations for nice photo-blog WordPress themes, as frankly putting these pics in here is a clunky workflow, and I&#8217;d like to separate our this time of post)
 
 <div id="attachment_714" style="width: 490px" class="wp-caption alignnone">
-  <a href="http://ox10.it/allbs/wp-content/uploads/2012/07/IMG_7994.jpg"><img class=" wp-image-714" title="Ben and Zoe with the Olympic Torch" alt="Ben and Zoe with the Olympic Torch" src="http://ox10.it/allbs/wp-content/uploads/2012/07/IMG_7994-682x1024.jpg" width="480" height="718" /></a>
+  <a href="/images/allbsuploads/2012/07/IMG_7994.jpg"><img class=" wp-image-714" title="Ben and Zoe with the Olympic Torch" alt="Ben and Zoe with the Olympic Torch" src="/images/allbsuploads/2012/07/IMG_7994-682x1024.jpg" width="480" height="718" /></a>
 
   <p class="wp-caption-text">
     Ben and Zoe with the Olympic Torch
@@ -24,13 +24,13 @@ The Olympic Torch has been very busy doing the rounds all over the UK in prepara
 &nbsp;
 
 <div id="attachment_715" style="width: 490px" class="wp-caption alignnone">
-  <a href="http://ox10.it/allbs/wp-content/uploads/2012/07/IMG_8000.jpg"><img class=" wp-image-715" title="Em and Jack with the Olympic Torch" alt="Em and Jack with the Olympic Torch" src="http://ox10.it/allbs/wp-content/uploads/2012/07/IMG_8000-682x1024.jpg" width="480" height="720" srcset="/images/allbsuploads/2012/07/IMG_8000-200x300.jpg 200w, /images/allbsuploads/2012/07/IMG_8000-682x1024.jpg 682w" sizes="(max-width: 480px) 100vw, 480px" /></a>
+  <a href="/images/allbsuploads/2012/07/IMG_8000.jpg"><img class=" wp-image-715" title="Em and Jack with the Olympic Torch" alt="Em and Jack with the Olympic Torch" src="/images/allbsuploads/2012/07/IMG_8000-682x1024.jpg" width="480" height="720" srcset="/images/allbsuploads/2012/07/IMG_8000-200x300.jpg 200w, /images/allbsuploads/2012/07/IMG_8000-682x1024.jpg 682w" sizes="(max-width: 480px) 100vw, 480px" /></a>
 
   <p class="wp-caption-text">
     Em and Jack with the Olympic Torch
   </p>
 </div>
 
-<img class="alignleft size-medium wp-image-722" title="Zoe and the Torch" alt="" src="http://ox10.it/allbs/wp-content/uploads/2012/07/IMG_7974-200x300.jpg" width="200" height="300" srcset="/images/allbsuploads/2012/07/IMG_7974-200x300.jpg 200w, /images/allbsuploads/2012/07/IMG_7974-682x1024.jpg 682w" sizes="(max-width: 200px) 100vw, 200px" /><img class="alignright size-medium wp-image-723" title="Jack and the Torch" alt="" src="http://ox10.it/allbs/wp-content/uploads/2012/07/IMG_7996-200x300.jpg" width="200" height="300" srcset="/images/allbsuploads/2012/07/IMG_7996-200x300.jpg 200w, /images/allbsuploads/2012/07/IMG_7996-682x1024.jpg 682w" sizes="(max-width: 200px) 100vw, 200px" />
+<img class="alignleft size-medium wp-image-722" title="Zoe and the Torch" alt="" src="/images/allbsuploads/2012/07/IMG_7974-200x300.jpg" width="200" height="300" srcset="/images/allbsuploads/2012/07/IMG_7974-200x300.jpg 200w, /images/allbsuploads/2012/07/IMG_7974-682x1024.jpg 682w" sizes="(max-width: 200px) 100vw, 200px" /><img class="alignright size-medium wp-image-723" title="Jack and the Torch" alt="" src="/images/allbsuploads/2012/07/IMG_7996-200x300.jpg" width="200" height="300" srcset="/images/allbsuploads/2012/07/IMG_7996-200x300.jpg 200w, /images/allbsuploads/2012/07/IMG_7996-682x1024.jpg 682w" sizes="(max-width: 200px) 100vw, 200px" />
 
 &nbsp;

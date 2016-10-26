@@ -20,4 +20,4 @@ categories:
 
 [update: August &#8217;14] It&#8217;s a bit less comfortable using the bike while working now that summer has hit, but I&#8217;ve now totally 450 miles cycled since the start of the year]
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="2014-01-03 16.08.17.jpg" src="http://ox10.it/allbs/wp-content/uploads/2014/01/2014-01-03-16.08.17.jpg" alt="2014 01 03 16 08 17" width="450" height="600" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="2014-01-03 16.08.17.jpg" src="/images/allbsuploads/2014/01/2014-01-03-16.08.17.jpg" alt="2014 01 03 16 08 17" width="450" height="600" border="0" />

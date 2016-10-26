@@ -20,7 +20,7 @@ Following Paul&#8217;s (@paulrobertlloyd) session at [Responsive Conf](http://re
 
 Google on Lynx:
 
-<img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-03-02 at 13.12.30.png" alt="Google on Lynx" src="http://ox10.it/allbs/wp-content/uploads/2013/03/Screen-Shot-2013-03-02-at-13.12.30.png" width="446" height="265" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-03-02 at 13.12.30.png" alt="Google on Lynx" src="/images/allbsuploads/2013/03/Screen-Shot-2013-03-02-at-13.12.30.png" width="446" height="265" border="0" />
 
 Installing Lynx is straight forward enough, but is a little more involved than usual, so I thought I&#8217;d share my simple steps to installing Lynx on Mac:
 
@@ -58,7 +58,7 @@ but reading the rest of the output it also included
 
 Open Xcode, and move to the &#8216;downloads&#8217; section, and it&#8217;s simple to install the Xcode command line tools:
 
-<img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-03-02 at 12.52.28.png" alt="Xcode command line tools" src="http://ox10.it/allbs/wp-content/uploads/2013/03/Screen-Shot-2013-03-02-at-12.52.28.png" width="480" height="218" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-03-02 at 12.52.28.png" alt="Xcode command line tools" src="/images/allbsuploads/2013/03/Screen-Shot-2013-03-02-at-12.52.28.png" width="480" height="218" border="0" />
 
 Then re-tried
 
@@ -72,7 +72,7 @@ e.g.:
 
 $lynx http://responsiveconf.com
 
-<img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-03-02 at 15.55.17.png" alt="Lynx: Responsive Conf Site" src="http://ox10.it/allbs/wp-content/uploads/2013/03/Screen-Shot-2013-03-02-at-15.55.17.png" width="422" height="480" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-03-02 at 15.55.17.png" alt="Lynx: Responsive Conf Site" src="/images/allbsuploads/2013/03/Screen-Shot-2013-03-02-at-15.55.17.png" width="422" height="480" border="0" />
 
 Footnote/Hat tip: I was initially pointed at this approach This approach based on the comments here (from &#8217;06):
 

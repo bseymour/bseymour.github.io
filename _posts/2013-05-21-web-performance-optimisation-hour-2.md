@@ -34,7 +34,7 @@ Fully loaded: 2.780s , requests 43, bytes in: 1076 KB
 
 (as before, there is some variance when rerunning test, but typically between 2.8 – 3.1s), but I’m now looking at the summary graphic:
 
-[<img style="display: inline; border: 0px;" title="AAADAX Screen Shot 2013-05-21 at 18.04.44" src="http://ox10.it/allbs/wp-content/uploads/2013/05/AAADAXScreenShot20130521at18.04.44_thumb.png" alt="AAADAX Screen Shot 2013-05-21 at 18.04.44" width="407" height="115" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/AAADAXScreenShot20130521at18.04.44.png)
+[<img style="display: inline; border: 0px;" title="AAADAX Screen Shot 2013-05-21 at 18.04.44" src="/images/allbsuploads/2013/05/AAADAXScreenShot20130521at18.04.44_thumb.png" alt="AAADAX Screen Shot 2013-05-21 at 18.04.44" width="407" height="115" border="0" />](/images/allbsuploads/2013/05/AAADAXScreenShot20130521at18.04.44.png)
 
 &nbsp;
 
@@ -62,19 +62,19 @@ I then URL remapped all of the img src’s to use images.mydomain , instead of t
 
 Running WebPageTest again, the results were a mixed bag. A nice green tick for now making effective use of the CDN, but also an indication that the Cache Expires headers for my images were now suboptimal. **Bugger**.
 
-[<img style="display: inline; border: 0px;" title="Screen Shot 2013-05-19 at 19.28.54" src="http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130519at19.28.54_thumb.png" alt="Screen Shot 2013-05-19 at 19.28.54" width="424" height="109" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130519at19.28.54.png)
+[<img style="display: inline; border: 0px;" title="Screen Shot 2013-05-19 at 19.28.54" src="/images/allbsuploads/2013/05/ScreenShot20130519at19.28.54_thumb.png" alt="Screen Shot 2013-05-19 at 19.28.54" width="424" height="109" border="0" />](/images/allbsuploads/2013/05/ScreenShot20130519at19.28.54.png)
 
 >> To resolve, I needed to **set the Expires Header on my S3** contents.
 
 This is possible via the browser based AWS S3 console, but I prefer to use the rather brilliant <a href="http://www.cloudberrylab.com/amazon-s3-explorer-pro-cloudfront-IAM.aspx" target="_blank">Cloudberry S3 Explorer Pro</a>. (unfortunately Windows only).
 
-[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="Cloudberry cache control" src="http://ox10.it/allbs/wp-content/uploads/2013/05/Cloudberrycachecontrol_thumb.png" alt="Cloudberry cache control" width="484" height="484" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/Cloudberrycachecontrol.png)
+[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="Cloudberry cache control" src="/images/allbsuploads/2013/05/Cloudberrycachecontrol_thumb.png" alt="Cloudberry cache control" width="484" height="484" border="0" />](/images/allbsuploads/2013/05/Cloudberrycachecontrol.png)
 
 So having set Cache-control max-age=604800    (i.e. 1 week) I reran WebPageTest, to find that my &#8216;Cache Static Content grade was still an F. It appears that to get better scores on WebPageTest, you need to set max-age of around a month, so I used Cloudberry to update to:
 
 Cache-control max-age=2592000
 
-[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="cache header Screen Shot 2013-05-21 at 20.17.44" src="http://ox10.it/allbs/wp-content/uploads/2013/05/cacheheaderScreenShot20130521at20.17.44_thumb.png" alt="cache header Screen Shot 2013-05-21 at 20.17.44" width="466" height="484" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/cacheheaderScreenShot20130521at20.17.44.png)
+[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="cache header Screen Shot 2013-05-21 at 20.17.44" src="/images/allbsuploads/2013/05/cacheheaderScreenShot20130521at20.17.44_thumb.png" alt="cache header Screen Shot 2013-05-21 at 20.17.44" width="466" height="484" border="0" />](/images/allbsuploads/2013/05/cacheheaderScreenShot20130521at20.17.44.png)
 
 Of course, I’ll have to wait a week until my assets expire from the previous cache-control header, before I can verify the results. Another step I need to add to my planned code/build/deploy, will be to support some lite version controlled naming convention so I can avoid this problem of month long expiry headers.
 
@@ -86,11 +86,11 @@ The PageSpeed improvement was: **88/100 –> 98/100**
 
 and my overall WebPageTest grades have moved from:
 
-[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="AAFDFX Screen Shot 2013-05-21 at 20.47.39" src="http://ox10.it/allbs/wp-content/uploads/2013/05/AAFDFXScreenShot20130521at20.47.39_thumb.png" alt="AAFDFX Screen Shot 2013-05-21 at 20.47.39" width="244" height="68" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/AAFDFXScreenShot20130521at20.47.39.png)
+[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="AAFDFX Screen Shot 2013-05-21 at 20.47.39" src="/images/allbsuploads/2013/05/AAFDFXScreenShot20130521at20.47.39_thumb.png" alt="AAFDFX Screen Shot 2013-05-21 at 20.47.39" width="244" height="68" border="0" />](/images/allbsuploads/2013/05/AAFDFXScreenShot20130521at20.47.39.png)
 
 to
 
-[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-05-19 at 19.28.54" src="http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130519at19.28.54_thumb1.png" alt="Screen Shot 2013-05-19 at 19.28.54" width="424" height="109" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/ScreenShot20130519at19.28.541.png)
+[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-05-19 at 19.28.54" src="/images/allbsuploads/2013/05/ScreenShot20130519at19.28.54_thumb1.png" alt="Screen Shot 2013-05-19 at 19.28.54" width="424" height="109" border="0" />](/images/allbsuploads/2013/05/ScreenShot20130519at19.28.541.png)
 
 &nbsp;
 
@@ -100,7 +100,7 @@ to
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-1373" src="http://ox10.it/allbs/wp-content/uploads/2013/05/AAADA-Screen-Shot-2013-05-26-at-19.24.40.png" alt="AAADA Screen Shot 2013-05-26 at 19.24.40" width="417" height="110" srcset="/images/allbsuploads/2013/05/AAADA-Screen-Shot-2013-05-26-at-19.24.40-300x79.png 300w, /images/allbsuploads/2013/05/AAADA-Screen-Shot-2013-05-26-at-19.24.40.png 417w" sizes="(max-width: 417px) 100vw, 417px" />
+<img class="aligncenter size-full wp-image-1373" src="/images/allbsuploads/2013/05/AAADA-Screen-Shot-2013-05-26-at-19.24.40.png" alt="AAADA Screen Shot 2013-05-26 at 19.24.40" width="417" height="110" srcset="/images/allbsuploads/2013/05/AAADA-Screen-Shot-2013-05-26-at-19.24.40-300x79.png 300w, /images/allbsuploads/2013/05/AAADA-Screen-Shot-2013-05-26-at-19.24.40.png 417w" sizes="(max-width: 417px) 100vw, 417px" />
 
 I also spent 10 minutes on a few other minor tweaks PageSpeed : <span style="color: #ff6600;"><strong>99/100</strong></span>
 

@@ -22,11 +22,11 @@ Clearly the consistency of platform makes the iPhone a more interesting physical
 
 As the Android’s come in so many shapes and sizes, finding some mechanism to get the phone to work with a standard camera mount meant getting something more universal. So I went for Joby’s <a href="http://joby.com/smartphones/griptight-mount/" target="_blank">Grip Tight</a> :
 
-[<img style="display: inline; border: 0px;" title="2013-04-28 17.16.43" src="http://ox10.it/allbs/wp-content/uploads/2013/05/2013042817.16.43_thumb.jpg" alt="2013-04-28 17.16.43" width="184" height="244" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/2013042817.16.43.jpg) [<img style="display: inline; border: 0px;" title="2013-04-28 17.17.51" src="http://ox10.it/allbs/wp-content/uploads/2013/05/2013042817.17.51_thumb.jpg" alt="2013-04-28 17.17.51" width="244" height="184" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/2013042817.17.51.jpg)
+[<img style="display: inline; border: 0px;" title="2013-04-28 17.16.43" src="/images/allbsuploads/2013/05/2013042817.16.43_thumb.jpg" alt="2013-04-28 17.16.43" width="184" height="244" border="0" />](/images/allbsuploads/2013/05/2013042817.16.43.jpg) [<img style="display: inline; border: 0px;" title="2013-04-28 17.17.51" src="/images/allbsuploads/2013/05/2013042817.17.51_thumb.jpg" alt="2013-04-28 17.17.51" width="244" height="184" border="0" />](/images/allbsuploads/2013/05/2013042817.17.51.jpg)
 
 Which has so far worked seamlessly with my GorillaPod original:
 
-[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="2013-04-28 17.16.13" src="http://ox10.it/allbs/wp-content/uploads/2013/05/2013042817.16.13_thumb1.jpg" alt="2013-04-28 17.16.13" width="184" height="244" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/2013042817.16.131.jpg)
+[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="2013-04-28 17.16.13" src="/images/allbsuploads/2013/05/2013042817.16.13_thumb1.jpg" alt="2013-04-28 17.16.13" width="184" height="244" border="0" />](/images/allbsuploads/2013/05/2013042817.16.131.jpg)
 
 I’ve also found this setup hangs pretty nicely from my car rear view mirror, and have been experimenting with in-car timelapses (more to follow)
 
@@ -42,7 +42,7 @@ For ‘Cloudy Skies 4’  I took a photo every second over the course of the da
 
 I’ve also been experimenting with a <a href="http://www.camalapse.com/" target="_blank">Camolapse</a> to give some movement to my timelapses:
 
-[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="2013-04-28 17.18.39" src="http://ox10.it/allbs/wp-content/uploads/2013/05/2013042817.18.39_thumb1.jpg" alt="2013-04-28 17.18.39" width="244" height="184" border="0" />](http://ox10.it/allbs/wp-content/uploads/2013/05/2013042817.18.391.jpg)
+[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="2013-04-28 17.18.39" src="/images/allbsuploads/2013/05/2013042817.18.39_thumb1.jpg" alt="2013-04-28 17.18.39" width="244" height="184" border="0" />](/images/allbsuploads/2013/05/2013042817.18.391.jpg)
 
 On a recent family trip to Derbyshire shot this of us on the Monsal Trail:
 

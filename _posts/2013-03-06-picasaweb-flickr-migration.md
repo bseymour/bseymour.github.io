@@ -28,7 +28,7 @@ I&#8217;ve been a very happy Picasaweb user for around 6 years. The desktop appl
 
 Immediately after our eldest was born, our available time became extremely constrained, yet our family and friends became ever more interested in photographic updates as our ever changing bundle of joy grew and developed week by week (followed 3 years later by our second bundle).
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-03-06 at 07.54.09.png" src="http://ox10.it/allbs/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-07.54.09.png" alt="google+ photo tab" width="500" height="89" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-03-06 at 07.54.09.png" src="/images/allbsuploads/2013/03/Screen-Shot-2013-03-06-at-07.54.09.png" alt="google+ photo tab" width="500" height="89" border="0" />
 
 The need to change our photo workflow only came when Google rolled out Google+ last year. I&#8217;m not sure if I had any alternatives, or if it was my mistake that my Picasaweb account became merged with my Google+ account&#8217;s &#8220;photos&#8221; &#8211; but the nature of my utilisation of the former, really did not suit the way I had been using the later.
 
@@ -44,15 +44,15 @@ Then I briefly tried &#8216;[Migratr](http://www.flickr.com/services/apps/8087/)
 
 Finally, I came across @pixelpipe&#8217;s [Pi.pe](http://pi.pe) and it has been all plain sailing ever since. Authenticate against a multitude of photo/social services:
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-03-06 at 07.51.22.png" src="http://ox10.it/allbs/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-07.51.221.png" alt="Pi.pe" width="500" height="366" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-03-06 at 07.51.22.png" src="/images/allbsuploads/2013/03/Screen-Shot-2013-03-06-at-07.51.221.png" alt="Pi.pe" width="500" height="366" border="0" />
 
 Select the relevant albums to be migrated:
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-03-06 at 21.00.26.png" src="http://ox10.it/allbs/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-21.00.26.png" alt="Folder select" width="500" height="275" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-03-06 at 21.00.26.png" src="/images/allbsuploads/2013/03/Screen-Shot-2013-03-06-at-21.00.26.png" alt="Folder select" width="500" height="275" border="0" />
 
 … and wait… coming back to check on progress periodically (you also get an email alert of completion):
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-03-06 at 20.59.47.png" src="http://ox10.it/allbs/wp-content/uploads/2013/03/Screen-Shot-2013-03-06-at-20.59.47.png" alt="status" width="500" height="249" border="0" />
+<img style="display: block; margin-left: auto; margin-right: auto;" title="Screen Shot 2013-03-06 at 20.59.47.png" src="/images/allbsuploads/2013/03/Screen-Shot-2013-03-06-at-20.59.47.png" alt="status" width="500" height="249" border="0" />
 
 OVer the last 2 days, we successfully migrated around 13,000 photos over to Flickr, with the Picasaweb &#8216;albums&#8217; automatically converted into Flickr &#8216;Sets&#8217;.
 

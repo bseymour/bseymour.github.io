@@ -35,9 +35,9 @@ Testing on my Android tablet and smartphone, switching orientation triggers diff
 
 &nbsp;
 
-[<img class="alignnone  wp-image-632" title="ResponsiveImagesv2_1" src="http://ox10.it/allbs/wp-content/uploads/2012/05/ResponsiveImagesv2_1-210x300.png" alt="" width="190" height="271" />](http://ox10.it/allbs/richmedia/scene7/noscript_test2.html) [<img class="alignnone  wp-image-633" title="ResponsiveImagesv2_2" src="http://ox10.it/allbs/wp-content/uploads/2012/05/ResponsiveImagesv2_2-255x300.png" alt="" width="266" height="310" />](http://ox10.it/allbs/richmedia/scene7/noscript_test2.html)
+[<img class="alignnone  wp-image-632" title="ResponsiveImagesv2_1" src="/images/allbsuploads/2012/05/ResponsiveImagesv2_1-210x300.png" alt="" width="190" height="271" />](http://ox10.it/allbs/richmedia/scene7/noscript_test2.html) [<img class="alignnone  wp-image-633" title="ResponsiveImagesv2_2" src="/images/allbsuploads/2012/05/ResponsiveImagesv2_2-255x300.png" alt="" width="266" height="310" />](http://ox10.it/allbs/richmedia/scene7/noscript_test2.html)
 
-[<img class="alignnone  wp-image-634" title="ResponsiveImagesv2_3" src="http://ox10.it/allbs/wp-content/uploads/2012/05/ResponsiveImagesv2_3.png" alt="" width="481" height="496" />](http://ox10.it/allbs/richmedia/scene7/noscript_test2.html)
+[<img class="alignnone  wp-image-634" title="ResponsiveImagesv2_3" src="/images/allbsuploads/2012/05/ResponsiveImagesv2_3.png" alt="" width="481" height="496" />](http://ox10.it/allbs/richmedia/scene7/noscript_test2.html)
 
 (Note: for this test I have only so far tested the values are suitable for my Android smartphone and Android tablet &#8211; it is quite likely that there will be many devices for which this demo is not yet optimised &#8211; hopefully at some point my &#8216;device testing lab&#8217; will have more toys in it 😉 )
 

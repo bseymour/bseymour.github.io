@@ -57,7 +57,7 @@ You can see the live example here:
 
 Testing on my Android tablet and smartphone switching orientation triggers the reload and this is where I see greater future benefits.
 
-[<img class="alignnone size-medium wp-image-602" title="ResponsiveImages1" src="http://ox10.it/allbs/wp-content/uploads/2012/05/ResponsiveImages1-141x300.png" alt="" width="141" height="300" />](http://ox10.it/allbs/richmedia/scene7/noscript_test.html)  [ <img class="alignnone size-medium wp-image-603" title="ResponsiveImages2" src="http://ox10.it/allbs/wp-content/uploads/2012/05/ResponsiveImages2-300x273.png" alt="" width="300" height="273" srcset="/images/allbsuploads/2012/05/ResponsiveImages2-300x273.png 300w, /images/allbsuploads/2012/05/ResponsiveImages2.png 979w" sizes="(max-width: 300px) 100vw, 300px" />](http://ox10.it/allbs/richmedia/scene7/noscript_test.html)
+[<img class="alignnone size-medium wp-image-602" title="ResponsiveImages1" src="/images/allbsuploads/2012/05/ResponsiveImages1-141x300.png" alt="" width="141" height="300" />](http://ox10.it/allbs/richmedia/scene7/noscript_test.html)  [ <img class="alignnone size-medium wp-image-603" title="ResponsiveImages2" src="/images/allbsuploads/2012/05/ResponsiveImages2-300x273.png" alt="" width="300" height="273" srcset="/images/allbsuploads/2012/05/ResponsiveImages2-300x273.png 300w, /images/allbsuploads/2012/05/ResponsiveImages2.png 979w" sizes="(max-width: 300px) 100vw, 300px" />](http://ox10.it/allbs/richmedia/scene7/noscript_test.html)
 
 (There is now also a follow example: <a title="Responsive Images – Scene7 #2" href="http://allbs.co.uk/2012/05/14/responsive-images-scene7-test-2/" target="_blank">Responsive Images &#8211; test #2</a> )
 

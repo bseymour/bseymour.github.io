@@ -7,7 +7,7 @@ title: 'Image SEO &#038; Dynamic Imaging Systems'
 date: 2013-01-07T23:03:38+00:00
 permalink: /2013/01/07/image-seo-dynamic-imaging/
 post_image:
-  - http://ox10.it/allbs/wp-content/uploads/2013/01/book-art1.jpg
+  - /images/allbsuploads/2013/01/book-art1.jpg
 categories:
   - Dynamic Media
   - eCommerce
@@ -19,7 +19,7 @@ At this time, the image and video verticals in search engine results pages (SERP
 
 &nbsp;
 
-[<img class="size-medium wp-image-953 alignright" src="http://ox10.it/allbs/wp-content/uploads/2013/01/book-art-SERP-300x218.png" alt="Book Art" width="300" height="218" />](https://www.google.co.uk/search?hl=en&tbo=d&q=book+art)
+[<img class="size-medium wp-image-953 alignright" src="/images/allbsuploads/2013/01/book-art-SERP-300x218.png" alt="Book Art" width="300" height="218" />](https://www.google.co.uk/search?hl=en&tbo=d&q=book+art)
 
 (Screen grab of the Google results when searching for &#8220;book art&#8221; &#8211; the image results take a prominent position on the first results page, and so can potentially be a valuable tool for boosting organic search results for an online presence)
 
