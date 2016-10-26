@@ -58,6 +58,8 @@ photos_sidenav:
         url: /sketches
       - title: "2016 Photostream"
         url: /2016stream
+      - title: "Timelapses"
+        url: /timelapses
 
 
   - title: Memories
