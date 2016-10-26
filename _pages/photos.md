@@ -18,6 +18,8 @@ Lots more work to be done here - but for now, please **use the left nav** to acc
 
 [Sketches](/sketches)
 
+[Timelapses](/timelapses)
+
 [2016 Photostream](/2016stream)
 
 [2015 Photostream](/2015stream)
