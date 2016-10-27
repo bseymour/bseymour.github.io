@@ -17,4 +17,4 @@ The workflow includes building a skeleton for a Jekyll blog post with dates auto
 
 Testing 1Writer Action to insert responsive images markup
 
-<img src="/images/posts/MobileWorkflowStack.jpg" srcset="MobileWorkflowStack-640.jpg"/>
+<img src="/images/posts/MobileWorkflowStack-960.jpg" srcset="/images/posts/MobileWorkflowStack-1200.jpg 1200w, /images/posts/MobileWorkflowStack-640.jpg 640w"/>
