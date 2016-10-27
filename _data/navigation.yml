@@ -34,10 +34,10 @@ blog_sidenav:
   - title: Blog Posts
     url: /blog
     children:
-      - title: "Categories [TODO]"
-        url: /
-      - title: "Tags [TODO]"
-        url: /
+      - title: "Categories"
+        url: /categories
+      - title: "Tags"
+        url: /tags
   - title: "Links"
     children:
     - title: "About"
