@@ -32,4 +32,4 @@ I'd not even heard of #NaBloPoMo (that's National Blog Post Month) before yester
 
 7+ tbd
 
-[Updating this post in Git2Go](/images/posts/NaBloPoMo1b.jpg)
+![Updating this post in Git2Go](/images/posts/NaBloPoMo1b.jpg)
