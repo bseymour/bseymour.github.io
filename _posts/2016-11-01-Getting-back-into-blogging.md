@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 type: pages
 title: Getting back into blogging
 date: 2016-11-01T2:09:00+00:00
