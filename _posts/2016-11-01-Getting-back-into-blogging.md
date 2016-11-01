@@ -4,7 +4,7 @@ author_profile: true
 type: pages
 title: Getting back into blogging
 date: 2016-11-01T2:09:00+00:00
-post_image: /images/posts/default.png
+post_image: /images/posts/NaBloPoMo1.jpg
 permalink: /2016/11/01/Getting-back-into-blogging
 categories:
   - general
