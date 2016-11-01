@@ -6,8 +6,8 @@ title: Getting back into blogging
 date: 2016-11-01T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo1.jpg
 permalink: /2016/11/01/Getting-back-into-blogging
-categories:
-  - general
+categories: [general, blogging]
+Tags: [NaBloPoMo, Jekyll, Mobile]
 sidebar:
     nav: "blog_sidenav"
 ---
@@ -19,9 +19,17 @@ I certainly hold nothing against Wordpress per-se; it's a platform that has done
 I'd not even heard of #NaBloPoMo (that's National Blog Post Month) before yesterday, but it seemed a timely nudge to get things moving. My hastily thrown together plan for the month (or however long I last) will be:
 
 1) Jekyll - a bit more about Jekyll
+
 2) Github pages - and the publishing process
+
 3) Mobile Workflow 1: Using Workflow app and 1Writer to automate the markdown skeleton
+
 4) Mobile Workflow 2: Using 1Writer and Git2Go to push to git 
+
 5) Mobile Workflow 3: Image treatments using Workflow App
+
 6) Mobile Workflow 4: Using 1Writer Actions to implement Responsive Images
+
 7+ tbd
+
+[Updating this post in Git2Go](/images/posts/NaBloPoMo1b.jpg)
