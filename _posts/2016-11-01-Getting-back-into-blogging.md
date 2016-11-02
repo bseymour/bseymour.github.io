@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 type: pages
-title: Getting back into blogging - NaBloPoMo #1
+title: Getting back into blogging - NaBloPoMo &#35;1
 date: 2016-11-01T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo1.jpg
 permalink: /2016/11/01/Getting-back-into-blogging

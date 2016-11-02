@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 type: pages
-title: Jekyll Static Site Generator - NaBloPoMo #2
+title: Jekyll Static Site Generator - NaBloPoMo &#35;2
 date: 2016-11-02T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo2-th.jpg
 permalink: /2016/11/02/Jekyll-Static-Site-Generator
