@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 type: pages
-title: Getting back into blogging
+title: Getting back into blogging - NaBloPoMo #1
 date: 2016-11-01T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo1.jpg
 permalink: /2016/11/01/Getting-back-into-blogging
@@ -24,7 +24,7 @@ I'd not even heard of #NaBloPoMo (that's National Blog Post Month) before yester
 
 3) Mobile Workflow 1: Using Workflow app and 1Writer to automate the markdown skeleton
 
-4) Mobile Workflow 2: Using 1Writer and Git2Go to push to git 
+4) Mobile Workflow 2: Using 1Writer and Git2Go to push to git
 
 5) Mobile Workflow 3: Image treatments using Workflow App
 

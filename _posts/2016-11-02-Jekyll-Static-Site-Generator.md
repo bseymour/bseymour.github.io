@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 type: pages
-title: Jekyll Static Site Generator
+title: Jekyll Static Site Generator - NaBloPoMo #2
 date: 2016-11-02T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo2-th.jpg
 permalink: /2016/11/02/Jekyll-Static-Site-Generator
@@ -11,7 +11,7 @@ tags: [jekyll]
 sidebar:
     nav: "blog_sidenav"
 ---
-As mentioned (yesterday)[../01/Getting-back-into-blogging], having decided to move away from a database-based blog-aware site I started looking into static site generators. (Though inspired by Aral's [Breaking Things](http://www.breakingthin.gs/) I did also consider building my own locally scripted solution).  
+As mentioned [yesterday](../01/Getting-back-into-blogging), having decided to move away from a database-based blog-aware site I started looking into static site generators. (Though inspired by Aral's [Breaking Things](http://www.breakingthin.gs/) I did also consider building my own locally scripted solution).  
 
 [StaticGen](https://www.staticgen.com/) is a fantastic resource for reviewing the top Open-Source Static Site Generators, and it is so heartening to see that there are so many highly active and lovingly maintained projects.
 
@@ -27,7 +27,7 @@ There are tonnes of great getting started resources for github-pages and Jekyll,
 1) Start with a fork of an existing Jekyll/github-pages repo
 (I can highly recommend [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
 
-2) Rename that Fork to be a repo called mygituser.github.io, so mine is bseymour.github.io 
+2) Rename that Fork to be a repo called mygituser.github.io, so mine is bseymour.github.io
 
 3) Clone a local working copy, and setup the remote such that commits go to that gh-pages repo  
 
@@ -41,4 +41,4 @@ There are tonnes of great getting started resources for github-pages and Jekyll,
 
 8)  (Optional) Consider fronting your site with a CDN. I used this as an opportunity to Cloudflare for the first time, who thanks to them also being a DNS provider can offer some simpler-than-usual options for serving your site over SSL. More details [here](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/)
 
-9) Experiment, explore and have fun. 
+9) Experiment, explore and have fun.
