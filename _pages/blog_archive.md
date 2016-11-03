@@ -11,5 +11,7 @@ sidebar:
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].all_posts | default: "Blog posts archive" }}</h3>
 
 {% for post in site.posts %}
-  {% include archive-single.html %}
+  {% unless post.category == "archive" %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}

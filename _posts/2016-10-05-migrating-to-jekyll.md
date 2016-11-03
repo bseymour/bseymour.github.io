@@ -6,6 +6,7 @@ type: pages
 title: Migrating from Wordpress to Jekyll
 date: 2016-10-05T22:11:57+00:00
 permalink: /2016/10/05/migrating-to-jekyll/
+category: archive
 categories:
   - general
 ---
