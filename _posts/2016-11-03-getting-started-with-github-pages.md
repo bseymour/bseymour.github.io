@@ -6,7 +6,7 @@ title: Getting Started with Github Pages - NaBloPoMo &#35;3
 date: 2016-11-02T2:09:00+00:00
 post_image: /images/posts/default.png
 permalink: /2016/11/02/getting-started-with-github-pages
-categories: [general, blogging]
+categories: [general, blogging, draft]
 tags: [jekyll, github]
 sidebar:
     nav: "blog_sidenav"

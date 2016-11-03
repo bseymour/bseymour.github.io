@@ -6,8 +6,8 @@ type: pages
 title: Publishing from mobile
 date: 2016-10-05T22:11:57+00:00
 permalink: /2016/10/10/publish-from-mobile/
-categories: [general]
-tags:[archive]
+categories: [general, archive]
+tags: [test]
 ---
 
 # iA Writer on iOS test post
