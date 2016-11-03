@@ -7,7 +7,7 @@ date: 2016-11-02T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo2-th.jpg
 permalink: /2016/11/02/Jekyll-Static-Site-Generator
 categories: [general, blogging]
-tags: [jekyll]
+tags: [jekyll, NaBloPoMo]
 sidebar:
     nav: "blog_sidenav"
 ---

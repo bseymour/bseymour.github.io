@@ -7,7 +7,7 @@ date: 2016-11-03T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo3-th.png
 permalink: /2016/11/03/getting-started-with-github-pages
 categories: [general, blogging]
-tags: [jekyll, github]
+tags: [jekyll, github, NaBloPoMo]
 sidebar:
     nav: "blog_sidenav"
 ---
