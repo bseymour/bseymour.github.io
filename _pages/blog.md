@@ -3,7 +3,7 @@ layout: archive
 author_profile: true
 permalink: /blog/
 sidebar:
-    nav: "core_sidenav"
+    nav: "blog_sidenav"
 ---
 
 {% include base_path %}
