@@ -33,3 +33,5 @@ There are tonnes of great [getting started](https://24ways.org/2013/get-started-
 9)  (Optional) Consider fronting your site with a CDN. I used this as an opportunity to Cloudflare for the first time, who thanks to them also being a DNS provider can offer some simpler-than-usual options for serving your site over SSL. More details [here](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/)
 
 10) Experiment, explore and have fun.
+
+![Jekyll and Github-pages](/images/posts/NaBloPoMo3-gh.png)
