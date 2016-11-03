@@ -38,6 +38,8 @@ blog_sidenav:
         url: /categories
       - title: "Tags"
         url: /tags
+      - title: "Post by Year"
+        url: /year-archive
   - title: "Links"
     children:
     - title: "About"
