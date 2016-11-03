@@ -15,7 +15,7 @@ As mentioned [yesterday](../01/Getting-back-into-blogging), having decided to mo
 
 [StaticGen](https://www.staticgen.com/) is a fantastic resource for reviewing the top Open-Source Static Site Generators, and it is so heartening to see that there are so many highly active and lovingly maintained projects.
 
-![StaticGen screenshot](/images/posts/NaBloPoMo3-sg.jpg){:height="300px"}
+![StaticGen screenshot](/images/posts/NaBloPoMo2-sg.jpg){:height="300px"}
 
 Friends had recommended Middleman, and I'd seen a lot of positive writing about Jekyll, so they formed my initial (very) shortlist. After a maddeningly unproductive first attempt with Middleman a few months ago, I gave Jekyll a try, and found it much smoother running.
 
