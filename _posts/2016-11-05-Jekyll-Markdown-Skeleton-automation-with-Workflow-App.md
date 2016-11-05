@@ -17,6 +17,8 @@ Things are about to get a bit meta! A few days ago we talked about [how writing 
 Standard Jekyll requires the file to be named as such: YYYY-MM-dd-blog-post-title.md
 
 And the YML standard front matter for my Jekyll configuration is along the lines of:
+
+```
 ---
 layout: single
 author_profile: false
@@ -30,6 +32,7 @@ tags: [NaBloPoMo]
 sidebar:
     nav: "blog_sidenav"
 ---
+```
 
 As you may have spotted the YYYY, MM and DD values are used repeatedly, and if we are writing the post on the date of the post, then are known by the local system that we are using.
 
