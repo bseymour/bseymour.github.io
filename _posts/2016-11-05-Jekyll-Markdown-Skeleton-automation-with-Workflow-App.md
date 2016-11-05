@@ -63,8 +63,10 @@ The final touch was to add this workflow as an apparent app on my home screen:
 
 Workflow app offers sync'ing, and so once I was happy with the result, it instantly became available to use on my iPhone.
 
+If you have workflow app, and you wanted to try this workflow you can access/install it [from here](https://workflow.is/workflows/8bcb52e0892c4896824cf694f3cc04f9) (* please read through it thoroughly to make sure you are happy with the results before running!)
+
 Next up, we'll talk about the onward path for using the generated markdown file - but we'll leave that for tomorrow.
 
-Finally, here is a photo of me using this workflow, purely on my ipad, on our dining table.
+Finally, here is a photo of me using this workflow, purely on my ipad, to write this very post on our dining table this afternoon.
 
 ![Writing on dining table](/images/posts/NaBloPoMo5-dining-table.jpg)
