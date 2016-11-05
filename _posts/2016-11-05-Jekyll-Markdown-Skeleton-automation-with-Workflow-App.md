@@ -4,7 +4,7 @@ author_profile: false
 type: pages
 title: Jekyll Markdown Skeleton automation with Workflow App
 date: 2016-11-05T2:09:00+00:00
-post_image: /images/posts/NaBloMoPo5-th.jpg
+post_image: /images/posts/NaBloPoMo5-th.jpg
 permalink: /2016/11/05/Jekyll-Markdown-Skeleton-automation-with-Workflow-App
 categories: [general]
 tags: [NaBloPoMo]
@@ -12,7 +12,7 @@ sidebar:
     nav: "blog_sidenav"
 ---
 
-Things are about to get a bit meta! A few days ago we talked about how writing in markdown is pretty straight forward, however generating the appropriate front matter for Jekyll, and giving it the correct file name for it to be recognised as a blog can be a little laborious.
+Things are about to get a bit meta! A few days ago we talked about [how writing in markdown](../02/Jekyll-Static-Site-Generator) is pretty straight forward, however generating the appropriate front matter for Jekyll, and giving it the correct file name for it to be recognised as a blog can be a little laborious.
 
 Standard Jekyll requires the file to be named as such: YYYY-MM-dd-blog-post-title.md
 
