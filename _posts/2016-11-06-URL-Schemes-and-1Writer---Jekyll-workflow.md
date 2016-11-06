@@ -4,7 +4,7 @@ author_profile: true
 type: pages
 title: URL Schemes and 1Writer - Jekyll workflow
 date: 2016-11-06T2:09:00+00:00
-post_image: /images/posts/default.png
+post_image: /images/posts/NaBloPoMo6-th.jpg
 permalink: /2016/11/06/URL-Schemes-and-1Writer---Jekyll-workflow
 categories: [general]
 tags: [none]
