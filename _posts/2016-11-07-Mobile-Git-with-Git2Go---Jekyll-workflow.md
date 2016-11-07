@@ -26,6 +26,17 @@ gittogo://repositories/github/bseymour/bseymour.github.io/files/new?path=_posts/
 
 I can also upload my post images via Git2Go,  though I need too manually rename the image from the default 'Asset.jpg' to the desired filename for the post.
 
-![Git2Go asset rename](/images/posts/NaBloPoMo7-asset-upload.jpg)
+![Git2Go asset rename](/images/posts/NaBloPoMo7-git2go-commit.jpg) 
+
+... and of course I can also edit my files, directly within Git2Go
+
+![Git2Go edit](/images/posts/NaBloPoMo7-edit.jpg)
+
+wherever I am... which this morning includes over a mocha in Hyde Park
+
+![mobile in hyde park](/images/posts/NaBloPoMo7-hyde-park.jpg)
+
+
+
 
 
