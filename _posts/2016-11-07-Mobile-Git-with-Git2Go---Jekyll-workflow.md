@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 type: pages
 title: Mobile Git with Git2Go - Jekyll workflow
 date: 2016-11-07T2:09:00+00:00
