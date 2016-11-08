@@ -17,7 +17,7 @@ While there are many improvements that I'm looking forward to making to my Jekyl
 
 As I'm hosting on gh-pages, I'm unable to utilise any of the Responsive Images plugins available for Jekyll, and as such I'll be taking a semi-automatic 'batch-statics' approach, which has 2 main aspects:
 1) Generating image size variants of the image (on my iOS devices) 
-2) Generating image embed code using srcset to implement responsive images ([where supported](http://caniuse.com/srcset/embed)
+2) Generating image embed code using srcset to implement responsive images ([where supported](http://caniuse.com/srcset/embed) )
 
 # 1: Generating image size variants
 Back to  Workflow App, where I've setup a workflow which enables me to select one or more images, asks for a new base filename for the image, and then generates multiple resized variants of that image, appending a size relevant name to the base name.
@@ -65,7 +65,7 @@ I've submitted this to the 1Writer Action Directory, so you can load it from the
 ToDo: explore options for generating progressive JPG on an iPad
 ToDo: considering utilising a Dynamic Media solution for generating all of my image variants from a single master asset, at request-time. 
 
-As well as being passionate about the advantages of Responsive Images, I've also spent a fair chunk of the last decade [working](../../work) with the world's most capable enterprise Dynamic Media systems (if you're curious, please [ping me](https://twitter.com/bseymour), or check out the [Amplience Website](https://twitter.com/bseymour)...
+As well as being passionate about the advantages of Responsive Images, I've also spent a fair chunk of the last decade [working](../../work) with the world's most capable enterprise Dynamic Media systems (if you're curious, please [ping me](https://twitter.com/bseymour), or check out the [Amplience Website](http://amplience.com/products/dynamic-media/).
 
 
 
