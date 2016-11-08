@@ -6,6 +6,7 @@ title: Jekyll Responsive Images without plugins
 date: 2016-11-08T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo8-th.jpg
 permalink: /2016/11/08/Jekyll-Responsive-Images-without-plugins
+category: archive
 categories: [general]
 tags: [NaBloPoMo]
 sidebar:
