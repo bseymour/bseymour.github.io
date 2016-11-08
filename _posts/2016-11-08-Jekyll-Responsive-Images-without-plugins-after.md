@@ -59,7 +59,7 @@ The update to the img tag is a srcset attribute, which contains a comma-separate
 
 This could be a little laborious and repetitive to key in for each image, and so wrote a 1Writer Action which performs this task for me. To use it, enter and highlight the image basename and then run the action 'srcset', and it converts that basename, into html of the format you saw above:
 
-NaBloPoMo8-srcset-action
+<img src="/images/posts/NaBloPoMo8-srcset-action-960.jpg" srcset="/images/posts/NaBloPoMo8-srcset-action-480.jpg 480w, /images/posts/NaBloPoMo8-srcset-action-960.jpg 960w, /images/posts/NaBloPoMo8-srcset-action-1200.jpg 1200w, /images/posts/NaBloPoMo8-srcset-action-1800.jpg 1800w"/>
 
 I've submitted this to the 1Writer Action Directory, so you can load it from there simply:
 
