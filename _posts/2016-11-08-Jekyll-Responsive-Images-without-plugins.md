@@ -46,9 +46,9 @@ One current limitation of iOS in this is that you cannot multi-select and bulk u
 # 2: Generating image embed code using srcset
 Standard markdown gives us a simple way to add images, but in order to add more complex embed code for our responsive images, we're going to need to mix some HTML within our markdown (which is a standard supported approach, and one of the strengths of markdown).
 
-If you are unfamiliar with implementing responsive images, you can find more details at [http://responsiveimag.es/](http://responsiveimag.es/) or -cough-  the ebook I wrote last year: [Practical Responsive Images](http://responsiveimag.es/).
+If you are unfamiliar with implementing responsive images, you can find more details at [http://responsiveimag.es/](http://responsiveimag.es/) or -cough-  the ebook I wrote last year: [Practical Responsive Images](https://payhip.com/b/yPep).
 
-The update elements to the img tag is a srcset attribute, which contains a comma separated list of 'image candidates' and an associated 'w-descriptor' for each image variant, which indicates to the User Agent (browser) the width of that image, such that the User Agent can then use device pixel density and viewport width to select the most appropriate of the images to load. (The src= must still be included and so we have a fallback for non-supporting browsers). Here is an example: 
+The update to the img tag is a srcset attribute, which contains a comma-separated list of 'image candidates' and an associated 'w-descriptor' for each image variant, which indicates to the User Agent (browser) the width of that image, such that the User Agent can then use device pixel density and viewport width to select the most appropriate of the images to load. (The src= must still be included and so we have a fallback for non-supporting browsers). Here is an example: 
 
 ```
 <img src="/images/posts/MobileWorkflowStack-960.jpg" 
@@ -69,8 +69,11 @@ I've submitted this to the 1Writer Action Directory, so you can load it from the
 
 
 ToDo: explore options for generating progressive JPG on an iPad
-ToDo: considering utilising a Dynamic Media solution for generating all of my image variants from a single master asset, at request-time. 
 
+ToDo: considering utilising a Dynamic Media solution (see note below) for generating all of my image variants from a single master asset, at request-time. 
+
+
+Note:
 As well as being passionate about the advantages of Responsive Images, I've also spent a fair chunk of the last decade [working](../../work) with the world's most capable enterprise Dynamic Media systems (if you're curious, please [ping me](https://twitter.com/bseymour), or check out the [Amplience Website](http://amplience.com/products/dynamic-media/).
 
 
