@@ -66,6 +66,7 @@ I've submitted this to the 1Writer Action Directory, so you can load it from the
 <img src="/images/posts/NaBloPoMo8-srcset-action-directory-960.jpg" srcset="/images/posts/NaBloPoMo8-srcset-action-directory-480.jpg 480w, /images/posts/NaBloPoMo8-srcset-action-directory-960.jpg 960w, /images/posts/NaBloPoMo8-srcset-action-directory-1200.jpg 1200w, /images/posts/NaBloPoMo8-srcset-action-directory-1800.jpg 1800w"/>
 
 
+ToDo: I could really do with undertaking a more thorough review of the most appropriate sizing variants for the image candidates, to further optimise the responsive images implementations
 
 ToDo: explore options for generating progressive JPG on an iPad
 
