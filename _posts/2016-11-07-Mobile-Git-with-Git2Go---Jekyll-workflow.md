@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 type: pages
-title: Mobile Git with Git2Go - Jekyll workflow
+title: Mobile Git with Git2Go - Jekyll workflow - NaBloPoMo 7
 date: 2016-11-07T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo7-th.jpg
 permalink: /2016/11/07/Mobile-Git-with-Git2Go---Jekyll-workflow

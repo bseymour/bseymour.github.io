@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 type: pages
-title: Jekyll Markdown Skeleton automation with Workflow App - #NaBloPoMo 5
+title: Jekyll Markdown Skeleton automation with Workflow App - NaBloPoMo 5
 date: 2016-11-05T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo5-th.jpg
 permalink: /2016/11/05/Jekyll-Markdown-Skeleton-automation-with-Workflow-App

@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 type: pages
-title: Jekyll Responsive Images without plugins
+title: Jekyll Responsive Images without plugins - NaBloPoMo 8
 date: 2016-11-08T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo8-th.jpg
 permalink: /2016/11/08/Jekyll-Responsive-Images-without-plugins-after
