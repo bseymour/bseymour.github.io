@@ -49,7 +49,11 @@ If you are unfamiliar with implementing responsive images, you can find more det
 The update elements to the img tag is a srcset attribute, which contains a comma separated list of 'image candidates' and an associated 'w-descriptor' for each image variant, which indicates to the User Agent (browser) the width of that image, such that the User Agent can then use device pixel density and viewport width to select the most appropriate of the images to load. (The src= must still be included and so we have a fallback for non-supporting browsers). Here is an example: 
 
 ```
-<img src="/images/posts/MobileWorkflowStack-960.jpg" srcset="/images/posts/MobileWorkflowStack-480.jpg 480w, /images/posts/MobileWorkflowStack-960.jpg 960w, /images/posts/MobileWorkflowStack-1200.jpg 1200w, /images/posts/MobileWorkflowStack-1800.jpg 1800w"/>
+<img src="/images/posts/MobileWorkflowStack-960.jpg" 
+	 srcset="/images/posts/MobileWorkflowStack-480.jpg 480w, 
+			/images/posts/MobileWorkflowStack-960.jpg 960w, 
+			/images/posts/MobileWorkflowStack-1200.jpg 1200w, 
+			/images/posts/MobileWorkflowStack-1800.jpg 1800w"/>
 ```
 
 This could be a little laborious and repetitive to key in for each image, and so wrote a 1Writer Action which performs this task for me. To use it, enter and highlight the image basename and then run the action 'srcset', and it converts that basename, into html of the format you saw above:
