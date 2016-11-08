@@ -11,18 +11,20 @@ tags: [NaBloPoMo]
 sidebar:
     nav: "blog_sidenav"
 ---
-While there are many improvements that I'm looking forward to making to my Jekyll/gh-pages workflow my biggest concern is the way that I'm handling images. Currently images are uploaded to Github straight from the iPad/iPhones camera roll as-is, and then served directly into the page, meaning that in many cases we are serving up images that are considerably larger than needed, and not being particularly considerate to our site visitors.
+While there are many improvements that I'm looking forward to making to my Jekyll/gh-pages workflow my current biggest concern is the way that I'm handling images. Currently images are uploaded to Github straight from the iPad/iPhones camera roll as-is, and then served directly into the page, meaning that in many cases we are serving up images that are considerably larger than needed, and not being particularly considerate to our site visitors.
 
 ![Webpagetest initial results](/images/posts/NaBloPoMo8-webpagetest1.jpg)
 
 As I'm hosting on gh-pages, I'm unable to utilise any of the Responsive Images plugins available for Jekyll, and as such I'll be taking a semi-automatic 'batch-statics' approach, which has 2 main aspects:
+
 1) Generating image size variants of the image (on my iOS devices) 
+
 2) Generating image embed code using srcset to implement responsive images ([where supported](http://caniuse.com/srcset/embed) )
 
 # 1: Generating image size variants
 Back to  Workflow App, where I've setup a workflow which enables me to select one or more images, asks for a new base filename for the image, and then generates multiple resized variants of that image, appending a size relevant name to the base name.
 
-for example, here I selected an image, and now have a 'run workflow option available:
+For example, here I selected an image, and now have a 'run workflow option available:
 
 ![select image - 'run workflow' ](/images/posts/NaBloPoMo8-select-image.jpg)
 
@@ -38,13 +40,13 @@ And the following size variants are automatically generated with widths of 480px
 ![icloud results](/images/posts/NaBloPoMo8-icloud.jpg)
 
 These can then be uploaded to my repo using Git2Go as we saw in an earlier post.
-One current limitation of iOS in this is that you cannot multi-select and bulk upload, but have to manually select each image in Git2Go 
+One current limitation of iOS in this is that you cannot multi-select and bulk upload, but have to manually select each image in Git2Go. 
 
 
 # 2: Generating image embed code using srcset
 Standard markdown gives us a simple way to add images, but in order to add more complex embed code for our responsive images, we're going to need to mix some HTML within our markdown (which is a standard supported approach, and one of the strengths of markdown).
 
-If you are unfamiliar with implementing responsive images, you can find more details at [http://responsiveimag.es/](http://responsiveimag.es/) or the ebook I wrote last year: [Practical Responsive Images](http://responsiveimag.es/).
+If you are unfamiliar with implementing responsive images, you can find more details at [http://responsiveimag.es/](http://responsiveimag.es/) or -cough-  the ebook I wrote last year: [Practical Responsive Images](http://responsiveimag.es/).
 
 The update elements to the img tag is a srcset attribute, which contains a comma separated list of 'image candidates' and an associated 'w-descriptor' for each image variant, which indicates to the User Agent (browser) the width of that image, such that the User Agent can then use device pixel density and viewport width to select the most appropriate of the images to load. (The src= must still be included and so we have a fallback for non-supporting browsers). Here is an example: 
 
