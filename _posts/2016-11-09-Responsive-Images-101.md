@@ -69,9 +69,11 @@ Following their painstaking work the [< picture > element](https://html.spec.wha
 
 The img tag now comes with enhancements of the following forms:
 
+```
 <img srcset="" src="" alt="" />
 
 <img srcset="" sizes="" src="" alt="" />”
+```
 
 This new *optional* srcset attribute, enables you to provide a set of 'image candidates' to handle graphical displays of varying dimensions and pixel densities.
 
@@ -91,8 +93,8 @@ The new *optional* sizes attribute enables us to provide further details about t
     src="Apple_fallback.jpg" alt="text" />”
 ```
 
-![50vw](images/posts/NaBloPoMo9-50w.png)
-![100vw](images/posts/NaBloPoMo9-100w.png)
+![50vw](/images/posts/NaBloPoMo9-50w.png)
+![100vw](/images/posts/NaBloPoMo9-100w.png)
 
 
 
