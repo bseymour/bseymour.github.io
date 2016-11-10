@@ -2,14 +2,14 @@
 layout: single
 author_profile: false
 type: pages
-title: Mobile Git with Git2Go - Jekyll workflow - NaBloPoMo 7
+title: Mobile Git with Git2Go - Jekyll workflow - NaBloPoMo &#35;7
 date: 2016-11-07T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo7-th.jpg
 permalink: /2016/11/07/Mobile-Git-with-Git2Go---Jekyll-workflow
 categories: [general]
 tags: [NaBloPoMo]
 sidebar:
-    nav: "blog_sidenav"
+    nav: "nablopomo_blog_sidenav"
 ---
 
 The last step in yesterday's post described using a 1Writer action to pass my markdown file into Github where it will trigger an automatic Jekyll regeneration of my site on GitHub-pages. In a mobile context my Git client of choice for iOS is [Git2Go](http://git2go.com/).
@@ -26,7 +26,7 @@ gittogo://repositories/github/bseymour/bseymour.github.io/files/new?path=_posts/
 
 I can also upload my post images via Git2Go,  though I need too manually rename the image from the default 'Asset.jpg' to the desired filename for the post.
 
-![Git2Go asset rename](/images/posts/NaBloPoMo7-git2go-commit.jpg) 
+![Git2Go asset rename](/images/posts/NaBloPoMo7-git2go-commit.jpg)
 
 ... and of course I can also edit my files, directly within Git2Go
 
@@ -35,8 +35,3 @@ I can also upload my post images via Git2Go,  though I need too manually rename 
 wherever I am... which this morning includes over a mocha in Hyde Park
 
 ![mobile in hyde park](/images/posts/NaBloPoMo7-hyde-park.jpg)
-
-
-
-
-

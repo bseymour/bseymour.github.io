@@ -2,14 +2,14 @@
 layout: single
 author_profile: false
 type: pages
-title: Jekyll Markdown Skeleton automation with Workflow App - NaBloPoMo 5
+title: Jekyll Markdown Skeleton automation with Workflow App - NaBloPoMo &#35;5
 date: 2016-11-05T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo5-th.jpg
 permalink: /2016/11/05/Jekyll-Markdown-Skeleton-automation-with-Workflow-App
 categories: [general]
 tags: [NaBloPoMo]
 sidebar:
-    nav: "blog_sidenav"
+    nav: "nablopomo_blog_sidenav"
 ---
 
 Things are about to get a bit meta! A few days ago we talked about [how writing in markdown](../02/Jekyll-Static-Site-Generator) is pretty straight forward, however generating the appropriate front matter for Jekyll, and giving it the correct file name for it to be recognised as a blog can be a little laborious.
@@ -38,7 +38,7 @@ As you may have spotted the YYYY, MM and DD values are used repeatedly, and if w
 
 The 'Blog Post Title' is also used several times, in both the markdown file name, the Title of the post, and in the permalink.
 
-Hence, a workflow enabling us to pass in a 'title' and able to utilise the current date, and to re-use this values to automatically form a markdown skeleton for our post, would save us from this dull repeated task. 
+Hence, a workflow enabling us to pass in a 'title' and able to utilise the current date, and to re-use this values to automatically form a markdown skeleton for our post, would save us from this dull repeated task.
 
 Enter the Workflow App (for iOS - I'm afraid I've not tried the Android version if there is one). Once I run my app configuration it prompts me for the blog post title:
 

@@ -50,6 +50,31 @@ blog_sidenav:
       url: /bookmarks
 
 
+nablopomo_blog_sidenav:
+  - title: "NaBloPoMo"
+    children:
+    - title: "&#35;1 Back to Blog"
+      url: /2016/11/01/Getting-back-into-blogging
+    - title: "&#35;2 Jekyll"
+      url: /2016/11/02/Jekyll-Static-Site-Generator
+    - title: "&#35;3 Github Pages"
+      url: /2016/11/03/getting-started-with-github-pages
+    - title: "&#35;4 Migrating from WP"
+      url: /2016/11/04/Migrating-Existing-Content-From-Wordpress-to-Jekyll
+    - title: "&#35;5 Markdown Skeleton"
+      url: /2016/11/05/Jekyll-Markdown-Skeleton-automation-with-Workflow-App
+    - title: "&#35;6 URL Schemes"
+      url: /2016/11/06/URL-Schemes-and-1Writer---Jekyll-workflow
+    - title: "&#35;7 Mobile Git - Git2Go"
+      url: /2016/11/07/Mobile-Git-with-Git2Go---Jekyll-workflow
+    - title: "&#35;8 Jekyll Resp. Images"
+      url: /2016/11/08/Jekyll-Responsive-Images-without-plugins-after
+    - title: "&#35;9 Resp. Images 101"
+      url: /2016/11/09/Responsive-Images-101
+    - title: "&#35;10 Dynamic Images 101"
+      url: /2016/11/10/Dynamic-Images-101
+
+
 photos_sidenav:
   - title: Photos
     url: /photos

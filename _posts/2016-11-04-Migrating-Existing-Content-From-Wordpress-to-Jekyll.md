@@ -2,14 +2,14 @@
 layout: single
 author_profile: false
 type: pages
-title: Migrating Existing Content From Wordpress to Jekyll - NaBloPoMo 4
+title: Migrating Existing Content From Wordpress to Jekyll - NaBloPoMo &#35;4
 date: 2016-11-04T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo4-directory.png
 permalink: /2016/11/04/Migrating-Existing-Content-From-Wordpress-to-Jekyll
 categories: [general]
 tags: [jekyll, NaBloPoMo, wordpress]
 sidebar:
-    nav: "blog_sidenav"
+    nav: "nablopomo_blog_sidenav"
 ---
 Having used self-hosted Wordpress instances for both my blog and my personal site for several years, I also needed to transfer my existing content.
 

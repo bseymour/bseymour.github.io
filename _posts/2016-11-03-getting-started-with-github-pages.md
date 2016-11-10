@@ -9,7 +9,7 @@ permalink: /2016/11/03/getting-started-with-github-pages
 categories: [general, blogging]
 tags: [jekyll, github, NaBloPoMo]
 sidebar:
-    nav: "blog_sidenav"
+    nav: "nablopomo_blog_sidenav"
 ---
 Following on from NaBloPoMo [day 1](../01/Getting-back-into-blogging) & [day 2](../02/Jekyll-Static-Site-Generator)... There are tonnes of great [getting started](https://24ways.org/2013/get-started-with-github-pages/) [resources](https://guides.github.com/features/pages/) for [github-pages](https://pages.github.com/) and Jekyll, but the short gist is:
 

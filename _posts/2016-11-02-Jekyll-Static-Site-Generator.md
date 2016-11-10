@@ -9,7 +9,7 @@ permalink: /2016/11/02/Jekyll-Static-Site-Generator
 categories: [general, blogging]
 tags: [jekyll, NaBloPoMo]
 sidebar:
-    nav: "blog_sidenav"
+    nav: "nablopomo_blog_sidenav"
 ---
 As mentioned [yesterday](../01/Getting-back-into-blogging), having decided to move away from a database-driven blog site I started looking into static site generators. (Though inspired by Aral's [Breaking Things](http://www.breakingthin.gs/) I did also consider building my own locally scripted solution).  
 
