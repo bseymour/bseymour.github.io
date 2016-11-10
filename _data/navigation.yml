@@ -40,6 +40,8 @@ blog_sidenav:
         url: /tags
       - title: "Post by Year"
         url: /year-archive
+      - title: "NaBloPoMo"
+        url: /nablopomo
   - title: "Links"
     children:
     - title: "About"
