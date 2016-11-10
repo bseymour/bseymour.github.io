@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Blog"
+    url: /blog
+
   - title: "Projects"
     url: /projects
 
@@ -11,9 +14,6 @@ main:
 
   - title: "Speaking"
     url: /speaking
-
-  - title: "Blog"
-    url: /blog
 
   - title: "Photos"
     url: /photos
