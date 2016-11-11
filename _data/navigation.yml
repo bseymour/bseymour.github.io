@@ -75,6 +75,8 @@ nablopomo_blog_sidenav:
       url: /2016/11/09/Responsive-Images-101
     - title: "&#35;10 Dynamic Images 101"
       url: /2016/11/10/Dynamic-Images-101
+    - title: "&#35;11 Photo365 - Flickr"
+      url: /2016/11/11/Photo365---Flickr-API
 
 
 photos_sidenav:
@@ -93,6 +95,8 @@ photos_sidenav:
 
   - title: Memories
     children:
+      - title: "Photo365 2013"
+        url: /photo365-2013
       - title: "2015 Photostream"
         url: /2015stream
       - title: "2014 Photostream"
