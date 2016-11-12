@@ -35,3 +35,7 @@ At the time of writing, I've managed to write a post on each of the first 10 day
 [&#35;9 Responsive Images 101](/2016/11/09/Responsive-Images-101)
 
 [&#35;10 Dynamic Images 101](/2016/11/10/Dynamic-Images-101)
+
+[&#35;11 Photo365 - Flickr](/2016/11/11/Photo365---Flickr-API)
+
+[&#35;12 Reflecting On The Weekend](/2016/11/12/Reflecting-On-The-Weekend)
