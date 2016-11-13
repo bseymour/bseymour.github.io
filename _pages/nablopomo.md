@@ -39,3 +39,5 @@ At the time of writing, I've managed to write a post on each of the first 10 day
 [&#35;11 Photo365 - Flickr](/2016/11/11/Photo365---Flickr-API)
 
 [&#35;12 Reflecting On The Weekend](/2016/11/12/Reflecting-On-The-Weekend)
+
+[&#35;12 Jekyll Embedded Video](/2016/11/13/Jekyll-Embedded-Video---timelapses)
