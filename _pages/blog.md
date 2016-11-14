@@ -1,6 +1,6 @@
 ---
 layout: archive
-author_profile: true
+author_profile: false
 permalink: /blog/
 sidebar:
     nav: "blog_sidenav"
