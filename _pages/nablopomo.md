@@ -43,3 +43,5 @@ At the time of writing, I've managed to write a post on each of the first 10 day
 [&#35;12 Jekyll Embedded Video](/2016/11/13/Jekyll-Embedded-Video---timelapses)
 
 [&#35;14 We're In This Together](/2016/11/14/In-this-together)
+
+[&#35;15 Halfway](/2016/11/15/Halfway)
