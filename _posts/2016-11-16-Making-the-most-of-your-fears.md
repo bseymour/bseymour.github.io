@@ -11,7 +11,7 @@ tags: [nablopomo]
 sidebar:
     nav: "nablopomo_blog_sidenav"
 ---
-I'm not a fan of flying. I have a pretty good cognitive grasp of the physics, engineering tolerances, flight crew ongoing training and testing procedures. But a small irrational part of me has a tendency, unbidden, to come to the conclusion that this is 'the end'.
+I'm not a fan of flying. I have a pretty good cognitive grasp of the physics, engineering tolerances, flight crew's ongoing training and testing procedures. But a small irrational part of me has a tendency, unbidden, to come to the conclusion that this is 'the end'.
 
 One suggestion is that a fear of flying relates to a lack of control, but really: 
 
@@ -22,24 +22,24 @@ One suggestion is that a fear of flying relates to a lack of control, but really
 There is a 'family' album on my phone which I enjoy just prior to taxiing, and active noise cancelling headphones are great investment 
 ![Family album](/images/posts/NaBloPoMo16-family.jpg)
 
-I also tend to distract myself during the flight, by doing things like writing this post
+I also tend to distract myself during the flight, by doing things like writing this post.
 
 ![Writing this post inflight](/images/posts/NaBloPoMo16-in-flight.jpg )
 
 # Life Audit
-However, mortal fear, even when unwarranted, it a great opportunity for a life audit.
+Mortal fear, even when unwarranted, is however a great opportunity for a life audit.
 What are you doing today, that it might be beneficial to reduce or stop as they add less to your life than they take away?
 Which are the things you would wish you had done... if this was the end?
 
 Over the years this has led to some tweaks to my lifestyle
 TODO --- link to healthy working posts/video... and also the changing habits one. 
 
-I also returned to the classroom, and as a volunteer, teach primary children to code. (Always over subscribed, despite being after school on a Friday).
+I also returned to the classroom, and as a volunteer teach primary children to code. (Always over subscribed, despite being after school on a Friday).
 >It's amazing what you learn, when you try to teach something.
 
 And also to tentatively start a site/community helping less/non-technical parents and guardians to support their children in exploring coding: [Code.Parents()](https://codeparents.org).
  
-Embarking on writing my first book, turned out to be a significant challenge, that I grew to realise I had shied away from due to a lack of confidence. 
+Embarking on writing my first book, was always going to be a significant challenge, but I grew to realise I had shied away from it due to a lack of confidence. 
 
 TODO - images of books 0 links to
 
