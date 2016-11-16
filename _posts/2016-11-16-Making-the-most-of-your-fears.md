@@ -54,9 +54,9 @@ Which has given me the time, energy and focus to be more 'present' with my famil
 to do your best work, 
 to be your better you.
 
-## What fears might potentially be holding you back?
+### What fears might potentially be holding you back?
 
-## Where might your fears take you?
+# Where might your fears take you?
 
 
 ![Where might your fears take you?](/images/posts/NaBloPoMo16-takeoff.jpg)
