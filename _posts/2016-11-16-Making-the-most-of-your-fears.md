@@ -58,8 +58,12 @@ to be your better you.
 ## Where might your fears take you?
 
 
-![Where might your fears take you?](/images/posts/NaBloPoMo16-runway.jpg)
+![Where might your fears take you?](/images/posts/NaBloPoMo16-takeoff.jpg)
 
+
+...and yes, as you may have guessed i wrote this post in-flight 
+
+![In flight](/images/posts/NaBloPoMo16-in-flight.jpg)
 
 I recently gave a talk on this subject at MKGN - here are the slides, and hopefully there will be audio to come
 
