@@ -24,7 +24,7 @@ There is a 'family' album on my phone which I enjoy just prior to taxiing, and a
 
 I also tend to distract myself during the flight, by doing things like writing this post
 
-![Writing this post inflight](/images/posts/NaBloPoMo16-inflight.jpg )
+![Writing this post inflight](/images/posts/NaBloPoMo16-in-flight.jpg )
 
 # Life Audit
 However, mortal fear, even when unwarranted, it a great opportunity for a life audit.
@@ -60,10 +60,6 @@ to be your better you.
 
 ![Where might your fears take you?](/images/posts/NaBloPoMo16-takeoff.jpg)
 
-
-...and yes, as you may have guessed i wrote this post in-flight 
-
-![In flight](/images/posts/NaBloPoMo16-in-flight.jpg)
 
 I recently gave a talk on this subject at MKGN - here are the slides, and hopefully there will be audio to come
 
