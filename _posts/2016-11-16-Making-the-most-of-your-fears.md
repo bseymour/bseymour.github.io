@@ -31,8 +31,8 @@ Mortal fear, even when unwarranted, is however a great opportunity for a life au
 What are you doing today, that it might be beneficial to reduce or stop as they add less to your life than they take away?
 Which are the things you would wish you had done... if this was the end?
 
-Over the years this has led to some tweaks to my lifestyle
-TODO --- link to healthy working posts/video... and also the changing habits one. 
+Over the years this has led to some tweaks to my lifestyle, to make my [working conditions healthier](/2014/01/05/healthy-working/)
+and [overhauling some over habits](/2015/04/22/you-cant-manage-what-you-dont-measure/). 
 
 I also returned to the classroom, and as a volunteer teach primary children to code. (Always over subscribed, despite being after school on a Friday).
 >It's amazing what you learn, when you try to teach something.
