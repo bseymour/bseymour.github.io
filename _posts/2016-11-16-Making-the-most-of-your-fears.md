@@ -39,9 +39,10 @@ I also returned to the classroom, and as a volunteer teach primary children to c
 
 And also to tentatively start a site/community helping less/non-technical parents and guardians to support their children in exploring coding: [Code.Parents()](https://codeparents.org).
  
-Embarking on writing my first book, was always going to be a significant challenge, but I grew to realise I had shied away from it due to a lack of confidence. 
+Embarking on writing my first book, was always going to be a significant challenge, but I grew to realise I had shied away from it due to a lack of confidence, but found the experience and subsequent feedback, extremely rewarding.
 
-TODO - images of books 0 links to
+[![Practical Responsive Images eBook](/images/posts/NaBloPoMo16-pri.jpg)](https://payhip.com/b/yPep)
+
 
 One of the most impactful changes, was to significantly change the pattern of my working week. With fantastic support from my [employer](http://amplience.com) earlier this year I changed to part time working.
 
@@ -61,6 +62,7 @@ to be your better you.
 ![Where might your fears take you?](/images/posts/NaBloPoMo16-takeoff.jpg)
 
 
-I recently gave a talk on this subject at MKGN - here are the slides, and hopefully there will be audio to come
+I recently gave a talk on this subject at MKGN - here are the slides, and hopefully there will be audio to come:
 
-TODO - slideshare embed
+   <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/ygPmJ7y71Eu4Hm" width="700" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen">
+    </iframe>
