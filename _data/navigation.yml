@@ -22,6 +22,8 @@ main:
 core_sidenav:
   - title: "Links"
     children:
+    - title: "Blog"
+      url: /blog
     - title: "About"
       url: /about
     - title: Photos
@@ -36,20 +38,10 @@ blog_sidenav:
     children:
       - title: "Categories"
         url: /categories
-      - title: "Tags"
-        url: /tags
       - title: "Post by Year"
         url: /year-archive
       - title: "NaBloPoMo"
         url: /nablopomo
-  - title: "Links"
-    children:
-    - title: "About"
-      url: /about
-    - title: Photos
-      url: /photos
-    - title: Bookmarks
-      url: /bookmarks
 
 
 nablopomo_blog_sidenav:
@@ -85,6 +77,8 @@ nablopomo_blog_sidenav:
       url: /2016/11/14/In-this-together
     - title: "&#35;15 Halfway"
       url: /2016/11/15/Halfway
+    - title: "&#35;16 Your Fears"
+      url: /2016/11/16/Making-the-most-of-your-fears
 
 
 photos_sidenav:

@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 date: 2016-11-10T09:00:00+00:00
 type: pages
 permalink: /nablopomo/
@@ -13,7 +13,7 @@ sidebar:
 NaBloPoMo is the catchy hashtag for National Blog Post Month.
 My blogging had lapsed in 2016, in part due to the problems with my Wordpress installation, which eventually prompted the migration to a Github-pages hosted Jekyll site - though also, because I fell out of the habit, and was getting distracted by my uncertainty over the audience for whom I was writing.
 
-At the time of writing, I've managed to write a post on each of the first 10 days of NaBloPoMo, with their links below:
+At the time of writing, I've managed to write a post on each of the first 15 days of NaBloPoMo, with their links below:
 
 
 [&#35;1 Getting back into blogging](/2016/11/01/Getting-back-into-blogging)
@@ -45,3 +45,5 @@ At the time of writing, I've managed to write a post on each of the first 10 day
 [&#35;14 We're In This Together](/2016/11/14/In-this-together)
 
 [&#35;15 Halfway](/2016/11/15/Halfway)
+
+[&#35;16 Making the most of your fears"](/2016/11/16/Making-the-most-of-your-fears)
