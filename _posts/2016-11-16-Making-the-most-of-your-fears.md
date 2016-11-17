@@ -19,7 +19,7 @@ One suggestion is that a fear of flying relates to a lack of control, but really
 
 ![Family album](/images/posts/NaBloPoMo16-family.jpg){: .align-right}
 
-There is a 'family' album on my phone which I enjoy just prior to taxiing, and active noise cancelling headphones are great investment. I also tend to distract myself during the flight, by doing things like writing this post.
+There is a 'family' album on my phone which I enjoy just prior to taxiing, and active noise cancelling headphones were a great investment. I also tend to distract myself during the flight, by shooting and editing timelapses or travel videos, and doing things like writing this post.
 
 
 # Life Audit
@@ -45,17 +45,13 @@ One of the most impactful changes, was to significantly change the pattern of my
 
 ![5:2 --> 3:4](/images/posts/NaBloPoMo16-ratio.jpg)
 
-Which has given me the time, energy and focus to be more 'present' with my family, and to better support my wife in pursuing some of the challenges that she is passionate about (SYP, Seymour Potential)
+Which has given me the time, energy and focus to be more 'present' with my family, and to better support my wife in pursuing some of the challenges and opportunities that she is passionate about. Namely 'Seymour Potential' which is her school sport specialist consultancy, and her small (but perfectly formed) business [Save Your Past Ltd.](http://www.saveyourpast.co.uk/).
 
  > Give yourself the freedom
 to do your best work,
 to be your better you.
 
 ### What fears might potentially be holding you back?
-
-# Where might your fears take you?
-
-
 ![Where might your fears take you?](/images/posts/NaBloPoMo16-takeoff.jpg)
 
 
