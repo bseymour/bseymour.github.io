@@ -7,7 +7,7 @@ date: 2016-11-12T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo12-th.jpg
 permalink: /2016/11/12/Reflecting-On-The-Weekend
 categories: [general]
-tags: [nablopomo]
+tags: [NaBloPoMo]
 sidebar:
     nav: "nablopomo_blog_sidenav"
 ---

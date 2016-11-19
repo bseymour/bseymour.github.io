@@ -7,7 +7,7 @@ date: 2016-11-11T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo11-th.png
 permalink: /2016/11/11/Photo365---Flickr-API
 categories: [general]
-tags: [nablopomo]
+tags: [NaBloPoMo]
 sidebar:
     nav: "nablopomo_blog_sidenav"
 ---

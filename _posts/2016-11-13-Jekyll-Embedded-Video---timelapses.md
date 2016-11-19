@@ -7,7 +7,7 @@ date: 2016-11-13T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo13-th.png
 permalink: /2016/11/13/Jekyll-Embedded-Video---timelapses
 categories: [general]
-tags: [nablopomo]
+tags: [NaBloPoMo]
 sidebar:
     nav: "nablopomo_blog_sidenav"
 ---

@@ -7,7 +7,7 @@ date: 2016-11-16T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo16-th.jpg
 permalink: /2016/11/16/Making-the-most-of-your-fears
 categories: [general]
-tags: [nablopomo]
+tags: [NaBloPoMo]
 sidebar:
     nav: "nablopomo_blog_sidenav"
 ---

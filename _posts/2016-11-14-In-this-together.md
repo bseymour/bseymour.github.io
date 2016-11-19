@@ -7,7 +7,7 @@ date: 2016-11-14T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo14-pwa-slide.png
 permalink: /2016/11/14/In-this-together
 categories: [general]
-tags: [nablopomo]
+tags: [NaBloPoMo]
 sidebar:
     nav: "blog_sidenav"
 ---
