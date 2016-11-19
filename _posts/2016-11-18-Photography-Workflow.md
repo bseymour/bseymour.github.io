@@ -75,8 +75,11 @@ On a monthly basis, once the archive has successfully backed-up locally and to C
 # Pre-digital legacy
 
 Beyond the curation of your digital legacy, I also think it is important to consider the curation of your pre-digital legacy. Think of the amazing memories which are stored in the old photographs and albums around your house, or maybe the houses of your family, perhaps especially the older generations who, even if they have happily embraced technology, perhaps have large stores of assets not yet in a digital form.
-(pre-digital legacy - SYP)
+
+![Save Your Past](/images/posts/NaBloPoMo18-SYP2.jpg)
 
 If you haven't already done so, it's perhaps time to blow the dust off some of your family's most precious memories, and to transform them into a form where they will degrade no more, and where you can turn back the hands of time and rejuvenate them.
 
 while you can of course purchase the equipment (I'm happy to make recommendations) and to invest the time (it's an incredibly rewarding, and often emotional experience) there are also some companies providing fantastic digitisation and restoration services who can undertake this work on your behalf. Here I'm going to mention [Save Your Past Ltd.](http://www.saveyourpast.co.uk/) as it's the small business, lovingly set-up and run by my wife and her team.
+
+![Save Your Past](/images/posts/NaBloPoMo18-SYP1.jpg)
