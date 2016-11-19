@@ -33,17 +33,17 @@ The main stages of the image asset workflow are:
 
 
 
-## Capture  
+### Capture  
 This pretty much takes care of itself. The 'best' camera is the one you have with you.
 
 ## Collate  
 I love the simplicity provided by Dropbox. Any of our mobile devices which support the native client are configured to 'auto-upload' any new images and videos when their on wifi. Other devices like our SLR are connected to one of the laptops by USB, and the windows/mac Dropbox app imports any new assets.
 In both cases the new asset end up in the 'Camera Uploads' directory in our Dropbox account.
 
-## Organise  
+### Organise  
 The camera uploads directory can end up containing a large number of pretty rapidly, so there is a manual step where I move images into directory called 'bigbucket', which then has sub-directories for a given month, or a specific event. These event-based directories can then be dropbox-shared with other families as needed. This also means we can use 'selective sync' to manage the amount of storage taken up on the laptops, otherwise the machines with smaller HDDs, quickly run into problems.
 
-## Curate / Enhance   
+### Curate / Enhance   
 Having previously used OSX Photos app, Google's Picasa and Adobe's Lightroom, each with their own catalogue and ways of organising them and being able to share them, I've learned the hard way, that **the simplest and safest way to maintain an order or structure to my photo collections is to use the file systems directory structure** (potentially further enhanced with image meta-data).
 
 I am currently using Adobe Lightroom for my main weekly/monthly curation process - I love the interface and the workflows it both supports and encourages. When I have completed and collection, I have an export configuration saved, with my presets, and just have to select which directory for the assets to be exported to which is:
@@ -51,7 +51,7 @@ I am currently using Adobe Lightroom for my main weekly/monthly curation process
 'Photos-Curated' then with subfolders organised by year, and then either by 'month', 'event' or 'adventure'.
 
 
-## Share  
+### Share  
 Social sharing of snapshots or more broadly interesting events is of course via [Twitter](https://twitter.com/bseymour) and Facebook.
 
 Those more volumous albums are shared on Flickr and Google Photos. The majority of the [Flickr Albums](https://www.flickr.com/photos/boseymour) ('Sets') are private, only being visible to a small group of friends and family. There are currently around 48,000 photos shared in that manner, with around 3000 shared publicly.
@@ -63,7 +63,7 @@ Exposure - is great for story-telling/photo-blogging. But currently lacks a mobi
 I've also just started trialling [500px](https://500px.com/bseymour).
 
 
-## Archive
+### Archive
 I maintain local backups on a synology NAS, and a smaller USB external HDD - the latter makes it easier for my wife or I to quickly access the larger files (especially video) without having to wait for the selective-sync's to complete.
 
 The external HDD is also mounted to my MBP, and so can be included as a directory for my remote backup sync. For my long-term, offsite back-up I use Crashplan - having previously used Mozy and Carbonite, I switched to Crashplan about 5 years ago, and have been satisfied with their service throughout that time. (I wrote about that switch [back in 2011](2011/08/24/limits-of-unlimited-offsite-backup/))
