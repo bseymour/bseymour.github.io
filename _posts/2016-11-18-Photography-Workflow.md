@@ -35,7 +35,7 @@ The main stages of the image asset workflow are:
 ### Capture  
 This pretty much takes care of itself. The 'best' camera is the one you have with you.
 
-## Collate  
+### Collate  
 I love the simplicity provided by Dropbox. Any of our mobile devices which support the native client are configured to 'auto-upload' any new images and videos when their on wifi. Other devices like our SLR are connected to one of the laptops by USB, and the windows/mac Dropbox app imports any new assets.
 In both cases the new asset end up in the 'Camera Uploads' directory in our Dropbox account.
 
