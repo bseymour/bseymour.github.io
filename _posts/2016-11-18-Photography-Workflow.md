@@ -32,7 +32,6 @@ The main stages of the image asset workflow are:
 ![Home Photography Workflow](/images/posts/NaBloPoMo18-workflow.jpg)
 
 
-
 ### Capture  
 This pretty much takes care of itself. The 'best' camera is the one you have with you.
 
@@ -72,7 +71,7 @@ On a monthly basis, once the archive has successfully backed-up locally and to C
 
 
 
-# Pre-digital legacy
+## Pre-digital legacy
 
 Beyond the curation of your digital legacy, I also think it is important to consider the curation of your pre-digital legacy. Think of the amazing memories which are stored in the old photographs and albums around your house, or maybe the houses of your family, perhaps especially the older generations who, even if they have happily embraced technology, perhaps have large stores of assets not yet in a digital form.
 
