@@ -47,3 +47,9 @@ At the time of writing, I've managed to write a post on each of the first 15 day
 [&#35;15 Halfway](/2016/11/15/Halfway)
 
 [&#35;16 Making the most of your fears"](/2016/11/16/Making-the-most-of-your-fears)
+
+[&#35;17 Curation is an act of love](/2016/11/17/Curation)
+
+[&#35;18 Home Photography Workflow](/2016/11/18/Photography-Workflow)
+
+[&#35;19 What if money was no object?](/2016/11/19/Alan-Watts)
