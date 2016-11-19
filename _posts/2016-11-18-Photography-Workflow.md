@@ -53,7 +53,7 @@ I am currently using Adobe Lightroom for my main weekly/monthly curation process
 ### Share  
 Social sharing of snapshots or more broadly interesting events is of course via [Twitter](https://twitter.com/bseymour) and Facebook.
 
-Those more volumous albums are shared on Flickr and Google Photos. The majority of the [Flickr Albums](https://www.flickr.com/photos/boseymour) ('Sets') are private, only being visible to a small group of friends and family. There are currently around 48,000 photos shared in that manner, with around 3000 shared publicly.
+Those more volumous albums are shared on Flickr and Google Photos. The majority of the [Flickr Albums](https://www.flickr.com/photos/boseymour) ('Sets') are private, only being visible to a small group of friends and family. There are currently around 48,000 photos shared in that manner, with around 3000 shared publicly. As mentioned in an [earlier post](2016/11/11/Photo365---Flickr-API), Flickr also provides some solid APIs.
 
 I also copy to Google Photos, though with the changes to that platform over the last 9 months, it is developing in a direction which is counter to my requirements, so I may cease using it soon.
 
