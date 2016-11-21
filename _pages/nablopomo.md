@@ -53,3 +53,7 @@ At the time of writing, I've managed to write a post on each of the first 15 day
 [&#35;18 Home Photography Workflow](/2016/11/18/Photography-Workflow)
 
 [&#35;19 What if money was no object?](/2016/11/19/Alan-Watts)
+
+[&#35;20 Focus](/2016/11/20/Focus)
+
+[&#35;21 Capturing Whiteboard Photos](/2016/11/21/Capturing-Whiteboard-Photos)
