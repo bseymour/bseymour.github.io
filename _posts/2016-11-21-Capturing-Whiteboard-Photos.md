@@ -11,7 +11,7 @@ tags: [NaBloPoMo]
 sidebar:
     nav: "nablopomo_blog_sidenav"
 ---
-For as long as I've worked in software a big whiteboard has been central to figuring out complex problems, especially when working in collaboration with others. In just about every business I come into contact with, meeting room space is hotly contested - leading to that regular task of trying to quickly record all of the notes from the whiteboard before being turfed out of the room.
+For as long as I've worked in software a big whiteboard has been a core tool in figuring out complex problems, especially when working in collaboration with others. In just about every business I come into contact with, meeting room space is hotly contested - leading to that regular task of trying to quickly record all of the notes from the whiteboard before being turfed out of the room.
 
 More commonly, someone will pull out their phone, snap a quick photograph, and share it on slack, confluence, basecamp or the communication tool of choice. However, this almost always leads to part of the image being un-readable due to the glare from the reflection of the room lights or camera flash.
 
