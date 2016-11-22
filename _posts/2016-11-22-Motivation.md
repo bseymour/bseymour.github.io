@@ -4,7 +4,7 @@ author_profile: false
 type: pages
 title: What Motivates Us
 date: 2016-11-22T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo22-th,jpg
+post_image: /images/posts/NaBloPoMo22-th.jpg
 permalink: /2016/11/22/Motivation
 categories: [general]
 tags: [NaBloPoMo]
