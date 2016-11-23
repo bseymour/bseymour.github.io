@@ -57,3 +57,7 @@ At the time of writing, I've managed to write a post on each of the first 15 day
 [&#35;20 Focus](/2016/11/20/Focus)
 
 [&#35;21 Capturing Whiteboard Photos](/2016/11/21/Capturing-Whiteboard-Photos)
+
+[&#35;22 What Motivates Us](/2016/11/22/Motivation)  
+
+[&#35;23 The Ratchet](/2016/11/23/The-Ratchet)  
