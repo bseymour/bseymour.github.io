@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 type: pages
 
 title: Terminal Velocity
@@ -8,12 +8,10 @@ date: 2013-09-05T19:42:01+00:00
 permalink: /2013/09/05/its-terminal/
 post_image:
   - /images/allbsuploads/2013/09/Screen-Shot-2013-09-04-at-20.55.58.png
-categories:
-  - HEADER
-  - Mac
-  - quicktip
-  - Terminal
-  - Workflow
+categories: [Workflow]
+tags: [terminal, bash, injustanhour]
+sidebar:
+    nav: "blog_sidenav"
 ---
 I had one of those problems to solve, that initially had me toying with blowing the dust of some Python, but in the end it struck me as the perfect time to get more in touch with my Mac&#8217;s Command Line a.k.a. The Terminal.
 
