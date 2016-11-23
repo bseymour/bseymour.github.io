@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 type: pages
 
 title: 'Web Performance Optimisation: hour 1'
@@ -8,10 +8,11 @@ date: 2013-05-19T20:33:08+00:00
 permalink: /2013/05/19/web-performance-optimisation-hour-1/
 post_image:
   - /images/allbsuploads/2013/05/ScreenShot20130519at21.20.372.8secs_thumb.png
-categories:
-  - HEADER
-  - quicktip
-  - WebDev
+
+categories: [WebDev, WebPerf]
+tags: [webperf, injustanhour]
+sidebar:
+    nav: "blog_sidenav"
 ---
 On Saturday morning, I gave myself a challenge. **<span style="color: #ff6600;">How much could I improve the performance of one of my websites in 1 hour?</span>**
 

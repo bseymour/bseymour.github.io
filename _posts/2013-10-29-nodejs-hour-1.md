@@ -8,10 +8,10 @@ date: 2013-10-29T23:22:04+00:00
 permalink: /2013/10/29/nodejs-hour-1/
 post_image:
   - /images/allbsuploads/2013/10/Screen-Shot-2013-10-29-at-23.25.09.png
-categories:
-  - HEADER
-  - Mac
-  - WebDev
+categories: [Node, WebDev]
+tags: [dev, injustanhour]
+sidebar:
+    nav: "blog_sidenav"
 ---
 During half term, Em and the kids were off visiting family for a few days.
 

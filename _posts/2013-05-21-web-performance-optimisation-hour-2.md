@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 type: pages
 
 title: 'Web Performance Optimisation: hour 2'
@@ -8,9 +8,10 @@ date: 2013-05-21T19:51:26+00:00
 permalink: /2013/05/21/web-performance-optimisation-hour-2/
 post_image:
   - /images/allbsuploads/2013/05/Screen-Shot-2013-05-21-at-20.55.27.png
-categories:
-  - Mac
-  - WebDev
+categories: [WebDev, WebPerf]
+tags: [webperf, injustanhour]
+sidebar:
+    nav: "blog_sidenav"
 ---
 After Saturday’s [rather fruitful hour](http://allbs.co.uk/2013/05/19/web-performance-optimisation-hour-1/ "Web Performance Optimisation: hour 1"), I set myself the follow up challenge to see **<span style="color: #ff8040;">how much more could I improve the Web Performance given a second hour</span>**.
 

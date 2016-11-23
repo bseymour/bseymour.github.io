@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 type: pages
 
 title: 'Web Performance Optimisation: hour 3'
@@ -8,10 +8,10 @@ date: 2013-05-27T10:05:30+00:00
 permalink: /2013/05/27/web-performance-optimisation-hour-3/
 post_image:
   - /images/allbsuploads/2013/05/Screen-Shot-2013-05-27-at-10.50.24.png
-categories:
-  - HEADER
-  - Mac
-  - WebDev
+categories: [WebDev, WebPerf]
+tags: [webperf, injustanhour]
+sidebar:
+    nav: "blog_sidenav"
 ---
 Following on from [the 1st](http://allbs.co.uk/2013/05/19/web-performance-optimisation-hour-1/ "Web Performance Optimisation: hour 1"), [and 2nd](http://allbs.co.uk/2013/05/21/web-performance-optimisation-hour-2/ "Web Performance Optimisation: hour 2") hours spent, on improving the performance of one of my websites… the obsession continues&#8230;
 
