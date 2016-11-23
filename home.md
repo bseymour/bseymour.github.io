@@ -15,7 +15,7 @@ excerpt: "• eCommerce & Optimisation<br/>
           • STEMNet Ambassador<br/>
           • Code Club"
 intro:
-  - excerpt: '** This site is being migrated from Wordpress to gh-pages hosted Jekyll. Things might not always be as pretty as I would like **'
+  - excerpt: 'Most recently working on: [NaBloPoMo 2016](/nablopomo/)'
 feature_row:
   - image_path: practical-responsive-images-book-and-speaking-th.jpg
     alt: "Practical Responsive Images eBook"
