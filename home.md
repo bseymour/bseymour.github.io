@@ -15,7 +15,7 @@ excerpt: "• eCommerce & Optimisation<br/>
           • STEMNet Ambassador<br/>
           • Code Club"
 intro:
-  - excerpt: 'Most recently working on: [NaBloPoMo 2016](/nablopomo/)'
+  - excerpt: '** Most recently working on: [NaBloPoMo 2016](/nablopomo/) **<br/>++ Growing my 'mo for : [Movember 2016](http://mobro.co/bseymour)++'
 feature_row:
   - image_path: practical-responsive-images-book-and-speaking-th.jpg
     alt: "Practical Responsive Images eBook"
