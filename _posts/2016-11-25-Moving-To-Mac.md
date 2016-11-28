@@ -39,7 +39,9 @@ Then type the first one or two characters of your app you want to launch (or fil
 
 ---
 
-More notes to be written up (please send any further suggestions fo @bseymour on twitter)
+More notes to be written up (please send any further suggestions to @bseymour on twitter)
+hidden files... .htaccess etc..
+DesktopUtlity app - which I use to show hidden files.. 
 f.lux -
 screen shots ... cmd shift 3/4 .. even better with dropbox integration
 growly notes
