@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-date: 2016-11-10T09:00:00+00:00
+date: 2016-11-29T09:00:00+00:00
 type: pages
 permalink: /nablopomo/
 title: NaBloPoMo 2016
@@ -61,3 +61,17 @@ At the time of writing, I've managed to write a post on each of the first 15 day
 [&#35;22 What Motivates Us](/2016/11/22/Motivation)  
 
 [&#35;23 The Ratchet](/2016/11/23/The-Ratchet)  
+
+[&#35;24 Another Lap of the Sun](/2016/11/24/Another-Lap)
+
+[&#35;25 Moving to Mac](/2016/11/25/Moving-To-Mac)
+
+[&#35;26 Content Consumption & Sharing Workflow](/2016/11/26/Content-Consumption-Workflow)
+
+[&#35;27 Sales](/2016/11/27/Sales)
+
+[&#35;28 Categories & Tags](/2016/11/28/Categories-and-Tags)
+
+[&#35;29 Live Fully Now](/2016/11/29/Live-Fully-Now)
+
+[[&#35;29(/2016/11/30/Finale)

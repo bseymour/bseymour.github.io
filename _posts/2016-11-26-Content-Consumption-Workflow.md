@@ -11,12 +11,13 @@ tags: [NaBloPoMo]
 sidebar:
     nav: "nablopomo_blog_sidenav"
 ---
-Thanks to the web's empowerment of self-publishing, and social media making it incredibly easy to re-share what they feel is valuable or interesting articles, I find myself awash in an ever-expanding sea of content. Like many people, I encounter this in different contexts, be it via twitter on my mobile while traveling, or via facebook at home on my tablet, or my RSS reader on my desktop machine.
+I find myself awash in an ever-expanding sea of content. This is in part thanks to the web's empowerment of self-publishing, combined with social networks making it incredibly easy to re-share what my community feel is valuable or interesting articles. Like many people, I encounter this in different contexts, be it via twitter on my mobile while traveling, or via facebook at home on my tablet, or my RSS reader on my desktop machine.
 
 These articles typically fall into 3 categories:
-- uninteresting, or poor quality
-- sufficiently interesting for a single read, or perhaps share
+- uninteresting, low relevance, or poor quality
+- sufficiently interesting for a single read, or perhaps re-share
 - extremely interesting and valuable, something I can envisage wanting to be able to read again, and therefore find at some point in the future
+
 
 Twitter, Facebook, Google + (rarely these days)
 Feedly - link to OPML
