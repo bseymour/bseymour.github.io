@@ -74,4 +74,4 @@ At the time of writing, I've managed to write a post on each of the first 15 day
 
 [&#35;29 Live Fully Now](/2016/11/29/Live-Fully-Now)
 
-[[&#35;30](/2016/11/30/Finale)
+[&#35;30](/2016/11/30/Finale)
