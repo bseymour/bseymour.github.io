@@ -22,7 +22,7 @@ feature_row:
     title: "Practical Responsive Images"
     excerpt: "This pocket guide considers the cost and value of images, reviews image formats and historic practices, and explores some of the new features and tools available to us, such that we can be in a position to undertake a practical approach to responsive images."
     url: "http://responsiveimag.es/"
-    btn_label: "Read More"
+    btn_label: "Go To PRI Site"
     btn_class: "btn--inverse"
   - image_path: Movember-homepage.jpg
     alt: "Movember 2016"
@@ -51,13 +51,13 @@ feature_row3:
     title: "Save Your Past"
     excerpt: "Save Your Past Ltd. specialises in helping you make the most of your pre-digital precious memories. We carefully transform your videos, photos, slides/negatives into a form where they will degrade no more, and can undertake digital restoration work to sensitively turn back the hands of time and rejuvenate them."
     url: "http://www.saveyourpast.co.uk/"
-    btn_label: "Read More"
+    btn_label: "Go To SYP Site"
     btn_class: "btn--inverse"
   - image_path: codeparents1-th.jpg
     title: "code.parents()"
     excerpt: "Code Parents is for people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding. Ben founded Code Parents, and is keen that it should develop into a community on contributors."
     url: "http://codeparents.org/"
-    btn_label: "Read More"
+    btn_label: "Go To CP Site"
     btn_class: "btn--inverse"    
   - image_path: seymour-family-th.jpg
     alt: "Seymour Family"
