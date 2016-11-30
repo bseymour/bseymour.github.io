@@ -24,6 +24,28 @@ feature_row:
     url: "http://responsiveimag.es/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: Movember-homepage.jpg
+    alt: "Movember 2016"
+    title: "Movember 2016"
+    excerpt: "Throughout November I grew my first ever moustache, in support of The Movember Foundation which is s global charity focused on men’s health."
+    url: "/movember/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: NaBloPoMo-homepage.jpg
+    title: "NaBloPoMo 2016"
+    excerpt: "NaBloPoMo is National Blog Post Month, which has the challenge of writing a blog post each day for the whole of November. I’d not heard of it before 1st November, but it sounded like just the tonic for getting back into writing. I’m happy to say it has been everything I had hoped it would be, and probably more."
+    url: "/nablopomo/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_row2:
+  - image_path: net-mag-exchange-th.jpg
+    alt: ".net magazine - exchange expert panel"
+    title: "Dynamic Media and Dynamic Content Specialist"
+    excerpt: 'A decade of helping shape product alignment, leading scores of  projects for global brands, leveraging industry-leading SaaS Dynamic Media and Dynamic Content solutions (inc. headless CMS) <br/>.net magazine industry expert, conference speaker (including Adobe Summit).'
+    url: "/work"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_row3:
   - image_path: SaveYourPast2-th.jpg
     alt: "Save Your Past Limited"
     title: "Save Your Past"
@@ -36,16 +58,7 @@ feature_row:
     excerpt: "Code Parents is for people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding. Ben founded Code Parents, and is keen that it should develop into a community on contributors."
     url: "http://codeparents.org/"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
-feature_row2:
-  - image_path: net-mag-exchange-th.jpg
-    alt: ".net magazine - exchange expert panel"
-    title: "Dynamic Media and Dynamic Content Specialist"
-    excerpt: 'A decade of helping shape product alignment, leading scores of  projects for global brands, leveraging industry-leading SaaS Dynamic Media and Dynamic Content solutions (inc. headless CMS) <br/>.net magazine industry expert, conference speaker (including Adobe Summit).'
-    url: "/work"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-feature_row3:
+    btn_class: "btn--inverse"    
   - image_path: seymour-family-th.jpg
     alt: "Seymour Family"
     title: "Remembering Who I Work For"
@@ -59,4 +72,4 @@ feature_row3:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="center" %}
+{% include feature_row id="feature_row3" %}

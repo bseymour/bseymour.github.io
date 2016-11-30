@@ -13,8 +13,33 @@ sidebar:
 NaBloPoMo is the catchy hashtag for National Blog Post Month.
 My blogging had lapsed in 2016, in part due to the problems with my Wordpress installation, which eventually prompted the migration to a Github-pages hosted Jekyll site - though also, because I fell out of the habit, and was getting distracted by my uncertainty over the audience for whom I was writing.
 
-At the time of writing, I've managed to write a post on each of the first 15 days of NaBloPoMo, with their links below:
+I'm really pleased to have managed to complete a post every day. All the posts can be seen in sequence [lower down in this page](#all).
 
+My personal favourites, include some topics I'd been meaning to write about for a long time, especially [The Ratchet](/2016/11/23/The-Ratchet), [Focus](/2016/11/20/Focus), [Curation](/2016/11/17/Curation) and the [power of Now](/2016/11/29/Live-Fully-Now).
+
+# Most popular posts from NaBloPoMo 2016
+
+By pageviews:
+
+* [Curation is an Act of Love](/2016/11/17/Curation)
+* [Dynamic Images 101](/2016/11/10/Dynamic-Images-101)
+* [URL Schemes and 1Writer](/2016/11/06/URL-Schemes-and-1Writer---Jekyll-workflow)
+* [Reflecting on the Weekend](/2016/11/12/Reflecting-On-The-Weekend)
+* [Photography Workflow](/2016/11/18/Photography-Workflow)
+
+By average time on page:
+
+* [Sales & Engineering](/2016/11/27/Sales)
+* [Moving to Mac](/2016/11/25/Moving-To-Mac)
+* [Photography Workflow](/2016/11/18/Photography-Workflow)
+* [Jekyll Skeleton automation with Workflow app](/2016/11/05/Jekyll-Markdown-Skeleton-automation-with-Workflow-App)
+* [Making the Most of Your Fears](/2016/11/16/Making-the-most-of-your-fears)
+* [What Motivates Us](/2016/11/22/Motivation)
+
+
+---
+
+# <a name="all">All NaBloPoMo posts in sequence</a>
 
 [&#35;1 Getting back into blogging](/2016/11/01/Getting-back-into-blogging)
 
