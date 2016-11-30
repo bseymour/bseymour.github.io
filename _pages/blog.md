@@ -1,7 +1,7 @@
 ---
 layout: archive
 author_profile: false
-permalink: /blog/
+permalink: /blog-short/
 sidebar:
     nav: "blog_sidenav"
 ---
