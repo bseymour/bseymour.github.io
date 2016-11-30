@@ -9,6 +9,7 @@ permalink: /2012/01/08/dalai-lama-humanity-and-money/
 categories:
   - inspiring
   - life
+category: feature
 ---
 I first read this on a G+ post, and it appears there may be some doubt about the accuracy of the citation, but regardless of that it is a great for providing some balance to ones perspective:
 

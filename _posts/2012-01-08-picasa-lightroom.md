@@ -10,6 +10,7 @@ categories:
   - general
   - life
   - photography
+category: archive
 ---
 For 5 years Picasa has been just what we needed for family day-to-day photo management, but lack of sync between multiple machines means it&#8217;s no longer tenable as my wife and I need to use our separate machines more and more.
 

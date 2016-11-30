@@ -9,6 +9,7 @@ permalink: /2013/09/05/its-terminal/
 post_image:
   - /images/allbsuploads/2013/09/Screen-Shot-2013-09-04-at-20.55.58.png
 categories: [Workflow]
+category: feature
 tags: [terminal, bash, injustanhour]
 sidebar:
     nav: "blog_sidenav"

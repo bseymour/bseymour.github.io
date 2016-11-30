@@ -10,6 +10,7 @@ post_image:
   - /images/allbsuploads/2013/05/ScreenShot20130519at21.20.372.8secs_thumb.png
 
 categories: [WebDev, WebPerf]
+category: feature
 tags: [webperf, injustanhour]
 sidebar:
     nav: "blog_sidenav"

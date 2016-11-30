@@ -8,6 +8,7 @@ date: 2011-09-01T13:52:50+00:00
 permalink: /2011/09/01/aws-sdk-php-linux-vm/
 categories:
   - general
+category: archive
 ---
 After some interesting exploration of an issue I was having with the AWS sdk for PHP I found the problem was actually quite a simple one. The Ubuntu (10.4) default appears to have the date/time settings on manual, hence when stop/starting the VM the time quickly becomes out of sync. For security considerations the Amazon Web Services requests have only a small tolerance for time disparities (max 5 mins difference)  &#8211; hence after leaving my VM stopped for a few days, I came back to find the my PHP code failing.
 

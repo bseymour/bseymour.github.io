@@ -12,6 +12,7 @@ categories:
   - habit
   - HEADER
   - life
+category: feature
 ---
 Are you sitting comfortably?
 

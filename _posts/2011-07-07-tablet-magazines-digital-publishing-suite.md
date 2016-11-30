@@ -8,6 +8,7 @@ date: 2011-07-07T10:10:56+00:00
 permalink: /2011/07/07/tablet-magazines-digital-publishing-suite/
 categories:
   - android
+category: archive
 ---
 Yesterday I started exploring Zinio as a magazine platform, and bought The Economist, which I am doubly unimpressed with: at £3.80 it is damn near the cost of the hard-copy version, and there appears to be no multimedia use at all.
 

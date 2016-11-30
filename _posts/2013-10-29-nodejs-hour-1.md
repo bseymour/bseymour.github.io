@@ -9,6 +9,7 @@ permalink: /2013/10/29/nodejs-hour-1/
 post_image:
   - /images/allbsuploads/2013/10/Screen-Shot-2013-10-29-at-23.25.09.png
 categories: [Node, WebDev]
+category: feature
 tags: [dev, injustanhour]
 sidebar:
     nav: "blog_sidenav"

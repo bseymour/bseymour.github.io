@@ -13,6 +13,7 @@ categories:
   - Rich Media
   - RWD
   - WebDev
+
 ---
 In relation to the upcoming DigitLON conference, a couple of Adobe colleagues (Jane Exner, Rich Page) and I were interviewed by Adam Malik about some current hot topics for Digital Marketing in 2012.
 

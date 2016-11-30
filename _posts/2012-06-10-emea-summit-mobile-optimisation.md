@@ -12,6 +12,7 @@ categories:
   - Responsive Images
   - Rich Media
   - RWD
+category: feature
 ---
 Somehow nearly a month has flown by since the Adobe EMEA Summit. With the videos being made available last week I&#8217;ve finally had a chance to watch recordings of some of the great sessions I was unable to see in person (attendees should have received a URL and password to watch these videos). It&#8217;s also been uncomfortable but extremely valuable to be able to watch back my session and see what I would do differently: trying to juggle a laptop, device camera, tablet and smartphone on a small presenter&#8217;s podium was a little challenging&#8230; and leaving my session notes under the camera, and on screen probably isn&#8217;t probably isn&#8217;t in any best practises manual, I also have plenty of scope to use the words &#8216;literally&#8217; and &#8216;fundamentally&#8217; a lot less! I will aim to provide an embedded version of the video of the session in the near future.
 

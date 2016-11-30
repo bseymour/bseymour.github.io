@@ -9,6 +9,7 @@ permalink: /2014/01/05/healthy-working/
 categories:
   - general
   - life
+category: feature
 ---
 <span style="color: #37404e; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; line-height: 18px;">Get-fit-while-working.</span>
 

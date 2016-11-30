@@ -13,6 +13,7 @@ categories:
   - Mac
   - photography
   - Workflow
+category: feature
 ---
 We&#8217;re on holiday up on the stunning Holy Island, and it&#8217;s a perfect opportunity to make some improvements to my [current Timelapse workflow](http://allbs.co.uk/2013/05/12/timelapse-via-android-mobile/).  I&#8217;m now using my old Desire XE as a dedicated time-lapse shooting device, and the Joby Grip Tight and GorillaPod are still proving extremely useful:
 

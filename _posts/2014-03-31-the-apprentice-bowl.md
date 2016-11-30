@@ -12,6 +12,7 @@ categories:
   - HEADER
   - inspiring
   - life
+category: feature
 ---
 During our anniversary trip back to Ireland we went back to Waterford Crystal. After the initial confusion of us returning to the factory which they apparently shut down in 2009, we had a fantastic tour, and the kids loved it. It’s mesmerising watching hugely skilled individuals effortlessly go about their daily routine. In this case massively hot globs of molten glass are moved around in close proximity to the other master craftsmen in a seemingly easy going, yet closely orchestrated ballet with the other craftsmen in their team.
 

@@ -8,6 +8,7 @@ date: 2011-10-04T22:01:37+00:00
 permalink: /2011/10/04/achieving-childhood-dreams/
 categories:
   - general
+category: archive
 ---
 Randy Pausch Last Lecture: Achieving Your Childhood Dreams
 

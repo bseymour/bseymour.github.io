@@ -9,6 +9,7 @@ permalink: /2013/09/15/apparently-google-post-embedded/
 categories:
   - quicktip
   - social
+category: archive
 ---
 Apparently, Google+ post can be embedded &#8211; so I&#8217;m curious to see what that looks and behaves like.
 

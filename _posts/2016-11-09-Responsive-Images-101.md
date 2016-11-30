@@ -7,6 +7,7 @@ date: 2016-11-09T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo9-picture.png
 permalink: /2016/11/09/Responsive-Images-101
 categories: [general]
+category: feature
 tags: [NaBloPoMo]
 sidebar:
     nav: "nablopomo_blog_sidenav"

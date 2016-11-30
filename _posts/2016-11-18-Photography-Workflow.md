@@ -7,6 +7,7 @@ date: 2016-11-18T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo18-th.jpg
 permalink: /2016/11/18/Photography-Workflow
 categories: [general]
+category: feature
 tags: [NaBloPoMo]
 sidebar:
     nav: "nablopomo_blog_sidenav"

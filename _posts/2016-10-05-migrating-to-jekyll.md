@@ -9,6 +9,7 @@ permalink: /2016/10/05/migrating-to-jekyll/
 category: archive
 categories:
   - general
+category: archive
 ---
 
 Please bear with us during this regime shift.

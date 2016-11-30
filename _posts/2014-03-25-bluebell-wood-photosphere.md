@@ -10,6 +10,7 @@ categories:
   - android
   - general
   - photography
+category: archive
 ---
 Captured my favourite photosphere to date in nearby Bluebell Woods yesterday &#8211; unfortunately, there isn&#8217;t yet a mechanism that allows me to directly embed a panoviewer in this site, so instead I have to embed the post from Google+, which included the photosphere
 

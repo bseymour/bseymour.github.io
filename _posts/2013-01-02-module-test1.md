@@ -26,6 +26,7 @@ ampwp:
                 </script>
 categories:
   - general
+category: archive
 ---
 WordPress Module Embed test 1
 

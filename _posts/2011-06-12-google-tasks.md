@@ -10,6 +10,7 @@ categories:
   - android
   - handy
   - quicktip
+category: archive
 ---
 For day to day task lists, in addition to my whiteboard for day-to-day use, I really like MS OneNote, but the lack of utilisation/sync&#8217;ing for smartphone/tablet/android means I need to look for alternatives.
 

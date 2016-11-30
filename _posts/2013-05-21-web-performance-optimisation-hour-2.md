@@ -9,6 +9,7 @@ permalink: /2013/05/21/web-performance-optimisation-hour-2/
 post_image:
   - /images/allbsuploads/2013/05/Screen-Shot-2013-05-21-at-20.55.27.png
 categories: [WebDev, WebPerf]
+category: feature
 tags: [webperf, injustanhour]
 sidebar:
     nav: "blog_sidenav"

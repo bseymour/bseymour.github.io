@@ -9,6 +9,7 @@ permalink: /2011/05/30/microstock-photography/
 categories:
   - petproject
   - photography
+category: archive
 ---
 My wife and I have rather different photography skill levels. Em can typically visualise a photograph and get the composition just right, I generally take the shot gun approach of clicking away like there is no tomorrow (thank goodness for digital cameras) and hoping there is the occasional good one amongst the dross. Though that said, I am pretty happy with the &#8216;controlled&#8217; type of photography and am satisfied with some of the visual assets I have created for various websites.
 

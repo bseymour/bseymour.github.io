@@ -9,6 +9,7 @@ permalink: /2016/02/19/attention/
 post_image: /images/allbsuploads/2016/02/2016-02-17-19.37.25.jpg
 categories:
   - general
+category: feature
 ---
 This week’s Breaking Borders had two superb talks, one from <a title="Christopher Murphy - Twitter" href="https://twitter.com/fehler" target="_blank">Christopher Murphy</a> the other by <a title="James Williams" href="http://williams.nu/" target="_blank">James Williams</a>. While there is no way I can do them justice, I wanted to jot down some snippets from their talks &#8211; if you get the chance to see either talk, I would totally recommend it.
 

@@ -14,6 +14,7 @@ categories:
   - life
 tags:
   - inspiring
+category: feature
 ---
 At the top-centre of the whiteboard in my home-office is my current prime theme. It is intended to be short, mantra-like, and the broader perspective to which my other activities and goals should ideally contribute.
 

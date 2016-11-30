@@ -11,6 +11,7 @@ post_image:
 categories:
   - habit
   - life
+category: feature
 ---
 As you may have read my [previous](http://allbs.co.uk/2014/01/05/healthy-working/) [posts](http://allbs.co.uk/2014/08/16/healthy-working-standing-desk/) on healthy working, I have been endeavouring to better manage some of my day-to-day lifestyle habits.
 

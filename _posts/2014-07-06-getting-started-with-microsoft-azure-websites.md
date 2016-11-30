@@ -13,9 +13,8 @@ categories:
   - services
   - WebDev
   - Workflow
+category: feature
 ---
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-
 A current pet project runs on IIS, and having found too many restrictions with the IIS instance on my shared hosting accounts I needed to look for alternatives. Digital Ocean and Linode are great reasonably priced VPS services, but Linux only, and this project doesn’t yet warrant the cost of getting a dedicated box somewhere. My familiarity with Amazon Web Services meant that I have quickly been able to setup Amazon Web Services stack utilising Windows Server EC2 instances, Elastic Load Balancing, Auto Scaling, and Cloudfront…. the biggest downside to this approach is the ongoing management and maintenance of the Windows Updates that the VM’s will need, so I’ll probably loop back at some point to try out IIS on AWS Beanstalk. [update: feedback from some friends is that Beanstalk doesn&#8217;t automagically update the OS/IIS ]
 
 I’ve had a few little looks at the Microsoft Azure offering, but have found the information on the Azure site difficult to navigate, however this felt like it should be the perfect opportunity to get to know Microsoft Azure better.

@@ -11,6 +11,7 @@ categories:
 tags:
   - lynx
   - mac
+category: feature
 ---
 > **&#8220;Content is the baseline, design is an enhancement&#8221;** : Paul Robert Lloyd : Responsive Conf 2013
 

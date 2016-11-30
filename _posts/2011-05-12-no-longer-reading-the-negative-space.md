@@ -6,10 +6,7 @@ type: pages
 title: No longer reading the negative space
 date: 2011-05-12T12:53:07+00:00
 permalink: /2011/05/12/no-longer-reading-the-negative-space/
-jabber_published:
-  - 1305204787
-tagazine-media:
-  - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:8:"23296821";s:7:"blog_id";s:8:"23006610";s:9:"mod_stamp";s:19:"2011-05-12 13:01:22";}'
+category: archive
 categories:
   - android
   - life

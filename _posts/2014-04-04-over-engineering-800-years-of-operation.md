@@ -12,6 +12,7 @@ categories:
   - general
   - HEADER
   - life
+category: feature
 ---
 The Hook lighthouse on the south coast of County Wexford, Ireland is the oldest operating lighthouse in the world. There has been a beacon in this location since the 5th century, with the current structure being built in the 12th century, which has now operated continuously for a staggering 800 years.
 

@@ -14,6 +14,7 @@ categories:
   - HEADER
   - Rich Media
   - WebDev
+category: feature
 ---
 At this time, the image and video verticals in search engine results pages (SERPs) do not yet tend to be as hotly contested over as the textual content elements of SEO. Yet, video and images both make up part of the prime real estate that is the first page of search results.
 

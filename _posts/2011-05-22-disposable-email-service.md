@@ -9,6 +9,7 @@ permalink: /2011/05/22/disposable-email-service/
 categories:
   - handy
   - services
+category: archive
 ---
 There are some sites which need you to register in order to see some content, or access downloads, and while many will accept aaa@aaa.aa, many like to be force you to respond to an email to ‘prove’ that the email address is in use.
 

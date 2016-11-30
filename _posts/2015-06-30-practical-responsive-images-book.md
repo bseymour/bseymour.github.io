@@ -15,6 +15,7 @@ categories:
   - RWD
   - WebDev
   - Workflow
+category: feature
 ---
 The power of images isn&#8217;t just about improving website conversion.
 
