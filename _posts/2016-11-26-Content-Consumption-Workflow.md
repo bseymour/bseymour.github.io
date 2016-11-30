@@ -4,7 +4,7 @@ author_profile: false
 type: pages
 title: Content Consumption & Sharing Workflow
 date: 2016-11-26T2:09:00+00:00
-post_image: /images/posts/default.png
+post_image: /images/posts/NaBloPoMo26-th.jpg
 permalink: /2016/11/26/Content-Consumption-Workflow
 categories: [general]
 tags: [NaBloPoMo]
