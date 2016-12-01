@@ -13,7 +13,7 @@ Go to : [All Posts Archive](/blog_archive)
 <h3 class="archive__subtitle">Featured Blog Posts</h3>
 
 {% for post in site.posts %}
-  {% if post.category == "feature" %}
+  {% if post.category contains "feature" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
