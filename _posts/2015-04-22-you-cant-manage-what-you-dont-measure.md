@@ -4,6 +4,7 @@ author_profile: true
 type: pages
 
 title: 'You can&#8217;t manage what you don&#8217;t measure'
+short_title: Habits
 date: 2015-04-22T19:11:57+00:00
 permalink: /2015/04/22/you-cant-manage-what-you-dont-measure/
 post_image:
@@ -11,7 +12,7 @@ post_image:
 categories:
   - habit
   - life
-category: feature
+category: [feature, top5]
 ---
 As you may have read my [previous](http://allbs.co.uk/2014/01/05/healthy-working/) [posts](http://allbs.co.uk/2014/08/16/healthy-working-standing-desk/) on healthy working, I have been endeavouring to better manage some of my day-to-day lifestyle habits.
 

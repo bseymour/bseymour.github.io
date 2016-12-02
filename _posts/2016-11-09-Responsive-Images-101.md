@@ -3,11 +3,12 @@ layout: single
 author_profile: false
 type: pages
 title: Responsive Images 101 - NaBloPoMo &#35;9
+short_title: Responsive Images 101
 date: 2016-11-09T2:09:00+00:00
 post_image: /images/posts/NaBloPoMo9-picture.png
 permalink: /2016/11/09/Responsive-Images-101
 categories: [general]
-category: feature
+category: [feature, top5]
 tags: [NaBloPoMo]
 sidebar:
     nav: "nablopomo_blog_sidenav"

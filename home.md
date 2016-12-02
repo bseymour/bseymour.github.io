@@ -73,3 +73,10 @@ feature_row3:
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" %}
+
+# Top Posts
+{% for post in site.posts %}
+  {% if post.category contains "top5" %}
+    {% include archive-short.html %}
+  {% endif %}
+{% endfor %}

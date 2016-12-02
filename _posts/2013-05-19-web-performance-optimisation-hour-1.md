@@ -4,13 +4,14 @@ author_profile: false
 type: pages
 
 title: 'Web Performance Optimisation: hour 1'
+short_title: WebPerf hr1
 date: 2013-05-19T20:33:08+00:00
 permalink: /2013/05/19/web-performance-optimisation-hour-1/
 post_image:
   - /images/allbsuploads/2013/05/ScreenShot20130519at21.20.372.8secs_thumb.png
 
 categories: [WebDev, WebPerf]
-category: feature
+category: [feature, top5]
 tags: [webperf, injustanhour]
 sidebar:
     nav: "blog_sidenav"

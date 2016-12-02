@@ -66,6 +66,21 @@
     align:right;
   }
 
+/* short post - for top 5 posts on homepage   */
+.post_short{
+    display: inline-block;;
+    clear:both;
+    width: 20%;
+    float: left;
+  }
+
+.post_short img{
+    height: 100px;
+    width: 90%;
+    border-radius: 10%;
+    overflow: hidden;
+  }
+
 
 /* remove border*/
 .page__content {
