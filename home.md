@@ -15,7 +15,7 @@ excerpt: "• eCommerce & Optimisation<br/>
           • STEMNet Ambassador<br/>
           • Code Club"
 intro:
-  - excerpt: '** Currently working on: 12Devs article **<br/>Recently worked on: [NaBloPoMo](/nablopomo/), [Movember](/movember/)'
+  - excerpt: '** Currently working on: [Code.Parents()](https://codeparents.org/) **<br/>Recently worked on: [12Devs article](http://12devsofxmas.co.uk/2017/01/day-7-getting-kids-into-coding/), [NaBloPoMo](/nablopomo/)'
 feature_row:
   - image_path: practical-responsive-images-book-and-speaking-th.jpg
     alt: "Practical Responsive Images eBook"
@@ -24,12 +24,12 @@ feature_row:
     url: "http://responsiveimag.es/"
     btn_label: "Go To PRI Site"
     btn_class: "btn--inverse"
-  - image_path: Movember-homepage.jpg
-    alt: "Movember 2016"
-    title: "Movember 2016"
-    excerpt: "Throughout November I grew my first ever moustache, in support of The Movember Foundation which is s global charity focused on men’s health."
-    url: "/movember/"
-    btn_label: "Read More"
+  - image_path: 12devs-home.png
+    alt: "Getting Kids into Coding"
+    title: "Getting Kids into Coding"
+    excerpt: "For the 2017 '12 Devs of Xmas' I wrote about my experiences teaching Primary aged children, sharing insights into how to make coding interesting and relevant for all children."
+    url: "http://12devsofxmas.co.uk/2017/01/day-7-getting-kids-into-coding/"
+    btn_label: "To '12 Devs' site"
     btn_class: "btn--inverse"
   - image_path: NaBloPoMo-homepage.jpg
     title: "NaBloPoMo 2016"
@@ -46,6 +46,13 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row3:
+  - image_path: Movember-homepage.jpg
+    alt: "Movember 2016"
+    title: "Movember 2016"
+    excerpt: "Throughout November I grew my first ever moustache, in support of The Movember Foundation which is s global charity focused on men’s health."
+    url: "/movember/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: SaveYourPast2-th.jpg
     alt: "Save Your Past Limited"
     title: "Save Your Past"
@@ -58,7 +65,8 @@ feature_row3:
     excerpt: "Code Parents is for people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding. Ben founded Code Parents, and is keen that it should develop into a community on contributors."
     url: "http://codeparents.org/"
     btn_label: "Go To CP Site"
-    btn_class: "btn--inverse"    
+    btn_class: "btn--inverse"
+feature_row4:    
   - image_path: seymour-family-th.jpg
     alt: "Seymour Family"
     title: "Remembering Who I Work For"
@@ -73,6 +81,8 @@ feature_row3:
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" %}
+
+{% include feature_row id="feature_row4" type="left" %}
 
 # Top Posts
 {% for post in site.posts %}
