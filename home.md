@@ -85,8 +85,10 @@ feature_row4:
 {% include feature_row id="feature_row4" type="left" %}
 
 # Top Posts
+<div class="post_object">
 {% for post in site.posts %}
   {% if post.category contains "top5" %}
     {% include archive-short.html %}
   {% endif %}
 {% endfor %}
+</div>

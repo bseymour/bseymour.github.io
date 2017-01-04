@@ -68,10 +68,10 @@
 
 /* short post - for top 5 posts on homepage   */
 .post_short{
-    display: inline-block;;
+    display: inline-block;
     clear:both;
-    width: 20%;
-    float: left;
+    width: 18%;
+    min-width: 200px
   }
 
 .post_short img{
