@@ -8,15 +8,32 @@ permalink: /projects/
 sidebar:
     nav: "core_sidenav"
 ---
+
+<div>
+  <hr/>
+  <h1 style="text-align: center;">
+    <a href="http://unslump.me" target="_blank">unslump.me</a>
+  </h1>
+
+  <p>unslump.me is a place to find and manage words of inspiration - bringing you back to yourself.... and maybe, one day, a community of support for fostering and nurturing well-being.</p> 
+
+  <p>The project is API first, written using a MEAN stack. It's part of a '30 day project' exercise.</p>  
+
+  <p style="text-align: center;">
+    <a href="https://www.facebook.com/unslump.me" target="_blank">unslump.me Facebook page</a>
+  </p>
+</div>
+
+
 <div>
   <hr/>
   <h1 style="text-align: center;">
     <a href="http://codeparents.org/" target="_blank">Code Parents()</a>
   </h1>
 
-  Code Parents is for people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding.
+  <p>Code Parents is for people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding.</p>
 
-  While volunteering in primary schools I often find that parents are intrigued but mystified by the activities that their children were exploring in the code club. Many want to know more, but don&#8217;t know where to start &#8211; this site is for anyone in a similar position. Despite the website name, we want to help everyone, not just parents, but couldn&#8217;t find an all-inclusive, yet short and meaningful domain name.
+  <p>While volunteering in primary schools I often find that parents are intrigued but mystified by the activities that their children were exploring in the code club. Many want to know more, but don&#8217;t know where to start &#8211; this site is for anyone in a similar position. Despite the website name, we want to help everyone, not just parents, but couldn&#8217;t find an all-inclusive, yet short and meaningful domain name.</p>
 
   <p style="text-align: center;">
     <a href="https://www.facebook.com/CodeParents" target="_blank">Code Parents() Facebook page</a>
