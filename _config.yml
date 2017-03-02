@@ -13,7 +13,7 @@ name                     : "Oxford U.K. - eCommerce & Dynamic Content Specialist
 description              : "The core online presence of Ben Seymour (Oxford, U.K.)"
 url                      : "https://benseymour.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : bseyour/bseymour.github.io # GitHub username/repo-name 
+repository               : bseymour/bseymour.github.io # GitHub username/repo-name
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -46,6 +46,19 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
+
+#srcset, sizes and dynamic media related
+image_url: /images
+amp_base: //i1.adis.ws/i/bendemo
+default_width: '1000'
+sizes: '(min-width: 1020px) 60vw, 90vw'
+
+srcset:
+  - 600
+  - 850
+  - 1200
+
 
 # SEO Related
 google_site_verification :
