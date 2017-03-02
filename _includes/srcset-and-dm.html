@@ -1,0 +1,13 @@
+<!-- srcset using Dynamic Media solution -->
+<!-- image vars via FM -->
+{% if image.quality %}
+  {% assign quality = image.quality %}
+{% else %}
+  {% assign quality = 50 %}
+{% endif %}
+
+<img
+  src="{{ site.amp_base }}/{{ image.id }}.jpg?w={{ site.default_width }}&qlt={{ quality }}"
+  sizes="{{ site.sizes }}"
+  srcset="{% for width in site.srcset %}{{ site.amp_base }}/{{ image.id }}.jpg?w={{ width }}&qlt={{ quality }} {{ width }}w{% if forloop.last == false %}, {% endif %}{% endfor %}"
+  alt="{{ image.alt }}">

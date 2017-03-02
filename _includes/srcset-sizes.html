@@ -1,0 +1,8 @@
+<!-- srcset via batch statics -->
+<!-- image vars set in FM -->
+
+<img
+  src="{{ image_url }}/{{ image.src }}"
+  sizes="{{ site.sizes }}"
+  srcset="{% for width in site.srcset %}{{ site.image_url }}/{{ width }}/{{ image.src }} {{ width }}w{% if forloop.last == false %}, {% endif %}{% endfor %}"
+  alt="{{ image.alt }}">
