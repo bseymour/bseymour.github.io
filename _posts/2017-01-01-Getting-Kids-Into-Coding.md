@@ -4,7 +4,7 @@ author_profile: false
 type: pages
 title: Getting Kids Into Coding
 date: 2017-01-01T2:09:00+00:00
-post_image: /images/posts/video-embed-th.png
+post_image: /images/12devs/01-12Devs-Ben_Seymour.jpg
 permalink: /2017/01/01/Getting-Kids-Into-Coding
 category: [feature]
 categories: [general]
