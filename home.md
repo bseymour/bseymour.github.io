@@ -15,7 +15,7 @@ excerpt: "• eCommerce & Optimisation<br/>
           • STEMNet Ambassador<br/>
           • Code Club"
 intro:
-  - excerpt: '** Currently working on: [unslump.me](http://unslump.me/) **<br/>Recently worked on: [Getting Kids into Coding](http://12devsofxmas.co.uk/2017/01/day-7-getting-kids-into-coding/), [NaBloPoMo](/nablopomo/), [Code.Parents()](https://codeparents.org)'
+  - excerpt: '** Currently working on: [unslump.me](http://unslump.me/) **<br/>Recently worked on: [Getting Kids into Coding](http://12devsofxmas.co.uk/2017/01/day-7-getting-kids-into-coding/), [Code.Parents()](https://codeparents.org)'
 feature_row:
   - image_path: practical-responsive-images-book-and-speaking-th.jpg
     alt: "Practical Responsive Images eBook"
@@ -78,13 +78,7 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" %}
-
-{% include feature_row id="feature_row4" type="left" %}
-
-# Top Posts
+# Top 5 Blog Posts  ( . . . . [all posts ](/blog) )
 <div class="post_object">
 {% for post in site.posts %}
   {% if post.category contains "top5" %}
@@ -92,3 +86,10 @@ feature_row4:
   {% endif %}
 {% endfor %}
 </div>
+<hr/>
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" %}
+
+{% include feature_row id="feature_row4" type="left" %}
