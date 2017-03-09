@@ -21,7 +21,7 @@ DM-image:
     quality: 65
 
 ---
-Moving to Responsive Images, can give great page load benefits, but it does require more complex markup. This site uses Jekyll and is hosted on gh-pages, which limits the plugins available. I'd previously explored [using 1Writer Templates](https://benseymour.com/2016/11/08/Jekyll-Responsive-Images-without-plugins-after) to make it easier to generate this more complex embed code, but here I will be exploring what feels like a more robust and flexible solution - using HTML templates within _includes.
+Moving to R[esponsive Images](http://responsiveimag.es/) can give great page load benefits, but it does require more complex markup. This site uses Jekyll and is hosted on gh-pages, which limits the plugins available. I'd previously explored [using 1Writer Templates](https://benseymour.com/2016/11/08/Jekyll-Responsive-Images-without-plugins-after) to make it easier to generate this more complex embed code, but here I will be exploring what feels like a more robust and flexible solution - using HTML templates within _includes.
 
 
 In my front matter (in _config.yml) I added some new site-wide defaults and configurations relating to Responsive Images (and Dynamic Image requests):
