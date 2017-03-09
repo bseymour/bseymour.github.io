@@ -1,0 +1,44 @@
+-   title: One Day in the Future
+    event: May-dup
+    event-url: http://www.google.co.uk
+    date: 2017-12-01
+    city: Bristol
+
+-   title: Making the Most of Your Fears
+    event: MKGN
+    date: 2016-09-01
+    city: Milton Keynes
+    slideshareid: 65828299
+
+-   title: Practical Responsive Images
+    event: Digital Henley
+    date: 2015-05-01
+    city: Henley
+    youtubeid: y-G0dmZWTpY
+
+-   title: Are You Sitting Comfortably
+    event: NE Dev
+    date: 2015-03-06
+    city: Middlesborough
+    slideshareid: 45556253
+
+-   title: Practical Responsive Images
+    event: SecWed
+    date: 2015-03-06
+    city: Nottingham
+    photo: secwed-700x500.jpg
+    photoalt: Photo by Ben Lumley https://www.facebook.com/whatnotphoto
+
+-   title: Bright Sparks - Expert Panel
+    event: Qubit
+    date: 2014-03-06
+    city: London
+    photo: qubit-700x500.jpg
+    photoalt: Qubit Bright Sparks - Ben Seymour
+
+-   title: Optimising Your Mobile Experience
+    event: Adobe Summit
+    date: 2011-05-01
+    city: London
+    photo: adobe-summit-ben-seymour.png
+    photoalt: Adobe Summit - Ben Seymour
