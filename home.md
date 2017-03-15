@@ -15,7 +15,7 @@ excerpt: "• eCommerce & Optimisation<br/>
           • STEMNet Ambassador<br/>
           • Code Club"
 intro:
-  - excerpt: '** Currently working on: [unslump.me](http://unslump.me/) **<br/>Recently worked on: [Getting Kids into Coding](http://12devsofxmas.co.uk/2017/01/day-7-getting-kids-into-coding/), [Code.Parents()](https://codeparents.org)'
+  - excerpt: '** Currently working on: [unslump.me](http://unslump.me/), [Dynamic Content](https://benseymour.com/dynamic-content/) **<br/>Recently worked on: [Getting Kids into Coding](http://12devsofxmas.co.uk/2017/01/day-7-getting-kids-into-coding/), [Code.Parents()](https://codeparents.org)'
 feature_row:
   - image_path: practical-responsive-images-book-and-speaking-th.jpg
     alt: "Practical Responsive Images eBook"
