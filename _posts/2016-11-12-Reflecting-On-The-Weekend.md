@@ -1,17 +1,20 @@
 ---
+title: Reflecting On The Weekend
+date: 2016-11-12 02:09:00 Z
+permalink: "/2016/11/12/Reflecting-On-The-Weekend"
+categories:
+- general
+- feature
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: Reflecting On The Weekend
-date: 2016-11-12T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo12-th.jpg
-permalink: /2016/11/12/Reflecting-On-The-Weekend
-categories: [general]
-category: feature
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo12-th.jpg"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 As I mentioned [yesterday](../11/Photo365---Flickr-API) in a regular routine. such as traveling for work, it's easy to switch on to auto-pilot, to to get side-tracked into the gnarliness of life, and to forget to pay attention to the joys of life.
 
 ![How sweet the world is](/images/posts/NaBloPoMo12-sweet.jpg)

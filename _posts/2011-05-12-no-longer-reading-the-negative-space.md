@@ -1,16 +1,16 @@
 ---
+title: No longer reading the negative space
+date: 2011-05-12 12:53:07 Z
+permalink: "/2011/05/12/no-longer-reading-the-negative-space/"
+categories:
+- android
+- life
+- archive
 layout: single
 author_profile: true
 type: pages
-
-title: No longer reading the negative space
-date: 2011-05-12T12:53:07+00:00
-permalink: /2011/05/12/no-longer-reading-the-negative-space/
-category: archive
-categories:
-  - android
-  - life
 ---
+
 Having recently moved to a tablet device running the kindle app, the white background &#8211; being actively emitted was just too jarring. So I switched to white text on a black background.. which at first felt strange, now seems pretty comfortable, but actually now appeals to me at a more fundamental level.
 
 When viewing a normal book it is generally black text on white paper. The words which represent that content which we are actually interested in are only discerned through their negative space. Our eyes receive all of the reflect light from the entire page, with the exception of the content.

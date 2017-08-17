@@ -1,16 +1,19 @@
 ---
+title: We're In This Together
+date: 2016-11-14 02:09:00 Z
+permalink: "/2016/11/14/In-this-together"
+categories:
+- general
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: We're In This Together
-date: 2016-11-14T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo14-pwa-slide.png
-permalink: /2016/11/14/In-this-together
-categories: [general]
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo14-pwa-slide.png"
 sidebar:
-    nav: "blog_sidenav"
+  nav: blog_sidenav
 ---
+
 I wonder if there is any industry which changes faster than Web Development?
 I wonder if there is another industry in which people so freely relinquish their valuable knowledge?
 

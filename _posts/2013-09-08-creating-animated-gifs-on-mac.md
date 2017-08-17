@@ -1,17 +1,17 @@
 ---
+title: Creating animated GIFs on Mac &#8211; the easy way
+date: 2013-09-08 15:15:05 Z
+permalink: "/2013/09/08/creating-animated-gifs-on-mac/"
+categories:
+- Mac
+- photography
+- Terminal
+- Workflow
 layout: single
 author_profile: true
 type: pages
-
-title: 'Creating animated GIFs on Mac &#8211; the easy way'
-date: 2013-09-08T15:15:05+00:00
-permalink: /2013/09/08/creating-animated-gifs-on-mac/
-categories:
-  - Mac
-  - photography
-  - Terminal
-  - Workflow
 ---
+
 I wanted to create an animated GIF from a sequence of static images, and initially I was considering a workflow using Photoshop/Lightroom or purchasing one of the many £2 app on the Mac App Store. However, after my recent successes using the Mac Terminal, I wanted to see if I could form my animated GIFs in a similar fashion.
 
 My Goal: Can &#8216;I quickly create Animated GIFs on the Mac&#8217;

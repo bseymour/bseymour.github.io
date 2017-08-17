@@ -1,26 +1,27 @@
 ---
+title: The Struggle (is (probably) necessary)
+date: 2017-08-14 02:09:00 Z
+permalink: "/2017/08/17/The-Struggle"
+categories:
+- general
+- feature
+tags:
+- general
 layout: single
 author_profile: false
 type: pages
-title: The Struggle (is (probably) necessary)
-date: 2017-08-14T2:09:00+00:00
-post_image: /images/600/Butterfly.jpg
-permalink: /2017/08/17/The-Struggle
-category: [feature]
-categories: [general]
-tags: [general]
+post_image: "/images/600/Butterfly.jpg"
 sidebar:
-    nav: "blog_sidenav"
+  nav: blog_sidenav
 image:
-  - src: Butterfly.jpg
-    alt: 'Butterfly, fluttering by.'
-
+- src: Butterfly.jpg
+  alt: Butterfly, fluttering by.
 DM-image:
-  - id: Butterfly
-    alt: 'Butterfly, fluttering by. Powered by Amplience'
-    quality: 65
-
+- id: Butterfly
+  alt: Butterfly, fluttering by. Powered by Amplience
+  quality: 65
 ---
+
 If you've seen any of my old demo's, or seen some of the examples from ebook, you might have noticed that I rather like using images of butterflies as my demo image content.
 
 That may be partially why this article from 2004 recently caught my eye, but the expression of why struggle, albeit in the case of a butterfly, is an unavoidable and in some cases necessary.

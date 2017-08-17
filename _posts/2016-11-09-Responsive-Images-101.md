@@ -1,18 +1,22 @@
 ---
+title: Responsive Images 101 - NaBloPoMo &#35;9
+date: 2016-11-09 02:09:00 Z
+permalink: "/2016/11/09/Responsive-Images-101"
+categories:
+- general
+- feature
+- top5
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: Responsive Images 101 - NaBloPoMo &#35;9
 short_title: Responsive Images 101
-date: 2016-11-09T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo9-picture.png
-permalink: /2016/11/09/Responsive-Images-101
-categories: [general]
-category: [feature, top5]
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo9-picture.png"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 In response to [yesterday's post](../08/Jekyll-Responsive-Images-without-plugins-after), it might make sense to provide a brief introduction to Responsive Images.
 
 # Short Summary

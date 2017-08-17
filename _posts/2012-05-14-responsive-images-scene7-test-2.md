@@ -1,20 +1,20 @@
 ---
+title: 'Responsive Images &#8211; test #2'
+date: 2012-05-14 09:22:07 Z
+permalink: "/2012/05/14/responsive-images-scene7-test-2/"
+categories:
+- Dynamic Media
+- general
+- Responsive Images
+- Rich Media
+- RWD
 layout: single
 author_profile: true
 type: pages
-
-title: 'Responsive Images &#8211; test #2'
-date: 2012-05-14T09:22:07+00:00
-permalink: /2012/05/14/responsive-images-scene7-test-2/
 post_image:
-  - /images/allbsuploads/2012/05/Raspberry.jpg
-categories:
-  - Dynamic Media
-  - general
-  - Responsive Images
-  - Rich Media
-  - RWD
+- "/images/allbsuploads/2012/05/Raspberry.jpg"
 ---
+
 Here are details of my second test implementation of Responsive Images (a.k.a. Fluid Image) using the <noscript> and jQuery approach along with Adobe Scene7:
 
 Following on from :: <a title="Responsive Images – Scene7 test #1" href="/2012/05/11/responsive-images-scene7-test-1/" target="_blank">Responsive Images Test #1</a>

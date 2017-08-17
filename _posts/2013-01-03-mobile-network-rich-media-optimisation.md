@@ -1,14 +1,14 @@
 ---
+title: Mobile Network Transcoding and Rich Media
+date: 2013-01-03 22:23:16 Z
+permalink: "/2013/01/03/mobile-network-rich-media-optimisation/"
+categories:
+- Rich Media
 layout: single
 author_profile: true
 type: pages
-
-title: Mobile Network Transcoding and Rich Media
-date: 2013-01-03T22:23:16+00:00
-permalink: /2013/01/03/mobile-network-rich-media-optimisation/
-categories:
-  - Rich Media
 ---
+
 Mobile Network Operators  endeavour to increase the bandwidth efficiency of their networks through  Transcoding/Asset Optimisation. Unfortunately, this can lead to interference in the delivery of the Rich Media Assets and impact on the visual quality aspects of the User Experience when sites are delivered to mobile via mobile networks (such as 3G).
 
 I&#8217;ve not yet found many good sources of information about this online, and so took the opportunity to make some notes after talking with my mate Graham F, who works in the Mobile Networks domain:

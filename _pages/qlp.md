@@ -1,7 +1,7 @@
 ---
+permalink: "/qlp/"
 layout: archive
 author_profile: true
-permalink: /qlp/
 ---
 
 <p>Quotes, Lyrics and Poems</p>

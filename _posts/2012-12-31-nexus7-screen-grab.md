@@ -1,15 +1,15 @@
 ---
+title: Nexus7 Screen Grab
+date: 2012-12-31 00:11:50 Z
+permalink: "/2012/12/31/nexus7-screen-grab/"
+categories:
+- android
+- handy
 layout: single
 author_profile: true
 type: pages
-
-title: Nexus7 Screen Grab
-date: 2012-12-31T00:11:50+00:00
-permalink: /2012/12/31/nexus7-screen-grab/
-categories:
-  - android
-  - handy
 ---
+
 None of the usual tricks worked for taking a screen shot on the Nexus7, but it turns out to be:
 
 Press both the &#8216;down volume&#8217; button and power button simultaneously for about a second.

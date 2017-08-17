@@ -1,15 +1,13 @@
 ---
+title: Migrating from Wordpress to Jekyll
+date: 2016-10-05 22:11:57 Z
+permalink: "/2016/10/05/migrating-to-jekyll/"
+categories:
+- general
+- archive
 layout: single
 author_profile: true
 type: pages
-
-title: Migrating from Wordpress to Jekyll
-date: 2016-10-05T22:11:57+00:00
-permalink: /2016/10/05/migrating-to-jekyll/
-category: archive
-categories:
-  - general
-category: archive
 ---
 
 Please bear with us during this regime shift.

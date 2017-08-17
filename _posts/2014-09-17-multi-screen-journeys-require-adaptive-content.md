@@ -1,14 +1,14 @@
 ---
+title: Multi-Screen Journeys Require Adaptive Content
+date: 2014-09-17 13:45:23 Z
+permalink: "/2014/09/17/multi-screen-journeys-require-adaptive-content/"
+categories:
+- eCommerce
 layout: single
 author_profile: true
 type: pages
-
-title: Multi-Screen Journeys Require Adaptive Content
-date: 2014-09-17T13:45:23+00:00
-permalink: /2014/09/17/multi-screen-journeys-require-adaptive-content/
-categories:
-  - eCommerce
 ---
+
 Note: This post originally appeared on the blog at Amplience.com (however the images were lost using a migration).
 
 <span style="text-decoration: underline;">A proliferation of devices</span>

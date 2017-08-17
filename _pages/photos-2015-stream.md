@@ -1,15 +1,14 @@
 ---
+title: 2015 Photo Stream (mostly non-family)
+date: 2016-10-20 09:00:00 Z
+permalink: "/2015stream/"
 layout: single
 author_profile: false
-date: 2016-10-20T09:00:00+00:00
 type: pages
-permalink: /2015stream/
-title: 2015 Photo Stream (mostly non-family)
-
 sidebar:
-    nav: "photos_sidenav"
-
+  nav: photos_sidenav
 ---
+
 ## Photowall of some of our favourite (non-family) photos from 2015
 
 <article id="gallery"></article>

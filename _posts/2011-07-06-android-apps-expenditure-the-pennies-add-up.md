@@ -1,14 +1,14 @@
 ---
+title: 'Android apps : expenditure (the pennies add up)'
+date: 2011-07-06 22:14:20 Z
+permalink: "/2011/07/06/android-apps-expenditure-the-pennies-add-up/"
+categories:
+- android
 layout: single
 author_profile: true
 type: pages
-
-title: 'Android apps : expenditure (the pennies add up)'
-date: 2011-07-06T22:14:20+00:00
-permalink: /2011/07/06/android-apps-expenditure-the-pennies-add-up/
-categories:
-  - android
 ---
+
 I&#8217;m finding that on my Android Tablet, these £1 and £2 apps are so easy to buy, and so low cost as to not require too much self justification, or even especially high expectations, after all what is the break even in terms of minutes of enjoyment per £1 spent? Anyway, last night I went through my Google Checkout history to see what the running total is. I was a little surprised to find it is just over £75 for the 2 months I&#8217;ve had the Asus Transformer, but in looking through the list, there is almost nothing that I am disappointed with.
 
 [update Aug 17 2011] I&#8217;ve now hit just over £100 total spend over 3 months, but the spend rate appears to be reducing

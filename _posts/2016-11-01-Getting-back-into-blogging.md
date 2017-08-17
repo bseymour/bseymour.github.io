@@ -1,15 +1,20 @@
 ---
+title: Getting back into blogging - NaBloPoMo &#35;1
+date: 2016-11-01 02:09:00 Z
+permalink: "/2016/11/01/Getting-back-into-blogging"
+categories:
+- general
+- blogging
+tags:
+- NaBloPoMo
+- Jekyll
+- Mobile
 layout: single
 author_profile: false
 type: pages
-title: Getting back into blogging - NaBloPoMo &#35;1
-date: 2016-11-01T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo1.jpg
-permalink: /2016/11/01/Getting-back-into-blogging
-categories: [general, blogging]
-tags: [NaBloPoMo, Jekyll, Mobile]
+post_image: "/images/posts/NaBloPoMo1.jpg"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
 
 As you may have gathered from many of the recent 'test' posts, after many years of relatively happy self-hosted Wordpress blogging, I've recently completed my migration over to github-pages hosted Jekyll. I'd been meaning to make the move to a static site generator for some time, as utilising a database-based site when so little of the overall content changes, seemed inefficient and overly complex. The frequent platform, theme and plugin updates had been a growing annoyance for some time, however the move finally rocketed up my to-do list last month, when thanks to a Wordpress plugin vulnerability, I lost admin access to my install. I could have dug out an archive, and re-built and patched my instance - but that was investing further dead effort in a setup I had almost no interest in persisting with.

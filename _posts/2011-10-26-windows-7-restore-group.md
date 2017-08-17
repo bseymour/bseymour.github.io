@@ -1,15 +1,15 @@
 ---
+title: Windows 7 restore group
+date: 2011-10-26 10:46:48 Z
+permalink: "/2011/10/26/windows-7-restore-group/"
+categories:
+- general
+- quicktip
 layout: single
 author_profile: true
 type: pages
-
-title: Windows 7 restore group
-date: 2011-10-26T10:46:48+00:00
-permalink: /2011/10/26/windows-7-restore-group/
-categories:
-  - general
-  - quicktip
 ---
+
 For the few months since I switched my main PC to Windows 7, I have generally been pretty happy with the experience, however there has been an annoyance which has niggled me (though clearly not enough to investigate until now).
 
 Grouping of objects in the task bar is a much nicer space saver , and as someone who is prone to having a large number of windows open at a time, I no longer have to have my task bar at triple height.

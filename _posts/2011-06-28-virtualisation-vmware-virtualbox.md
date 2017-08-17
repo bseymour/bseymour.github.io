@@ -1,14 +1,14 @@
 ---
+title: 'Virtual Machines : VMware &#038; VirtualBox'
+date: 2011-06-28 18:50:21 Z
+permalink: "/2011/06/28/virtualisation-vmware-virtualbox/"
+categories:
+- general
 layout: single
 author_profile: true
 type: pages
-
-title: 'Virtual Machines : VMware &#038; VirtualBox'
-date: 2011-06-28T18:50:21+00:00
-permalink: /2011/06/28/virtualisation-vmware-virtualbox/
-categories:
-  - general
 ---
+
 With the arrival of a nice new PC (HP HPE-599, i7-2600 based) I finally plan to spend some time using local machine virtualisation to change some of the fundamentals about how I use my PC&#8230;.
 
 I would like to lighten the PC maintenance needs, and to endeavour to reduce the slowdown that all my machines suffer over time&#8230; by using different virtual machines for different primary functions &#8211; for example I will have a Win7 pro based VM for  my Visual Studio based development&#8230; this should make it much easier to contain and control all of those Services (like SQLserver) which I use infrequently, but which are a pain to stop and start &#8230;.

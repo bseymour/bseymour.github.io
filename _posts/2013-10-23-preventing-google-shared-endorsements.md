@@ -1,14 +1,14 @@
 ---
+title: Preventing Google Shared Endorsements
+date: 2013-10-23 20:48:03 Z
+permalink: "/2013/10/23/preventing-google-shared-endorsements/"
+categories:
+- social
 layout: single
 author_profile: true
 type: pages
-
-title: Preventing Google Shared Endorsements
-date: 2013-10-23T20:48:03+00:00
-permalink: /2013/10/23/preventing-google-shared-endorsements/
-categories:
-  - social
 ---
+
 Google have been really up front about their intentions around Google Shared Endorsements, which kick in on 11th November. If you&#8217;d rather not have your Google+ profile and +1&#8217;s used for as part of Google adverts, you need to update your Google+ profile settings to turn off &#8220;Shared Endorsements in Ads&#8221;.
 
 <img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="Screen Shot 2013-10-23 at 21.25.53.png" alt="Screen Shot 2013 10 23 at 21 25 53" src="/images/allbsuploads/2013/10/Screen-Shot-2013-10-23-at-21.25.53.png" width="358" height="126" border="0" />

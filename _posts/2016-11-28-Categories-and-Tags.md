@@ -1,16 +1,19 @@
 ---
+title: Blog Posts - Categories & Tags
+date: 2016-11-28 02:09:00 Z
+permalink: "/2016/11/28/Categories-and-Tags"
+categories:
+- general
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: Blog Posts - Categories & Tags
-date: 2016-11-28T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo28-th.png
-permalink: /2016/11/28/Categories-and-Tags
-categories: [general]
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo28-th.png"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 In migrating from Wordpress to Jekyll, I've been updating and changing many aspects of my personal site and blog. One area that is overdue for some attention, regards the structure of my posts, specifically, how best to make best us of 'categories' and 'tags'.
 
 My existing categories and tags were inherited from the old Wordpress blog, and were formed over the last 5 years in a rather organic manner. (i.e. with little planning, on an ad-hoc basis).

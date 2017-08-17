@@ -1,21 +1,21 @@
 ---
+title: Be A Better Me
+date: 2016-01-06 17:39:08 Z
+permalink: "/2016/01/06/be-a-better-me/"
+categories:
+- habit
+- inspiring
+- life
+- feature
+tags:
+- inspiring
 layout: single
 author_profile: true
 type: pages
-
-title: Be A Better Me
-date: 2016-01-06T17:39:08+00:00
-permalink: /2016/01/06/be-a-better-me/
 post_image:
-  - /images/allbsuploads/2016/01/1452101836_featured.jpeg
-categories:
-  - habit
-  - inspiring
-  - life
-tags:
-  - inspiring
-category: feature
+- "/images/allbsuploads/2016/01/1452101836_featured.jpeg"
 ---
+
 At the top-centre of the whiteboard in my home-office is my current prime theme. It is intended to be short, mantra-like, and the broader perspective to which my other activities and goals should ideally contribute.
 
 The year before last, it was “Find My Voice”, and during that time it encouraged me to blog more (<a title="Ben Seymour: Writing" href="http://benseymour.com/writing/" target="_blank">benseymour.com/writing</a>), to start speaking at community/developer events (<a title="Ben Seymour: Speaking" href="http://benseymour.com/speaking/" target="_blank">benseymour.com/speaking</a>), to co-found a new developer meet-up in Teesside (<a title="NE Dev" href="http://nedev.io/" target="_blank">NE-Dev</a>), and to write my first book “<a title="Practical Responsive Images book" href="http://www.fivesimplesteps.com/products/practical-responsive-images" target="_blank">Practical Responsive Images</a>”, which was published by <a title="Five Simple Steps" href="http://www.fivesimplesteps.com/collections/books" target="_blank">Five Simple Steps</a> last year. I also set up a Code Club at a local primary school, and have recently started <a href="http://codeparents.org/" target="_blank">Code.Parents()</a> which is aimed at people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding<span style="line-height: 1.5;">.</span>

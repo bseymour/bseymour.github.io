@@ -1,15 +1,17 @@
 ---
+title: Mobile Git with Git2Go - Jekyll workflow - NaBloPoMo &#35;7
+date: 2016-11-07 02:09:00 Z
+permalink: "/2016/11/07/Mobile-Git-with-Git2Go---Jekyll-workflow"
+categories:
+- general
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: Mobile Git with Git2Go - Jekyll workflow - NaBloPoMo &#35;7
-date: 2016-11-07T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo7-th.jpg
-permalink: /2016/11/07/Mobile-Git-with-Git2Go---Jekyll-workflow
-categories: [general]
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo7-th.jpg"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
 
 The last step in yesterday's post described using a 1Writer action to pass my markdown file into Github where it will trigger an automatic Jekyll regeneration of my site on GitHub-pages. In a mobile context my Git client of choice for iOS is [Git2Go](http://git2go.com/).

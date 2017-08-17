@@ -1,20 +1,19 @@
 ---
+title: 'DigitalLON interviews : Dynamic Testing and Digital Customer Engagement'
+date: 2012-02-20 12:55:00 Z
+permalink: "/2012/02/20/digitallon-dynamic-testing-and-engagement/"
+categories:
+- conference
+- Dynamic Media
+- Rich Media
+- RWD
+- WebDev
 layout: single
 author_profile: true
 type: pages
-
-title: 'DigitalLON interviews : Dynamic Testing and Digital Customer Engagement'
-date: 2012-02-20T12:55:00+00:00
-permalink: /2012/02/20/digitallon-dynamic-testing-and-engagement/
-post_image: /images/allbsuploads/2012/03/digitalLON-sq.png
-categories:
-  - conference
-  - Dynamic Media
-  - Rich Media
-  - RWD
-  - WebDev
-
+post_image: "/images/allbsuploads/2012/03/digitalLON-sq.png"
 ---
+
 In relation to the upcoming DigitLON conference, a couple of Adobe colleagues (Jane Exner, Rich Page) and I were interviewed by Adam Malik about some current hot topics for Digital Marketing in 2012.
 
 Note: You may need sunglasses because of the way the <a title="http://en.wikipedia.org/wiki/File:The_Fluorescent_Light_Glistens_Off_Your_Head_Cover.jpg" href="http://en.wikipedia.org/wiki/File:The_Fluorescent_Light_Glistens_Off_Your_Head_Cover.jpg" target="_blank">florescent light shines off my head</a>!

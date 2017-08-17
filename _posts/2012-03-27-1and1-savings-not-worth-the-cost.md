@@ -1,14 +1,15 @@
 ---
+title: '1&#038;1 : the savings come at too great a cost'
+date: 2012-03-27 20:02:54 Z
+permalink: "/2012/03/27/1and1-savings-not-worth-the-cost/"
+categories:
+- general
+- services
 layout: single
 author_profile: true
 type: pages
-title: '1&#038;1 : the savings come at too great a cost'
-date: 2012-03-27T20:02:54+00:00
-permalink: /2012/03/27/1and1-savings-not-worth-the-cost/
-categories:
-  - general
-  - services
 ---
+
 I&#8217;ve been using 1&1 for much of my hosting for over 5 years now, and after a recent sequence of events, I&#8217;m coming to the conclusion that I can no longer afford to reduce my costs by using them.
 
 The biggest and most frustrating concern by far is their Support provision. Namecheap and Rochen both tend to reply to a support query in under 15 minutes, regardless of the time of day. Once logged in Rochen&#8217;s ticketing system is open and clear, and responses are meaningful and, wait for it &#8230; helpful! Namecheap also provides a live chat, and even if it means getting other support team members involved they have so far answered all my queries&#8230; in real time.

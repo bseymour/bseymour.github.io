@@ -1,19 +1,19 @@
 ---
+title: 'Over Engineering : 800 years of Operation'
+date: 2014-04-04 09:51:55 Z
+permalink: "/2014/04/04/over-engineering-800-years-of-operation/"
+categories:
+- general
+- HEADER
+- life
+- feature
 layout: single
 author_profile: true
 type: pages
-
-title: 'Over Engineering : 800 years of Operation'
-date: 2014-04-04T09:51:55+00:00
-permalink: /2014/04/04/over-engineering-800-years-of-operation/
 post_image:
-  - /images/allbsuploads/2014/04/2014-04-03-13.46.41.jpg
-categories:
-  - general
-  - HEADER
-  - life
-category: feature
+- "/images/allbsuploads/2014/04/2014-04-03-13.46.41.jpg"
 ---
+
 The Hook lighthouse on the south coast of County Wexford, Ireland is the oldest operating lighthouse in the world. There has been a beacon in this location since the 5th century, with the current structure being built in the 12th century, which has now operated continuously for a staggering 800 years.
 
 This medieval tower was built by William Marshall, the then Earl of Pembroke, who wanted to establish a port in the town of New Ross (30km up river) and needed to ensure safe passage for ships. Marshall’s background was as a castle builder, and you can see that legacy and skill transference in his approach to creating the lighthouse; The structure stands 4 stories tall, at a height of 35 metres, and for the lower 3 levels the walls are up to 4 metres thick.

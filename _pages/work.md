@@ -1,13 +1,14 @@
 ---
+title: Work
+date: 2016-10-05 09:00:00 Z
+permalink: "/work/"
 layout: single
 author_profile: true
-title: Work
-date: 2016-10-05T09:00:00+00:00
 type: pages
-permalink: /work/
 sidebar:
-    nav: "core_sidenav"
+  nav: core_sidenav
 ---
+
 <div>
   <div>
     <div>

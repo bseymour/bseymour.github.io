@@ -1,16 +1,16 @@
 ---
+title: Healthy Working
+date: 2014-01-05 19:11:28 Z
+permalink: "/2014/01/05/healthy-working/"
+categories:
+- general
+- life
+- feature
 layout: single
 author_profile: true
 type: pages
-
-title: Healthy Working
-date: 2014-01-05T19:11:28+00:00
-permalink: /2014/01/05/healthy-working/
-categories:
-  - general
-  - life
-category: feature
 ---
+
 <span style="color: #37404e; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; line-height: 18px;">Get-fit-while-working.</span>
 
 <span style="color: #37404e; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; line-height: 18px;">In lieu of a sit/standing desk, I’m going to give this a bash as part of my new 2014 regime. There are stacks of reports about the dangers of sitting all day, and while I hope to buy an electric sit/standing desk sometime this year, I will try out doing gentle steady cycling while working. In my first try I missed having my big monitor close, but it would be fine for email activities, and I cycled 5km without barely noticing (though I have a new saddle gel cover on order)</span>

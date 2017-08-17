@@ -1,14 +1,14 @@
 ---
+title: Transforming travelling with the Asus keyboard dock
+date: 2011-07-25 21:05:31 Z
+permalink: "/2011/07/25/transforming-travelling-with-the-asus-transformer-keyboard-dock/"
+categories:
+- general
 layout: single
 author_profile: true
 type: pages
-
-title: Transforming travelling with the Asus keyboard dock
-date: 2011-07-25T21:05:31+00:00
-permalink: /2011/07/25/transforming-travelling-with-the-asus-transformer-keyboard-dock/
-categories:
-  - general
 ---
+
 While I will need my main PC for large desktop app based presentations and demos, so far in this short hop to Munich the Asus Transformer, with the keyboard dock is blooming marvellous. For one thing when the guy in front reclined his seat, the transformer+dock still fits comfortably on the little folding tray area and typing in such a restricted space is no problem at all.
 
 Knowing that I should have between 9 and 16 hours use time also means i am pretty self contained and shouldn&#8217;t have to worry about power supplies and associated annoyances for this 2 day business trip.

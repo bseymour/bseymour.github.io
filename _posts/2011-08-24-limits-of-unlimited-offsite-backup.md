@@ -1,16 +1,16 @@
 ---
+title: The limits of the unlimited (a.k.a. my offsite backup experiences)
+date: 2011-08-24 10:21:35 Z
+permalink: "/2011/08/24/limits-of-unlimited-offsite-backup/"
+categories:
+- engagement
+- general
+- services
 layout: single
 author_profile: true
 type: pages
-
-title: The limits of the unlimited (a.k.a. my offsite backup experiences)
-date: 2011-08-24T10:21:35+00:00
-permalink: /2011/08/24/limits-of-unlimited-offsite-backup/
-categories:
-  - engagement
-  - general
-  - services
 ---
+
 [Apologies in advance about the length of this post. It&#8217;s been as a draft for some time, and I guess I need to become emotional less attached before I can prune it further. But as a couple of people recently asked about my offsite backup experiences, so I wanted to post this anyway.]
 
 The summary is: **Mozy**: were great but now aren&#8217;t. **Carbonite**: check the the small print. <span style="text-decoration: underline;"><strong>Crashplan</strong></span>: superb &#8211; long may it last.

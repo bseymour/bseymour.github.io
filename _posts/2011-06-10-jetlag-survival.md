@@ -1,14 +1,14 @@
 ---
+title: Jetlag survival
+date: 2011-06-10 00:37:25 Z
+permalink: "/2011/06/10/jetlag-survival/"
+categories:
+- general
 layout: single
 author_profile: true
 type: pages
-
-title: Jetlag survival
-date: 2011-06-10T00:37:25+00:00
-permalink: /2011/06/10/jetlag-survival/
-categories:
-  - general
 ---
+
 I&#8217;m not a big fan of flying, but holidays, client site visits and forming a better working relationships with remote colleagues means that it is likely to keep needing to happen &#8211; at least until a Start Trek transporter type device is finally made generally available.
 
 On long haul, they seem typically like to bring around food 30 mins into the flight&#8230;. shortly after this switch your watch to destination time&#8230; and more importantly  switch your thinking and eating to destination time too.

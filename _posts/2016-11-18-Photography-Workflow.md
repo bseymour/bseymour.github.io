@@ -1,17 +1,20 @@
 ---
+title: Home Photography Workflow
+date: 2016-11-18 02:09:00 Z
+permalink: "/2016/11/18/Photography-Workflow"
+categories:
+- general
+- feature
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: Home Photography Workflow
-date: 2016-11-18T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo18-th.jpg
-permalink: /2016/11/18/Photography-Workflow
-categories: [general]
-category: feature
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo18-th.jpg"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 As [discussed yesterday](/2016/11/17/Curation), I consider the capture, curation, sharing and archiving of the photos and videos of our family's precious memories to be extremely important. Also, over the last decade I have worked extensively with the rich media workflows and processes for large enterprises and global retailers. Hence, it's perhaps unsurprising that we've ended up establishing a fairly comprehensive home photography workflow.
 
 The challenges to be considered:

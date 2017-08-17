@@ -1,11 +1,10 @@
 ---
+permalink: "/videolist/"
 layout: archive
 author_profile: true
-permalink: /videolist/
 sidebar:
-    nav: "core_sidenav"
+  nav: core_sidenav
 ---
-
 
 <h1>Video List: </h1>
 

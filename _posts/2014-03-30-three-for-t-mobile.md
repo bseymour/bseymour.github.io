@@ -1,16 +1,16 @@
 ---
+title: 'Three for T (-mobile) : [UK mobile networks]'
+date: 2014-03-30 21:34:03 Z
+permalink: "/2014/03/30/three-for-t-mobile/"
+categories:
+- services
 layout: single
 author_profile: true
 type: pages
-
-title: 'Three for T (-mobile) : [UK mobile networks]'
-date: 2014-03-30T21:34:03+00:00
-permalink: /2014/03/30/three-for-t-mobile/
 post_image:
-  - /images/allbsuploads/2014/03/2014-03-30-21.55.27-crop.jpg
-categories:
-  - services
+- "/images/allbsuploads/2014/03/2014-03-30-21.55.27-crop.jpg"
 ---
+
 I moved to T-mobile nearly 2 years ago, and have been pretty happy with their service, and the plan that I chose. However, we are currently on a family trip outside of the UK, and upon arriving in Ireland I was greeted with a familiar text warning. For internet use outside of the UK please **<span style="text-decoration: underline;">insert £3 per day for 100MB</span>** of data.
 
 <img style="display: block; margin-left: auto; margin-right: auto;" title="2014-03-30 20.53.10.png" src="/images/allbsuploads/2014/03/2014-03-30-20.53.10.png" alt="2014 03 30 20 53 10" width="360" height="600" border="0" />

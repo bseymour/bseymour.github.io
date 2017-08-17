@@ -1,16 +1,21 @@
 ---
+title: Migrating Existing Content From Wordpress to Jekyll - NaBloPoMo &#35;4
+date: 2016-11-04 02:09:00 Z
+permalink: "/2016/11/04/Migrating-Existing-Content-From-Wordpress-to-Jekyll"
+categories:
+- general
+tags:
+- jekyll
+- NaBloPoMo
+- wordpress
 layout: single
 author_profile: false
 type: pages
-title: Migrating Existing Content From Wordpress to Jekyll - NaBloPoMo &#35;4
-date: 2016-11-04T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo4-directory.png
-permalink: /2016/11/04/Migrating-Existing-Content-From-Wordpress-to-Jekyll
-categories: [general]
-tags: [jekyll, NaBloPoMo, wordpress]
+post_image: "/images/posts/NaBloPoMo4-directory.png"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 Having used self-hosted Wordpress instances for both my blog and my personal site for several years, I also needed to transfer my existing content.
 
 I used a [Wordpress plugin](https://wordpress.org/plugins/jekyll-exporter/other_notes/) which, once installed on each Wordpress instance could run through all of my existing pages and posts, and export them into flat files, within a directory structure which was compatible with Jekyll.

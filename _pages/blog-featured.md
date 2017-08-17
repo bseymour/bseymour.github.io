@@ -1,9 +1,9 @@
 ---
+permalink: "/blog/"
 layout: archive
 author_profile: false
-permalink: /blog/
 sidebar:
-    nav: "blog_sidenav"
+  nav: blog_sidenav
 ---
 
 {% include base_path %}

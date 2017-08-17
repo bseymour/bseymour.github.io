@@ -1,14 +1,14 @@
 ---
+title: Stallman &#8211; free not open
+date: 2011-11-04 19:38:20 Z
+permalink: "/2011/11/04/stallman-free-not-open/"
+categories:
+- general
 layout: single
 author_profile: true
 type: pages
-
-title: 'Stallman &#8211; free not open'
-date: 2011-11-04T19:38:20+00:00
-permalink: /2011/11/04/stallman-free-not-open/
-categories:
-  - general
 ---
+
 I was fortunate enough to see Richard Stallman&#8217;s (rms) talk at Oxford Uni today titled &#8216;**For A Free Digital Society&#8217;**.
 
 In trying to describe who rms is to a friend I came up with the following:

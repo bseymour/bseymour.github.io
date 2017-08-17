@@ -1,21 +1,21 @@
 ---
+title: Image SEO &#038; Dynamic Imaging Systems
+date: 2013-01-07 23:03:38 Z
+permalink: "/2013/01/07/image-seo-dynamic-imaging/"
+categories:
+- Dynamic Media
+- eCommerce
+- HEADER
+- Rich Media
+- WebDev
+- feature
 layout: single
 author_profile: true
 type: pages
-
-title: 'Image SEO &#038; Dynamic Imaging Systems'
-date: 2013-01-07T23:03:38+00:00
-permalink: /2013/01/07/image-seo-dynamic-imaging/
 post_image:
-  - /images/allbsuploads/2013/01/book-art1.jpg
-categories:
-  - Dynamic Media
-  - eCommerce
-  - HEADER
-  - Rich Media
-  - WebDev
-category: feature
+- "/images/allbsuploads/2013/01/book-art1.jpg"
 ---
+
 At this time, the image and video verticals in search engine results pages (SERPs) do not yet tend to be as hotly contested over as the textual content elements of SEO. Yet, video and images both make up part of the prime real estate that is the first page of search results.
 
 &nbsp;

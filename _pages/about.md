@@ -1,12 +1,12 @@
 ---
+title: About Ben Seymour
+date: 2016-09-15 09:00:00 Z
+permalink: "/about/"
 layout: single
 author_profile: true
-title: About Ben Seymour
-date: 2016-09-15T09:00:00+00:00
 type: pages
-permalink: /about/
 sidebar:
-    nav: "core_sidenav"
+  nav: core_sidenav
 ---
 
 [<img class=" wp-image-199 aligncenter" title="Ben Seymour - Responsive Images - Milton Keynes Geek Night" src="/images/bsuploads/2014/01/MKGN_speaking2_byChristianHambly_sq.jpg" alt="MKGN_speaking2_byChristianHambly_sq" width="259" height="259" srcset="/images/bsuploads/2014/01/MKGN_speaking2_byChristianHambly_sq-150x150.jpg 150w, /images/bsuploads/2014/01/MKGN_speaking2_byChristianHambly_sq-300x300.jpg 300w, /images/bsuploads/2014/01/MKGN_speaking2_byChristianHambly_sq.jpg 561w" sizes="(max-width: 259px) 100vw, 259px" />](/images/bsuploads/2014/01/MKGN_speaking2_byChristianHambly_sq.jpg)

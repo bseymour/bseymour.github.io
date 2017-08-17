@@ -1,17 +1,17 @@
 ---
+title: 'Bluebell Wood : Photosphere'
+date: 2014-03-25 08:25:08 Z
+permalink: "/2014/03/25/bluebell-wood-photosphere/"
+categories:
+- android
+- general
+- photography
+- archive
 layout: single
 author_profile: true
 type: pages
-
-title: 'Bluebell Wood : Photosphere'
-date: 2014-03-25T08:25:08+00:00
-permalink: /2014/03/25/bluebell-wood-photosphere/
-categories:
-  - android
-  - general
-  - photography
-category: archive
 ---
+
 Captured my favourite photosphere to date in nearby Bluebell Woods yesterday &#8211; unfortunately, there isn&#8217;t yet a mechanism that allows me to directly embed a panoviewer in this site, so instead I have to embed the post from Google+, which included the photosphere
 
 <!-- Place this tag in your head or just before your close body tag. -->

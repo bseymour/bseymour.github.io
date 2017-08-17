@@ -1,15 +1,15 @@
 ---
+title: Navigating hover menus on a touch device
+date: 2013-01-12 22:26:08 Z
+permalink: "/2013/01/12/hover-menus-on-a-touch-device/"
+categories:
+- android
+- quicktip
 layout: single
 author_profile: true
 type: pages
-
-title: Navigating hover menus on a touch device
-date: 2013-01-12T22:26:08+00:00
-permalink: /2013/01/12/hover-menus-on-a-touch-device/
-categories:
-  - android
-  - quicktip
 ---
+
 Mouse-hover driven menu navigation can be a relatively nice user experience on a desktop based browser i.e. one with a pointer object that can be utilised to create a hover state. However, if this same experience is also presented to a touch device (such as a tablet or smartphone) then it can cause some of the navigation options to become unavailable.
 
 When navigating on a tablet, the typical experience is that when you touch the menu item you may briefly see a flash of the sub-menus, before being automatically taken to the category page, or which ever page is the top or default sub-category:

@@ -1,17 +1,17 @@
 ---
+title: 'ASP to PHP migration : PicasaWeb feed XSLT'
+date: 2013-01-01 17:37:07 Z
+permalink: "/2013/01/01/asp-php-migration/"
+categories:
+- general
+- quicktip
 layout: single
 author_profile: true
 type: pages
-
-title: 'ASP to PHP migration : PicasaWeb feed XSLT'
-date: 2013-01-01T17:37:07+00:00
-permalink: /2013/01/01/asp-php-migration/
 post_image:
-  - /images/allbsuploads/2013/01/xslt.png
-categories:
-  - general
-  - quicktip
+- "/images/allbsuploads/2013/01/xslt.png"
 ---
+
 I&#8217;ve been transferring most of my hosting away from 1&1 [<a title="1&1 : the savings come at too great a cost" href="/2012/03/27/1and1-savings-not-worth-the-cost/" target="_blank">previous blog article</a>] and as part of that I am also moving from ASP hosting services to PHP. I have been using XSLT to transform a feed from PicasaWeb to create a simple interface to browse our family photos, and so needed to convert these ASP pages to PHP (the XSL will initially remain the same, though I should also really update the design)
 
 The minor changes needed were as follows:

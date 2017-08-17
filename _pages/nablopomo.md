@@ -1,15 +1,14 @@
 ---
+title: NaBloPoMo 2016
+date: 2016-11-29 09:00:00 Z
+permalink: "/nablopomo/"
 layout: single
 author_profile: false
-date: 2016-11-29T09:00:00+00:00
 type: pages
-permalink: /nablopomo/
-title: NaBloPoMo 2016
-
 sidebar:
-    nav: nablopomo_blog_sidenav
-
+  nav: nablopomo_blog_sidenav
 ---
+
 NaBloPoMo is the catchy hashtag for National Blog Post Month.
 My blogging had lapsed in 2016, in part due to the problems with my Wordpress installation, which eventually prompted the migration to a Github-pages hosted Jekyll site - though also, because I fell out of the habit, and was getting distracted by my uncertainty over the audience for whom I was writing.
 

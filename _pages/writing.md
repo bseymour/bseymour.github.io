@@ -1,13 +1,14 @@
 ---
+title: Writing
+date: 2016-10-05 09:00:00 Z
+permalink: "/writing/"
 layout: single
 author_profile: true
-title: Writing
-date: 2016-10-05T09:00:00+00:00
 type: pages
-permalink: /writing/
 sidebar:
-    nav: "core_sidenav"
+  nav: core_sidenav
 ---
+
 ###### My main tech writing WAS on the domain allbs.co.uk, however these have all been migrated to this domain (benseymour.com) and there is now a 301 redirect. Below are some popular posts:
 
 ###### <a href="/2015/06/30/practical-responsive-images-book/" target="_blank">Practical Responsive Images &#8211; Book</a>: on the release of my new book on Responsive Images, a post providing an introduction and some context

@@ -1,3 +1,8 @@
+---
+title: Draft Mobile Content Wotkflows
+date: 2017-08-17 14:36:55.666000000 Z
+---
+
 
 
 markdown -> gh-pages hosted Jekyll (which auto-regenerates)

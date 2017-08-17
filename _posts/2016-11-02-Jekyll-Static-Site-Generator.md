@@ -1,16 +1,21 @@
 ---
+title: Jekyll Static Site Generator - NaBloPoMo &#35;2
+date: 2016-11-02 02:09:00 Z
+permalink: "/2016/11/02/Jekyll-Static-Site-Generator"
+categories:
+- general
+- blogging
+tags:
+- jekyll
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: Jekyll Static Site Generator - NaBloPoMo &#35;2
-date: 2016-11-02T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo2-th.jpg
-permalink: /2016/11/02/Jekyll-Static-Site-Generator
-categories: [general, blogging]
-tags: [jekyll, NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo2-th.jpg"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 As mentioned [yesterday](../01/Getting-back-into-blogging), having decided to move away from a database-driven blog site I started looking into static site generators. (Though inspired by Aral's [Breaking Things](http://www.breakingthin.gs/) I did also consider building my own locally scripted solution).  
 
 [StaticGen](https://www.staticgen.com/) is a fantastic resource for reviewing the top Open-Source Static Site Generators, and it is so heartening to see that there are so many highly active and lovingly maintained projects.

@@ -1,26 +1,27 @@
 ---
+title: Responsive Images in Jekyll without a plugin
+date: 2017-02-24 02:09:00 Z
+permalink: "/2017/03/02/Responsive-Images-in-Jekyll-without-a-plugin"
+categories:
+- general
+- feature
+tags:
+- general
 layout: single
 author_profile: false
 type: pages
-title: Responsive Images in Jekyll without a plugin
-date: 2017-02-24T2:09:00+00:00
-post_image: /images/600/Butterfly.jpg
-permalink: /2017/03/02/Responsive-Images-in-Jekyll-without-a-plugin
-category: [feature]
-categories: [general]
-tags: [general]
+post_image: "/images/600/Butterfly.jpg"
 sidebar:
-    nav: "blog_sidenav"
+  nav: blog_sidenav
 image:
-  - src: Butterfly.jpg
-    alt: 'Butterfly, fluttering by.'
-
+- src: Butterfly.jpg
+  alt: Butterfly, fluttering by.
 DM-image:
-  - id: Butterfly
-    alt: 'Butterfly, fluttering by. Powered by Amplience'
-    quality: 65
-
+- id: Butterfly
+  alt: Butterfly, fluttering by. Powered by Amplience
+  quality: 65
 ---
+
 Moving to R[esponsive Images](http://responsiveimag.es/) can give great page load benefits, but it does require more complex markup. This site uses Jekyll and is hosted on gh-pages, which limits the plugins available. I'd previously explored [using 1Writer Templates](https://benseymour.com/2016/11/08/Jekyll-Responsive-Images-without-plugins-after) to make it easier to generate this more complex embed code, but here I will be exploring what feels like a more robust and flexible solution - using HTML templates within _includes.
 
 

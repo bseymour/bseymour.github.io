@@ -1,20 +1,20 @@
 ---
+title: Timelapse Workflow Update
+date: 2013-07-28 22:38:25 Z
+permalink: "/2013/07/28/timelapse-workflow-update/"
+categories:
+- HEADER
+- Mac
+- photography
+- Workflow
+- feature
 layout: single
 author_profile: true
 type: pages
-
-title: Timelapse Workflow Update
-date: 2013-07-28T22:38:25+00:00
-permalink: /2013/07/28/timelapse-workflow-update/
 post_image:
-  - /images/allbsuploads/2013/07/2013-07-28-17.50.42.jpg
-categories:
-  - HEADER
-  - Mac
-  - photography
-  - Workflow
-category: feature
+- "/images/allbsuploads/2013/07/2013-07-28-17.50.42.jpg"
 ---
+
 We&#8217;re on holiday up on the stunning Holy Island, and it&#8217;s a perfect opportunity to make some improvements to my [current Timelapse workflow](http://allbs.co.uk/2013/05/12/timelapse-via-android-mobile/).  I&#8217;m now using my old Desire XE as a dedicated time-lapse shooting device, and the Joby Grip Tight and GorillaPod are still proving extremely useful:
 
 &nbsp;

@@ -1,16 +1,19 @@
 ---
+title: Moving To Mac
+date: 2016-11-25 02:09:00 Z
+permalink: "/2016/11/25/Moving-To-Mac"
+categories:
+- general
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: Moving To Mac
-date: 2016-11-25T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo25-th.jpg
-permalink: /2016/11/25/Moving-To-Mac
-categories: [general]
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo25-th.jpg"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 Having used Windows and Linux for several decades, I only started my foray into using a Mac when I moved jobs about 5 years ago. I can still recall my initial excitement at unboxing such a beautiful device... followed by weeks of growing frustrations at actually trying to use the damn thing. After about 2 months I hit break-even, and after 4 months I was somewhat besotted, and over time finally moved all of our home machines to Mac too.
 
 We were recently joined in the office by a one or two colleagues, who while extremely technical and capable, had also had close to zero exposure to working on a Mac before.... and so this post, is going to attempt to catalogue some tips and how-to's for those moving from Windows to Mac for the first time (I'll perhaps add further to this over time):

@@ -1,16 +1,19 @@
 ---
+title: Capturing Whiteboard Photos
+date: 2016-11-21 02:09:00 Z
+permalink: "/2016/11/21/Capturing-Whiteboard-Photos"
+categories:
+- general
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: Capturing Whiteboard Photos
-date: 2016-11-21T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo21-th.png
-permalink: /2016/11/21/Capturing-Whiteboard-Photos
-categories: [general]
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo21-th.png"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 For as long as I've worked in software a big whiteboard has been a core tool in figuring out complex problems, especially when working in collaboration with others. In just about every business I come into contact with, meeting room space is hotly contested - leading to that regular task of trying to quickly record all of the notes from the whiteboard before being turfed out of the room.
 
 More commonly, someone will pull out their phone, snap a quick photograph, and share it on slack, confluence, basecamp or the communication tool of choice. However, this almost always leads to part of the image being un-readable due to the glare from the reflection of the room lights or camera flash.

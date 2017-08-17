@@ -1,16 +1,19 @@
 ---
+title: URL Schemes and 1Writer - Jekyll workflow - NaBloPoMo &#35;6
+date: 2016-11-06 02:09:00 Z
+permalink: "/2016/11/06/URL-Schemes-and-1Writer---Jekyll-workflow"
+categories:
+- general
+tags:
+- NaBloPoMo
 layout: single
 author_profile: true
 type: pages
-title: URL Schemes and 1Writer - Jekyll workflow - NaBloPoMo &#35;6
-date: 2016-11-06T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo6-th.jpg
-permalink: /2016/11/06/URL-Schemes-and-1Writer---Jekyll-workflow
-categories: [general]
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo6-th.jpg"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 The conclusion of [yesterday's post](../05/Jekyll-Markdown-Skeleton-automation-with-Workflow-App) was an output URL Scheme from Workflow App. :
 
 ![Workflow App - URL Scheme](/images/posts/NaBloPoMo6-workflow-url-scheme.jpg)

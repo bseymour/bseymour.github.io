@@ -1,15 +1,15 @@
 ---
+title: How to transfer domains away from 1&#038;1
+date: 2012-03-27 22:22:22 Z
+permalink: "/2012/03/27/transfer-domains-from-1and1/"
+categories:
+- general
 layout: single
 author_profile: true
 type: pages
-
-title: 'How to transfer domains away from 1&#038;1'
-date: 2012-03-27T22:22:22+00:00
-permalink: /2012/03/27/transfer-domains-from-1and1/
-post_image: /images/allbsuploads/2012/03/1and1-transfer-com-domain_cropped.png
-categories:
-  - general
+post_image: "/images/allbsuploads/2012/03/1and1-transfer-com-domain_cropped.png"
 ---
+
 After the frustrations as detailed in my earlier post (&#8216;<a title="All BS : 1&1, savings not worth the cost" href="/2012/03/27/1and1-savings-not-worth-the-cost/" target="_blank">Savings not worth the cost</a>&#8216;) there were unsurprisingly more frustrations ahead I as started transferring my domains away from them (to Namecheap, who are so far providing a great level of service).
 
 In case anyone else has encountered similar problems, I will detail the workflow here:

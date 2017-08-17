@@ -1,18 +1,18 @@
 ---
+title: Reclaiming my MacBook Pro&#8217;s hard drive space
+date: 2015-01-08 22:44:48 Z
+permalink: "/2015/01/08/reclaiming-my-macbook-pros-hard-drive-space/"
+categories:
+- Mac
+- photography
+- quicktip
 layout: single
 author_profile: true
 type: pages
-
-title: 'Reclaiming my MacBook Pro&#8217;s hard drive space'
-date: 2015-01-08T22:44:48+00:00
-permalink: /2015/01/08/reclaiming-my-macbook-pros-hard-drive-space/
 post_image:
-  - /images/allbsuploads/2015/01/Screenshot-2015-01-08-19.35.16.png
-categories:
-  - Mac
-  - photography
-  - quicktip
+- "/images/allbsuploads/2015/01/Screenshot-2015-01-08-19.35.16.png"
 ---
+
 I must confess that I don’t keep a firm track of my storage use on my Mac hard drive. As a family we take a lot of photos and videos, but as much as I regularly curate our photos and move the bulk of them on to our NAS, I always seem to be bouncing off the limits of my available storage.
 
 Then yesterday I came across ‘Disk Map’  &#8211; a Mac app that visually maps the files on your HDD. I decided to take the plunge, and cough up what turned out to be the best £3 I’ve spent in a while.

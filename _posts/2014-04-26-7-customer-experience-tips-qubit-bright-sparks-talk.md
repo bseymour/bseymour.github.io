@@ -1,20 +1,20 @@
 ---
+title: '7 Customer Experience Tips : Qubit Bright Sparks talk'
+date: 2014-04-26 13:24:45 Z
+permalink: "/2014/04/26/7-customer-experience-tips-qubit-bright-sparks-talk/"
+categories:
+- conference
+- Dynamic Media
+- eCommerce
+- Rich Media
+- RWD
 layout: single
 author_profile: true
 type: pages
-
-title: '7 Customer Experience Tips : Qubit Bright Sparks talk'
-date: 2014-04-26T13:24:45+00:00
-permalink: /2014/04/26/7-customer-experience-tips-qubit-bright-sparks-talk/
 post_image:
-  - /images/allbsuploads/2014/04/QubitsBrightSparks-Screenshot-2014-04-26-14.23.37.png
-categories:
-  - conference
-  - Dynamic Media
-  - eCommerce
-  - Rich Media
-  - RWD
+- "/images/allbsuploads/2014/04/QubitsBrightSparks-Screenshot-2014-04-26-14.23.37.png"
 ---
+
 I’m really looking forward to be talking at [Qubit Bright Sparks](http://qubitbrightsparks.co.uk/) this coming Tuesday (29th April, at Sketch, London).
 
 It’s a fantastic line-up to be a part of, and I’ll be doing a &#8220;10 minute power talk” about Customer Experience Tips including some recent learnings from some great eCommerce client projects.  Main topics I’ll be rapidly covering:

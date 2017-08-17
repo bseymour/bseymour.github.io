@@ -1,16 +1,19 @@
 ---
+title: Alan Watts
+date: 2016-11-19 02:09:00 Z
+permalink: "/2016/11/19/Alan-Watts"
+categories:
+- general
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: Alan Watts
-date: 2016-11-19T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo19-th.jpg
-permalink: /2016/11/19/Alan-Watts
-categories: [general]
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo19-th.jpg"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 In case you've not come across Alan Watts already, he was a British philosopher, writer, and speaker best known as an interpreter and populariser of Eastern philosophy for a Western audience.
 
 There are several perspectives of his, captured succinctly a cople of short videos which incorporate audio recordings from some of his lectures in the 60's and 70's. Instead of reading a long post from me today, I'd suggest you invest a few minutes listening to these instead:

@@ -1,17 +1,20 @@
 ---
+title: Getting Kids Into Coding
+date: 2017-01-01 02:09:00 Z
+permalink: "/2017/01/01/Getting-Kids-Into-Coding"
+categories:
+- general
+- feature
+tags:
+- general
 layout: single
 author_profile: false
 type: pages
-title: Getting Kids Into Coding
-date: 2017-01-01T2:09:00+00:00
-post_image: /images/12devs/01-12Devs-Ben_Seymour.jpg
-permalink: /2017/01/01/Getting-Kids-Into-Coding
-category: [feature]
-categories: [general]
-tags: [general]
+post_image: "/images/12devs/01-12Devs-Ben_Seymour.jpg"
 sidebar:
-    nav: "blog_sidenav"
+  nav: blog_sidenav
 ---
+
 I work in software development, and I’ve loved experimenting with computers for nearly 40 years. I don’t think that everyone should become a developer, just like I don’t think that everyone should become an author, painter, accountant or musician… but I do think that everyone should have the opportunity to explore coding, ideally from an early age.  
 
 Some of the many benefits for the children being:  

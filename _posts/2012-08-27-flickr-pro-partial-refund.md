@@ -1,15 +1,15 @@
 ---
+title: Flickr Pro refund &#8211; how to get a partial refund
+date: 2012-08-27 19:06:58 Z
+permalink: "/2012/08/27/flickr-pro-partial-refund/"
+categories:
+- photography
+- quicktip
 layout: single
 author_profile: true
 type: pages
-
-title: 'Flickr Pro refund &#8211; how to get a partial refund'
-date: 2012-08-27T19:06:58+00:00
-permalink: /2012/08/27/flickr-pro-partial-refund/
-categories:
-  - photography
-  - quicktip
 ---
+
 Within 15 minutes of signing up for Flickr Pro I was getting a sinking feeling about the usability of their platform:
 
   1. I just couldn&#8217;t figure out how to download my original file, with it&#8217;s original filename.

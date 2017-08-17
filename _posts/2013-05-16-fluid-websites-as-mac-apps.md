@@ -1,15 +1,15 @@
 ---
+title: Fluid &#8211; websites as Mac apps
+date: 2013-05-16 18:51:04 Z
+permalink: "/2013/05/16/fluid-websites-as-mac-apps/"
+categories:
+- Mac
+- quicktip
 layout: single
 author_profile: true
 type: pages
-
-title: 'Fluid &#8211; websites as Mac apps'
-date: 2013-05-16T18:51:04+00:00
-permalink: /2013/05/16/fluid-websites-as-mac-apps/
-categories:
-  - Mac
-  - quicktip
 ---
+
 I’d heard mention of Fluid app in few recent articles, but hadn;t appreciated just how simple it would be to implement. As I’m now using <a href="https://trello.com/" target="_blank">Trello</a> more in my home/side project planning, I thought I’d try Fluid to make Trello a more ‘direct’ part of my Mac use.
 
 &nbsp;

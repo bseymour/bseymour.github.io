@@ -1,14 +1,14 @@
 ---
+title: What motivates us
+date: 2011-07-27 09:58:55 Z
+permalink: "/2011/07/27/motivates/"
+categories:
+- inspiring
 layout: single
 author_profile: true
 type: pages
-
-title: What motivates us
-date: 2011-07-27T09:58:55+00:00
-permalink: /2011/07/27/motivates/
-categories:
-  - inspiring
 ---
+
 Performance, Reward and motivation. Studies show that:
 
   * As long as a task uses only mechanical skill, structured financial rewards work as expected i.e. higher rewards lead to greater performance

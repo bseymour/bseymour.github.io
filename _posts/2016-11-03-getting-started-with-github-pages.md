@@ -1,16 +1,22 @@
 ---
+title: Getting Started with Github Pages - NaBloPoMo &#35;3
+date: 2016-11-03 02:09:00 Z
+permalink: "/2016/11/03/getting-started-with-github-pages"
+categories:
+- general
+- blogging
+tags:
+- jekyll
+- github
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: Getting Started with Github Pages - NaBloPoMo &#35;3
-date: 2016-11-03T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo3-th.png
-permalink: /2016/11/03/getting-started-with-github-pages
-categories: [general, blogging]
-tags: [jekyll, github, NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo3-th.png"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 Following on from NaBloPoMo [day 1](../01/Getting-back-into-blogging) & [day 2](../02/Jekyll-Static-Site-Generator)... There are tonnes of great [getting started](https://24ways.org/2013/get-started-with-github-pages/) [resources](https://guides.github.com/features/pages/) for [github-pages](https://pages.github.com/) and Jekyll, but the short gist is:
 
 1) Start with a fork of an existing Jekyll/github-pages repo

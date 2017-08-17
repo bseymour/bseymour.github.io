@@ -1,14 +1,14 @@
 ---
+title: SMS Utilities (exit Skypekit, enter Tropo)
+date: 2011-07-20 08:33:14 Z
+permalink: "/2011/07/20/sms-utilities/"
+categories:
+- general
 layout: single
 author_profile: true
 type: pages
-
-title: SMS Utilities (exit Skypekit, enter Tropo)
-date: 2011-07-20T08:33:14+00:00
-permalink: /2011/07/20/sms-utilities/
-categories:
-  - general
 ---
+
 I&#8217;ve been tinkering with some SMS based utilities for a little while using SkypeCOM and <a title="Skype4Py" href="http://skype4py.sourceforge.net/doc/html/" target="_blank">Skype4Py </a>(Python). It was great to be able to simplify some tasks that would otherwise need my own SMS  gateway. The downside was that it needs a version of the desktop client client running on the machine (not exactly ideal for any plans using a headless Linux based server) &#8230; furthermore the T&C&#8217;s restricted it&#8217;s use from server based apps.
 
 Enter <a title="SkypeKit" href="https://developer.skype.com" target="_blank">SkypeKit</a>: after months on the waiting list for the proper headless Skype SDK and runtime, I finally received my access (coincidentally just days after the Microsoft acquisition announcement).Unfortunately in reading the T&Cs prior to accessing the SkypeKit 3.4 Download :

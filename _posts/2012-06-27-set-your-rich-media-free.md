@@ -1,18 +1,18 @@
 ---
+title: Set Your Rich Media Free
+date: 2012-06-27 13:36:06 Z
+permalink: "/2012/06/27/set-your-rich-media-free/"
+categories:
+- Dynamic Media
+- Responsive Images
+- Rich Media
+- RWD
+- WebDev
 layout: single
 author_profile: true
 type: pages
-
-title: Set Your Rich Media Free
-date: 2012-06-27T13:36:06+00:00
-permalink: /2012/06/27/set-your-rich-media-free/
-categories:
-  - Dynamic Media
-  - Responsive Images
-  - Rich Media
-  - RWD
-  - WebDev
 ---
+
 I enjoyed another new challenge today as I took part in Adobe&#8217;s Digital Marketing Insights Webinar series (Adobe Webinar Wednesday). While there were people watching live, Q&A was only via a chat pod at the end of the presentation, so it was unusual to present for an hour with zero feedback during the course of the talk. I severely whittled down my initial slide deck, but even so I had to maintain a fairly high content pace to hit the planned timing &#8211; the recording is embedded below &#8211; I&#8217;d appreciate any feedback regarding the pace of the webinar (or any other aspect of the session).
 
 The topic was: Set Your Rich Media Free

@@ -1,17 +1,17 @@
 ---
+title: Practical Responsive Images with PictureFill (#1)
+date: 2014-05-17 13:08:48 Z
+permalink: "/2014/05/17/practical-responsive-images-with-picturefill-1/"
+categories:
+- Dynamic Media
+- Responsive Images
+- Rich Media
+- RWD
 layout: single
 author_profile: true
 type: pages
-
-title: 'Practical Responsive Images with PictureFill (#1)'
-date: 2014-05-17T13:08:48+00:00
-permalink: /2014/05/17/practical-responsive-images-with-picturefill-1/
-categories:
-  - Dynamic Media
-  - Responsive Images
-  - Rich Media
-  - RWD
 ---
+
 Thanks to the work of the Responsive Images Community Group and key supporters, the industry is gaining considerable momentum towards implementing the **<picture>** element and the **srcset** attribute.
 
 Both of these could finally offer a standard solution to the gnarly problem of providing a mature and consistent approach to implementing images effectively, especially within Responsive Websites, and potentially also bringing some Web Performance benefits.

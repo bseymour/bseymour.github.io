@@ -1,16 +1,19 @@
 ---
+title: Content Consumption & Sharing Workflow
+date: 2016-11-26 02:09:00 Z
+permalink: "/2016/11/26/Content-Consumption-Workflow"
+categories:
+- general
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: Content Consumption & Sharing Workflow
-date: 2016-11-26T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo26-th.jpg
-permalink: /2016/11/26/Content-Consumption-Workflow
-categories: [general]
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo26-th.jpg"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 I find myself awash in an ever-expanding sea of content. This is in part thanks to the web's empowerment of self-publishing, combined with social networks making it incredibly easy to re-share what my community feel is valuable or interesting articles. Like many people, I encounter this in different contexts, be it via twitter on my mobile while traveling, or via facebook at home on my tablet, or my RSS reader on my desktop machine.
 
 These articles typically fall into 3 categories:  

@@ -1,15 +1,15 @@
 ---
+title: Drawscript and HTML5 Canvas
+date: 2013-03-23 15:52:23 Z
+permalink: "/2013/03/23/drawscript-and-html5-canvas/"
+categories:
+- general
 layout: single
 author_profile: true
 type: pages
-
-title: Drawscript and HTML5 Canvas
-date: 2013-03-23T15:52:23+00:00
-permalink: /2013/03/23/drawscript-and-html5-canvas/
-post_image: /images/allbsuploads/2013/03/Screen-Shot-2013-03-23-at-15.47.54.png
-categories:
-  - general
+post_image: "/images/allbsuploads/2013/03/Screen-Shot-2013-03-23-at-15.47.54.png"
 ---
+
 Drawscript is a very interesting Adobe Illustrator extension (currently in beta) which converts vectors into graphics code. This can then be used to make UI elements on iOS or via javascript to use with HTML5 canvas.
 
 Simply download the .zxp from <a title="http://drawscri.pt/" href="http://drawscri.pt/" target="_blank">http://drawscri.pt/</a> and use the Adobe Extension Manager to add and enable it for Adobe Illustrator, and you are away.

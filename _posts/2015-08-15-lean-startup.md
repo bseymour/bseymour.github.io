@@ -1,16 +1,16 @@
 ---
+title: Lean Startup
+date: 2015-08-15 10:16:41 Z
+permalink: "/2015/08/15/lean-startup/"
+categories:
+- general
 layout: single
 author_profile: true
 type: pages
-
-title: Lean Startup
-date: 2015-08-15T10:16:41+00:00
-permalink: /2015/08/15/lean-startup/
 post_image:
-  - /images/allbsuploads/2015/08/2015-08-15-11.18.31.jpg
-categories:
-  - general
+- "/images/allbsuploads/2015/08/2015-08-15-11.18.31.jpg"
 ---
+
 &#8220;Minimum Viable Products are optimized for learning, not scaling.&#8221;
 
 &#8220;while you decide what’s Minimum, the customer determines if it is Viable&#8221;

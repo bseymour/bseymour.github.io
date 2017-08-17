@@ -1,17 +1,17 @@
 ---
+title: Origin pull on Amazon Cloudfront
+date: 2012-05-10 22:36:34 Z
+permalink: "/2012/05/10/cloudfront-origin-pull/"
+categories:
+- HEADER
+- quicktip
 layout: single
 author_profile: true
 type: pages
-
-title: Origin pull on Amazon Cloudfront
-date: 2012-05-10T22:36:34+00:00
-permalink: /2012/05/10/cloudfront-origin-pull/
 post_image:
-  - /images/allbsuploads/2012/05/Red_Fox_sq.jpg
-categories:
-  - HEADER
-  - quicktip
+- "/images/allbsuploads/2012/05/Red_Fox_sq.jpg"
 ---
+
 Since mid 2010 Amazon Web Services Cloudfront CDN has supported origin pull from non-S3 storage. I&#8217;ve been using Cloudfront for some time, but always S3 based objects.
 
 Steps to set up Amazon Cloudfront for origin pull on non-S3 objects:

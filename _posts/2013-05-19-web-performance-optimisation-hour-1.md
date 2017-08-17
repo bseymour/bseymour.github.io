@@ -1,21 +1,25 @@
 ---
+title: 'Web Performance Optimisation: hour 1'
+date: 2013-05-19 20:33:08 Z
+permalink: "/2013/05/19/web-performance-optimisation-hour-1/"
+categories:
+- WebDev
+- WebPerf
+- feature
+- top5
+tags:
+- webperf
+- injustanhour
 layout: single
 author_profile: false
 type: pages
-
-title: 'Web Performance Optimisation: hour 1'
 short_title: WebPerf hr1
-date: 2013-05-19T20:33:08+00:00
-permalink: /2013/05/19/web-performance-optimisation-hour-1/
 post_image:
-  - /images/allbsuploads/2013/05/ScreenShot20130519at21.20.372.8secs_thumb.png
-
-categories: [WebDev, WebPerf]
-category: [feature, top5]
-tags: [webperf, injustanhour]
+- "/images/allbsuploads/2013/05/ScreenShot20130519at21.20.372.8secs_thumb.png"
 sidebar:
-    nav: "blog_sidenav"
+  nav: blog_sidenav
 ---
+
 On Saturday morning, I gave myself a challenge. **<span style="color: #ff6600;">How much could I improve the performance of one of my websites in 1 hour?</span>**
 
 I saw Andy Davies (<a title="https://twitter.com/andydavies" href="https://twitter.com/andydavies" target="_blank">@andydavies</a>) give an <a href="http://www.slideshare.net/AndyDavies/speed-is-essential-for-a-great-web-experience" target="_blank">amazing talk</a> on Web Site Performance at <a href="http://port80events.co.uk/2012-talk-andy-davies/" target="_blank">Port80</a> last year, and then took advantage of the half day workshop Andy ran the day before the 2013 Port80 conference.
