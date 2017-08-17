@@ -2,6 +2,7 @@
 title: Terminal Velocity
 date: 2013-09-05 19:42:01 Z
 permalink: "/2013/09/05/its-terminal/"
+category: [feature]
 categories:
 - Workflow
 - feature

@@ -2,6 +2,7 @@
 title: Dynamic Images 101 - NaBloPoMo &#35;10
 date: 2016-11-10 02:09:00 Z
 permalink: "/2016/11/10/Dynamic-Images-101"
+category: [feature]
 categories:
 - general
 - feature

@@ -2,6 +2,7 @@
 title: Origin pull on Amazon Cloudfront
 date: 2012-05-10 22:36:34 Z
 permalink: "/2012/05/10/cloudfront-origin-pull/"
+category: [feature]
 categories:
 - HEADER
 - quicktip

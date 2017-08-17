@@ -2,6 +2,7 @@
 title: Jekyll Markdown Skeleton automation with Workflow App - NaBloPoMo &#35;5
 date: 2016-11-05 02:09:00 Z
 permalink: "/2016/11/05/Jekyll-Markdown-Skeleton-automation-with-Workflow-App"
+category: [feature]
 categories:
 - general
 tags:

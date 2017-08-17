@@ -2,6 +2,7 @@
 title: 'Web Performance Optimisation: hour 2'
 date: 2013-05-21 19:51:26 Z
 permalink: "/2013/05/21/web-performance-optimisation-hour-2/"
+category: [feature]
 categories:
 - WebDev
 - WebPerf

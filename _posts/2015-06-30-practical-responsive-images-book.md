@@ -2,6 +2,7 @@
 title: 'Practical Responsive Images : Book'
 date: 2015-06-30 08:20:35 Z
 permalink: "/2015/06/30/practical-responsive-images-book/"
+category: [feature]
 categories:
 - Dynamic Media
 - HEADER

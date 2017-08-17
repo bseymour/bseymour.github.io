@@ -2,6 +2,7 @@
 title: Responsive Images 101 - NaBloPoMo &#35;9
 date: 2016-11-09 02:09:00 Z
 permalink: "/2016/11/09/Responsive-Images-101"
+category: [feature, top5]
 categories:
 - general
 - feature

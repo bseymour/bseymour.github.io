@@ -2,6 +2,7 @@
 title: 'Node.js : hour 1'
 date: 2013-10-29 23:22:04 Z
 permalink: "/2013/10/29/nodejs-hour-1/"
+category: [feature]
 categories:
 - Node
 - WebDev

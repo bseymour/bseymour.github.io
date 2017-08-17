@@ -2,6 +2,7 @@
 title: Mobile Git with Git2Go - Jekyll workflow - NaBloPoMo &#35;7
 date: 2016-11-07 02:09:00 Z
 permalink: "/2016/11/07/Mobile-Git-with-Git2Go---Jekyll-workflow"
+category: [feature]
 categories:
 - general
 tags:

@@ -2,6 +2,7 @@
 title: What motivates us
 date: 2011-07-27 09:58:55 Z
 permalink: "/2011/07/27/motivates/"
+category: [feature]
 categories:
 - inspiring
 layout: single

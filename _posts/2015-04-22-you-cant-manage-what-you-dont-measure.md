@@ -2,6 +2,7 @@
 title: You can&#8217;t manage what you don&#8217;t measure
 date: 2015-04-22 19:11:57 Z
 permalink: "/2015/04/22/you-cant-manage-what-you-dont-measure/"
+category: [feature]
 categories:
 - habit
 - life

@@ -2,6 +2,7 @@
 title: The Apprentice Bowl
 date: 2014-03-31 21:40:27 Z
 permalink: "/2014/03/31/the-apprentice-bowl/"
+category: [feature]
 categories:
 - HEADER
 - inspiring

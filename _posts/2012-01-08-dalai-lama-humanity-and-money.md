@@ -2,6 +2,7 @@
 title: 'Dalai Lama: humanity and money'
 date: 2012-01-08 23:10:23 Z
 permalink: "/2012/01/08/dalai-lama-humanity-and-money/"
+category: [feature]
 categories:
 - inspiring
 - life

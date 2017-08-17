@@ -2,6 +2,7 @@
 title: URL Schemes and 1Writer - Jekyll workflow - NaBloPoMo &#35;6
 date: 2016-11-06 02:09:00 Z
 permalink: "/2016/11/06/URL-Schemes-and-1Writer---Jekyll-workflow"
+category: [feature]
 categories:
 - general
 tags:

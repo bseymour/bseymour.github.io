@@ -2,6 +2,7 @@
 title: Reflecting On The Weekend
 date: 2016-11-12 02:09:00 Z
 permalink: "/2016/11/12/Reflecting-On-The-Weekend"
+category: [feature]
 categories:
 - general
 - feature

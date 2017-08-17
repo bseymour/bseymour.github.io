@@ -2,6 +2,7 @@
 title: Assert Your Freedom of Attention
 date: 2016-02-19 23:15:57 Z
 permalink: "/2016/02/19/attention/"
+category: [feature]
 categories:
 - general
 - feature

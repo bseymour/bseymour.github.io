@@ -2,6 +2,7 @@
 title: Be A Better Me
 date: 2016-01-06 17:39:08 Z
 permalink: "/2016/01/06/be-a-better-me/"
+category: [feature]
 categories:
 - habit
 - inspiring
