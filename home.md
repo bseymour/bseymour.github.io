@@ -13,7 +13,7 @@ header:
 excerpt: "• eCommerce & Optimisation<br/> • Dynamic Content Specialist<br/> • Responsive
   Images • Author <br/> • STEMNet Ambassador<br/> • Code Club"
 intro:
-- excerpt: "** Currently working on: [unslump.me](http://unslump.me/), [Seymour Potential](http://seymourpotential.com/)
+- excerpt: "** Currently working on : [unslump.me](http://unslump.me/), [Seymour Potential](http://seymourpotential.com/)
     **<br/>Recently worked on: [Getting Kids into Coding](http://12devsofxmas.co.uk/2017/01/day-7-getting-kids-into-coding/),
     [Dynamic Content](https://benseymour.com/dynamic-content/)"
 feature_row:
