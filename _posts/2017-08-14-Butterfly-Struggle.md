@@ -13,7 +13,6 @@ type: pages
 category: [feature]
 categories: [general]
 tags: [general]
-=======
 post_image: "/images/600/Butterfly.jpg"
 sidebar:
   nav: blog_sidenav
