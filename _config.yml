@@ -11,12 +11,13 @@ title                    : "Ben Seymour"
 title_separator          : "-"
 name                     : "Oxford U.K. - eCommerce & Dynamic Content Specialist, Responsive Images Advocate"
 description              : "The core online presence of Ben Seymour (Oxford, U.K.)"
-url                      : "http://benseymour.com" # the base hostname & protocol for your site 
+url                      : "http://localhost:4000" # the base hostname & protocol for your site 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : bseymour/bseymour.github.io # GitHub username/repo-name
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+
 ---
 title: Ben Seymour
 timezone: UTC
