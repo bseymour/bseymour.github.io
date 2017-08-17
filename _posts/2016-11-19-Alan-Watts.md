@@ -2,6 +2,7 @@
 title: Alan Watts
 date: 2016-11-19 02:09:00 Z
 permalink: "/2016/11/19/Alan-Watts"
+category: [feature]
 categories:
 - general
 tags:

@@ -2,6 +2,7 @@
 title: Making the most of your fears
 date: 2016-11-16 02:09:00 Z
 permalink: "/2016/11/16/Making-the-most-of-your-fears"
+category: [feature, top5]
 categories:
 - general
 - feature

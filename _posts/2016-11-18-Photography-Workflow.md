@@ -2,6 +2,7 @@
 title: Home Photography Workflow
 date: 2016-11-18 02:09:00 Z
 permalink: "/2016/11/18/Photography-Workflow"
+category: [feature]
 categories:
 - general
 - feature

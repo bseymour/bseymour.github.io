@@ -2,6 +2,7 @@
 title: What Motivates Us
 date: 2016-11-22 02:09:00 Z
 permalink: "/2016/11/22/Motivation"
+category: [feature]
 categories:
 - general
 tags:

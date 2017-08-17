@@ -2,6 +2,7 @@
 title: Getting Kids Into Coding
 date: 2017-01-01 02:09:00 Z
 permalink: "/2017/01/01/Getting-Kids-Into-Coding"
+category: [feature]
 categories:
 - general
 - feature
