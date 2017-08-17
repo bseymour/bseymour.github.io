@@ -1,21 +1,21 @@
 ---
+title: Picasaweb —> Flickr migration
+date: 2013-03-06 21:12:55 Z
+permalink: "/2013/03/06/picasaweb-flickr-migration/"
+categories:
+- photography
+- services
+tags:
+- flickr
+- photos
+- picasaweb
 layout: single
 author_profile: true
 type: pages
-
-title: 'Picasaweb —> Flickr migration'
-date: 2013-03-06T21:12:55+00:00
-permalink: /2013/03/06/picasaweb-flickr-migration/
 post_image:
-  - /images/allbsuploads/2013/03/Screen-Shot-2013-03-06-at-07.51.22-copy.png
-categories:
-  - photography
-  - services
-tags:
-  - flickr
-  - photos
-  - picasaweb
+- "/images/allbsuploads/2013/03/Screen-Shot-2013-03-06-at-07.51.22-copy.png"
 ---
+
 Summary:
 
 Use @pixelpipe&#8217;s [Pi.pe](http://pi.pe) it&#8217;s awesome, and for some reason, free!

@@ -1,17 +1,20 @@
 ---
+title: Jekyll Responsive Images without plugins - NaBloPoMo &#35;8
+date: 2016-11-08 02:09:00 Z
+permalink: "/2016/11/08/Jekyll-Responsive-Images-without-plugins"
+categories:
+- general
+- archive
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: Jekyll Responsive Images without plugins - NaBloPoMo &#35;8
-date: 2016-11-08T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo8-th.jpg
-permalink: /2016/11/08/Jekyll-Responsive-Images-without-plugins
-category: archive
-categories: [general]
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo8-th.jpg"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 While there are many improvements that I'm looking forward to making to my Jekyll/gh-pages workflow my current biggest concern is the way that I'm handling images. Currently images are uploaded to Github straight from the iPad/iPhones camera roll as-is, and then served directly into the page, meaning that in many cases we are serving up images that are considerably larger than needed, and not being particularly considerate to our site visitors.
 
 ![Webpagetest initial results](/images/posts/NaBloPoMo8-webpagetest1.jpg)

@@ -1,22 +1,22 @@
 ---
+title: 'Practical Responsive Images : Book'
+date: 2015-06-30 08:20:35 Z
+permalink: "/2015/06/30/practical-responsive-images-book/"
+categories:
+- Dynamic Media
+- HEADER
+- Responsive Images
+- RWD
+- WebDev
+- Workflow
+- feature
 layout: single
 author_profile: true
 type: pages
-
-title: 'Practical Responsive Images : Book'
-date: 2015-06-30T08:20:35+00:00
-permalink: /2015/06/30/practical-responsive-images-book/
 post_image:
-  - /images/allbsuploads/2015/06/Cover-PracticalResponsiveImages-coverimg.jpg
-categories:
-  - Dynamic Media
-  - HEADER
-  - Responsive Images
-  - RWD
-  - WebDev
-  - Workflow
-category: feature
+- "/images/allbsuploads/2015/06/Cover-PracticalResponsiveImages-coverimg.jpg"
 ---
+
 The power of images isn&#8217;t just about improving website conversion.
 
 They can transport us. Sometimes in space, sometimes in time, often in perspective.

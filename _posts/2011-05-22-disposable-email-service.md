@@ -1,16 +1,16 @@
 ---
+title: Disposable email service
+date: 2011-05-22 19:04:03 Z
+permalink: "/2011/05/22/disposable-email-service/"
+categories:
+- handy
+- services
+- archive
 layout: single
 author_profile: true
 type: pages
-
-title: Disposable email service
-date: 2011-05-22T19:04:03+00:00
-permalink: /2011/05/22/disposable-email-service/
-categories:
-  - handy
-  - services
-category: archive
 ---
+
 There are some sites which need you to register in order to see some content, or access downloads, and while many will accept aaa@aaa.aa, many like to be force you to respond to an email to ‘prove’ that the email address is in use.
 
 For a while I have had an email address along the lines of random999@hotmail.etc, which I used for registering on sites where I didn’t want to give an email address out.

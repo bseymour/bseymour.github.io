@@ -1,13 +1,14 @@
 ---
+title: Speaking
+date: 2017-03-05 09:00:00 Z
+permalink: "/speaking/"
 layout: single
 author_profile: true
-title: Speaking
-date: 2017-03-05T09:00:00+00:00
 type: pages
-permalink: /speaking/
 sidebar:
-    nav: "core_sidenav"
+  nav: core_sidenav
 ---
+
 * * *
 
 ## Upcoming Talks

@@ -1,14 +1,14 @@
 ---
+title: VMWare Fusion and Windows Live Writer
+date: 2013-03-31 23:30:44 Z
+permalink: "/2013/03/31/vmware-fusion-and-windows-live-writer/"
+categories:
+- Mac
 layout: single
 author_profile: true
 type: pages
-
-title: VMWare Fusion and Windows Live Writer
-date: 2013-03-31T23:30:44+00:00
-permalink: /2013/03/31/vmware-fusion-and-windows-live-writer/
-categories:
-  - Mac
 ---
+
 I’m not a massive fan of writing in-browser, and so being recently new to Mac I’d been quite enjoying MarsEdit. However, as the 30 day trial came to it’s conclusion, £27.99 just seemed too steep for such an app.
 
 [<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="Screen Shot 2013-04-01 at 00.05.06" alt="Screen Shot 2013-04-01 at 00.05.06" src="/images/allbsuploads/2013/03/ScreenShot20130401at00.05.06_thumb.png" width="241" height="99" border="0" />](/images/allbsuploads/2013/03/ScreenShot20130401at00.05.06.png)

@@ -1,16 +1,16 @@
 ---
+title: Make More of Your Videos
+date: 2014-10-09 13:49:38 Z
+permalink: "/2014/10/09/make-more-of-your-videos/"
+categories:
+- eCommerce
 layout: single
 author_profile: true
 type: pages
-
-title: Make More of Your Videos
-date: 2014-10-09T13:49:38+00:00
-permalink: /2014/10/09/make-more-of-your-videos/
 builder_switch_frontend:
-  - 0
-categories:
-  - eCommerce
+- 0
 ---
+
 Note: This post originally appeared on the blog at Amplience.com (however the images were lost using a migration).
 
 “Pages with video attracted 2-3x more visitors”: Marketing Sherpa

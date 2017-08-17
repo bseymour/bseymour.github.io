@@ -1,15 +1,15 @@
 ---
+title: The day the TouchPad load-tested eComm sites
+date: 2011-08-23 11:03:53 Z
+permalink: "/2011/08/23/the-day-touchpad-load-tested-ecomm-sites/"
+categories:
+- general
+- social
 layout: single
 author_profile: true
 type: pages
-
-title: The day the TouchPad load-tested eComm sites
-date: 2011-08-23T11:03:53+00:00
-permalink: /2011/08/23/the-day-touchpad-load-tested-ecomm-sites/
-categories:
-  - general
-  - social
 ---
+
 Today could have been a cracking opportunity for so many large eTailers. However, throughout the morning I have encountered problems trying to find the TouchPad in the major electronics eComm sites. Problems of stock availability for a device which is no longer being produced I can understand, but what must be more concerning for a few the medium/large players, is that there entire eComm sites have been quite unresponsive, or in some cases totally unavailable.
 
 [Update: one friend who was able to complete a purchase called the eTailer the day after the delivery was expected, to be advised that they had no record of his order, and that they were not expecting any more in stock]

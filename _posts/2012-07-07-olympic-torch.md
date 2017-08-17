@@ -1,14 +1,14 @@
 ---
+title: Olympic Torch
+date: 2012-07-07 21:25:28 Z
+permalink: "/2012/07/07/olympic-torch/"
+categories:
+- Family
 layout: single
 author_profile: true
 type: pages
-
-title: Olympic Torch
-date: 2012-07-07T21:25:28+00:00
-permalink: /2012/07/07/olympic-torch/
-categories:
-  - Family
 ---
+
 The Olympic Torch has been very busy doing the rounds all over the UK in preparations for the 2012 London Olympics, and we were lucky enough to get hands-on with one last week at Jack&#8217;s school. I tend to imagine this could well be the kind of stuff that Jack and Zoe&#8217;s grand-children will find really cool &#8230; about 50 years from now.
 
 (I&#8217;d appreciate any recommendations for nice photo-blog WordPress themes, as frankly putting these pics in here is a clunky workflow, and I&#8217;d like to separate our this time of post)

@@ -1,16 +1,16 @@
 ---
+title: Upload all the things!
+date: 2012-10-12 09:11:30 Z
+permalink: "/2012/10/12/upload-all-the-things/"
+categories:
+- general
 layout: single
 author_profile: true
 type: pages
-
-title: Upload all the things!
-date: 2012-10-12T09:11:30+00:00
-permalink: /2012/10/12/upload-all-the-things/
 post_image:
-  - /images/allbsuploads/2012/10/BT-Infinity.png
-categories:
-  - general
+- "/images/allbsuploads/2012/10/BT-Infinity.png"
 ---
+
 After 9 years as our ISP we move away from @EclipseInternet. After a crazy amount of problems and delays with the sales/ordering process, which took 2 months(!) it was a relief that the BT Engineer was brilliant  &#8211; called in advance, really nice bloke, and everything up and running before 9am ! Well done @BTbroadband, and thanks Lenny
 
 Currently 75Mbps downstream + 13Mbps upstream = very happy me <img src="http://allbs.co.uk/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

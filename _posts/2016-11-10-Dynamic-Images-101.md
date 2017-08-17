@@ -1,17 +1,20 @@
 ---
+title: Dynamic Images 101 - NaBloPoMo &#35;10
+date: 2016-11-10 02:09:00 Z
+permalink: "/2016/11/10/Dynamic-Images-101"
+categories:
+- general
+- feature
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: Dynamic Images 101 - NaBloPoMo &#35;10
-date: 2016-11-10T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo10-th.png
-permalink: /2016/11/10/Dynamic-Images-101
-categories: [general]
-category: feature
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo10-th.png"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 I mentioned 'Dynamic Imaging' systems in [yesterday's post](../09/Responsive-Images-101). While these services are growing in popularity, they are still somewhat niche, yet they have the potential to be extremely valuable to anyone working on websites that contain images, so I wanted to give a brief overview.
 
 # Single Master Asset

@@ -1,17 +1,17 @@
 ---
+title: Timelapse via Android mobile
+date: 2013-05-12 22:15:46 Z
+permalink: "/2013/05/12/timelapse-via-android-mobile/"
+categories:
+- android
+- photography
 layout: single
 author_profile: true
 type: pages
-
-title: Timelapse via Android mobile
-date: 2013-05-12T22:15:46+00:00
-permalink: /2013/05/12/timelapse-via-android-mobile/
 post_image:
-  - /images/allbsuploads/2013/05/Screen-Shot-2013-05-12-at-23.24.18.png
-categories:
-  - android
-  - photography
+- "/images/allbsuploads/2013/05/Screen-Shot-2013-05-12-at-23.24.18.png"
 ---
+
 &nbsp;
 
 Following @colly’s <a title="http://colly.com/comments/a_little_iphone_video_experiment" href="http://colly.com/comments/a_little_iphone_video_experiment" target="_blank">inspiring post</a> involving some of his timelapse experiments I really fancied giving it a go…..

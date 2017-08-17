@@ -1,18 +1,18 @@
 ---
+title: Installing Lynx on Mac &#8211; a text-only browser
+date: 2013-03-02 15:57:33 Z
+permalink: "/2013/03/02/installing-lynx-on-mac/"
+categories:
+- WebDev
+- feature
+tags:
+- lynx
+- mac
 layout: single
 author_profile: true
 type: pages
-
-title: 'Installing Lynx on Mac &#8211; a text-only browser'
-date: 2013-03-02T15:57:33+00:00
-permalink: /2013/03/02/installing-lynx-on-mac/
-categories:
-  - WebDev
-tags:
-  - lynx
-  - mac
-category: feature
 ---
+
 > **&#8220;Content is the baseline, design is an enhancement&#8221;** : Paul Robert Lloyd : Responsive Conf 2013
 
 &nbsp;

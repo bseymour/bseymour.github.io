@@ -1,15 +1,14 @@
 ---
+title: Timelapses
+date: 2016-10-26 09:00:00 Z
+permalink: "/timelapses/"
 layout: single
 author_profile: false
-date: 2016-10-26T09:00:00+00:00
 type: pages
-permalink: /timelapses/
-title: Timelapses
-
 sidebar:
-    nav: "photos_sidenav"
-
+  nav: photos_sidenav
 ---
+
 ## Timelapses, by Ben Seymour (organised on Vimeo)
 
 A 'Montage' of my Timelapse Video Channel on Vimeo.

@@ -1,20 +1,20 @@
 ---
+title: Practical Responsive Images &#8211; Crop to point of interest
+date: 2014-05-19 18:43:02 Z
+categories:
+- Dynamic Media
+- eCommerce
+- HEADER
+- Responsive Images
+- Rich Media
 layout: single
 author_profile: true
 type: pages
-
-title: 'Practical Responsive Images &#8211; Crop to point of interest'
-date: 2014-05-19T18:43:02+00:00
 author: Ben
 post_image:
-  - /images/allbsuploads/2014/05/2014-05-19-18.30.59_framed.png
-categories:
-  - Dynamic Media
-  - eCommerce
-  - HEADER
-  - Responsive Images
-  - Rich Media
+- "/images/allbsuploads/2014/05/2014-05-19-18.30.59_framed.png"
 ---
+
 Following on from yesterday&#8217;s <a title="Practical Responsive Images with Picturefill" /2014/05/17/practical-responsive-images-with-picturefill-1/" target="_blank">Practical Responsive Images</a> post, the next example use of the < picture > element (and using Picturefill), is to apply a point-of-interest crop to an image to maintain the desired focus at different breakpoints.
 
 ## Demo : <span style="color: #ff0000;"><a href="http://responsiveimag.es/picturefill2_cropApples.html"><span style="color: #ff0000;">http://responsiveimag.es/picturefill2_cropApples.html</span></a></span>

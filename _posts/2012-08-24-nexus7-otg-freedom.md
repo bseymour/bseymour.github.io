@@ -1,15 +1,15 @@
 ---
+title: Nexus7 + OTG = freedom
+date: 2012-08-24 11:25:29 Z
+permalink: "/2012/08/24/nexus7-otg-freedom/"
+categories:
+- android
+- handy
 layout: single
 author_profile: true
 type: pages
-
-title: Nexus7 + OTG = freedom
-date: 2012-08-24T11:25:29+00:00
-permalink: /2012/08/24/nexus7-otg-freedom/
-categories:
-  - android
-  - handy
 ---
+
 We&#8217;ve been loving the Nexus 7 &#8211; it&#8217;s an Android which is so responsive, it starts to be in iPad territory.
 
 It may only be around 30% smaller than our Asus Tranformer, but it being that more easily held in one hand makes for easier reading and movie watching on the go, and it seems to be somehow that much more chuck-into-a-bag-able.

@@ -1,17 +1,17 @@
 ---
+title: New family photo workflow
+date: 2012-08-17 20:18:41 Z
+permalink: "/2012/08/17/family-photo-workflow/"
+categories:
+- life
+- photography
 layout: single
 author_profile: true
 type: pages
-
-title: New family photo workflow
-date: 2012-08-17T20:18:41+00:00
-permalink: /2012/08/17/family-photo-workflow/
 post_image:
-  - /images/allbsuploads/2012/08/jackyear1.png
-categories:
-  - life
-  - photography
+- "/images/allbsuploads/2012/08/jackyear1.png"
 ---
+
 Adobe Lightroom is importing 45GB of photos &#8211; so I might take advantage of having a few spare moments&#8230;
 
 As I think I may have previously mentioned, I went from very little interest in photography, to a total love of capturing visual memories around the time my son was born, in late 2006. Back then, with a newborn in the house, time radically became more compressed, and so a super simple and quick workflow was essential, or the backlog would be insurmountable. I gave Picasa and Picasaweb a try, and it seemed to perfectly suit our needs, and indeed for most of the last 5 years it has been perfect &#8211; which me using the picasaweb data feed + simple XSLT to create our own simple frontage for the Picasaweb albums.

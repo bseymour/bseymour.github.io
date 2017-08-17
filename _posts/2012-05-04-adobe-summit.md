@@ -1,19 +1,19 @@
 ---
+title: Adobe Summit
+date: 2012-05-04 14:29:50 Z
+permalink: "/2012/05/04/adobe-summit/"
+categories:
+- conference
+- Dynamic Media
+- general
+- Rich Media
+- RWD
+- WebDev
 layout: single
 author_profile: true
 type: pages
-
-title: Adobe Summit
-date: 2012-05-04T14:29:50+00:00
-permalink: /2012/05/04/adobe-summit/
-categories:
-  - conference
-  - Dynamic Media
-  - general
-  - Rich Media
-  - RWD
-  - WebDev
 ---
+
 The new Adobe Summit app was just launched, and it&#8217;s really good &#8211; and after a quick download, it already has the majority of info offline if needed.
 
 Hopefully you are coming along to the Summit as there are a stack of great speaker and sessions lined up &#8211; our Scene7 mobile session is the last session of the second day.. so I rather hope there will be plenty of coffee nearby.

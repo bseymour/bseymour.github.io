@@ -1,19 +1,19 @@
 ---
+title: The Apprentice Bowl
+date: 2014-03-31 21:40:27 Z
+permalink: "/2014/03/31/the-apprentice-bowl/"
+categories:
+- HEADER
+- inspiring
+- life
+- feature
 layout: single
 author_profile: true
 type: pages
-
-title: The Apprentice Bowl
-date: 2014-03-31T21:40:27+00:00
-permalink: /2014/03/31/the-apprentice-bowl/
 post_image:
-  - /images/allbsuploads/2014/03/2014-03-31-13.11.32_crop_sq.jpg
-categories:
-  - HEADER
-  - inspiring
-  - life
-category: feature
+- "/images/allbsuploads/2014/03/2014-03-31-13.11.32_crop_sq.jpg"
 ---
+
 During our anniversary trip back to Ireland we went back to Waterford Crystal. After the initial confusion of us returning to the factory which they apparently shut down in 2009, we had a fantastic tour, and the kids loved it. It’s mesmerising watching hugely skilled individuals effortlessly go about their daily routine. In this case massively hot globs of molten glass are moved around in close proximity to the other master craftsmen in a seemingly easy going, yet closely orchestrated ballet with the other craftsmen in their team.
 
 <img style="display: block; margin-left: auto; margin-right: auto; border: 0px;" title="2014-03-31_Waterford_Crystal_1200.jpg" src="/images/allbsuploads/2014/03/2014-03-31_Waterford_Crystal_1200.jpg" alt="2014 03 31 Waterford Crystal 1200" width="480" height="480" border="0" />

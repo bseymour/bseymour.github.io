@@ -1,17 +1,17 @@
 ---
+title: Read it all later
+date: 2012-12-30 17:11:04 Z
+permalink: "/2012/12/30/read-it-all-later/"
+categories:
+- android
+- services
 layout: single
 author_profile: true
 type: pages
-
-title: Read it all later
-date: 2012-12-30T17:11:04+00:00
-permalink: /2012/12/30/read-it-all-later/
 post_image:
-  - /images/allbsuploads/2012/12/IMG_20121231_000605.jpg
-categories:
-  - android
-  - services
+- "/images/allbsuploads/2012/12/IMG_20121231_000605.jpg"
 ---
+
 Everyday I come across rather large quantities of very interesting materials, insightful articles, tools, libraries, that inevitably need to go on my to-read, or to-remember lists. I use Chrome&#8217;s sync&#8217;ed bookmark with folder like &#8216;GoodUns&#8217;. &#8216;Reference&#8217;, and social bookmarking via <a title="Delicious " href="http://www.delicious.com/ben.seymour" target="_blank">Delicious  </a> (which I stopped really using after all the ownership changes in 2012). Between:
 
 &#8211; the extremely interesting people I follow on Twitter (as <a title="Twitter bseymour" href="http://twitter.com/bseymour" target="_blank">@bseymour</a>)

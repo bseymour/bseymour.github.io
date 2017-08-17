@@ -1,16 +1,16 @@
 ---
+title: Telephony as a Service &#8211; Twilio
+date: 2012-02-15 21:11:35 Z
+permalink: "/2012/02/15/telephony-as-aservice-twilio/"
+categories:
+- general
 layout: single
 author_profile: true
 type: pages
-
-title: 'Telephony as a Service &#8211; Twilio'
-date: 2012-02-15T21:11:35+00:00
-permalink: /2012/02/15/telephony-as-aservice-twilio/
 Thumbnail:
-  - /images/allbsuploads/2012/03/twilio_cloud.png
-categories:
-  - general
+- "/images/allbsuploads/2012/03/twilio_cloud.png"
 ---
+
 With <a title="https://www.twilio.com" href="https://www.twilio.com" target="_blank">Twilio </a> now offering full UK telephony support*, I spent part of my day off today exploring their platform &#8211; and I&#8217;ve got to say, I&#8217;m thoroughly impressed.
 
 With $30 credit on signing up, and $50 extra credit thanks to meeting the UK Twilio team at the <a title="http://events.jquery.org/2012/uk/" href="http://events.jquery.org/2012/uk/" target="_blank">jQuery UK</a>  conference in Oxford last week &#8211; that left me with $80 of credit on a platform that is very reasonably priced.

@@ -1,16 +1,17 @@
 ---
+title: 'Tate Worlds : reimagined in Minecraft'
+date: 2014-11-25 00:00:00 Z
+permalink: "/2014/11/25/tate-worlds-reimagined-in-minecraft/"
+categories:
+- inspiring
+- petproject
 layout: single
 author_profile: true
 type: pages
-
-title: 'Tate Worlds : reimagined in Minecraft'
-permalink: /2014/11/25/tate-worlds-reimagined-in-minecraft/
 post_image:
-  - /images/allbsuploads/2014/11/Screenshot-2014-11-25-21.18.20.png
-categories:
-  - inspiring
-  - petproject
+- "/images/allbsuploads/2014/11/Screenshot-2014-11-25-21.18.20.png"
 ---
+
 The Tate have been working on an amazing project to create virtual environments inspired by some of the artworks from their collection, in a most wonderful way &#8211; through Minecraft. You can read more details and download the files here: <a style="margin: 0px; padding: 0px; outline: none; text-decoration: none; color: #444444; border-bottom-color: #00aed3; border-bottom-style: solid; border-bottom-width: 1px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 21px;" title="TateWorlds" href="http://www.tate.org.uk/about/projects/tate-worlds-art-reimagined-minecraft" target="_blank">www.tate.org.uk/tateworlds</a> .
 
 Getting started: To ‘install’ these worlds you just need to copy the relevant downloaded files:

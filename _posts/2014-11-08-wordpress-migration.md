@@ -1,17 +1,17 @@
 ---
+title: WordPress Migration
+date: 2014-11-08 23:10:18 Z
+permalink: "/2014/11/08/wordpress-migration/"
+categories:
+- general
+- handy
 layout: single
 author_profile: true
 type: pages
-
-title: WordPress Migration
-date: 2014-11-08T23:10:18+00:00
-permalink: /2014/11/08/wordpress-migration/
 post_image:
-  - /images/allbsuploads/2014/11/Screenshot-2014-11-09-19.54.16.png
-categories:
-  - general
-  - handy
+- "/images/allbsuploads/2014/11/Screenshot-2014-11-09-19.54.16.png"
 ---
+
 This post is only on the new location for the ALL BS site &#8211; seeing it means that the migration was successful&#8230;. and actually surprisingly painless.
 
 I used the &#8220;all-in-one WordPress Migration&#8221; plugin.:

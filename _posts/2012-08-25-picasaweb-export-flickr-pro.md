@@ -1,17 +1,17 @@
 ---
+title: PicasaWeb export and Flickr Pro frustration
+date: 2012-08-25 19:57:29 Z
+permalink: "/2012/08/25/picasaweb-export-flickr-pro/"
+categories:
+- photography
+- services
 layout: single
 author_profile: true
 type: pages
-
-title: PicasaWeb export and Flickr Pro frustration
-date: 2012-08-25T19:57:29+00:00
-permalink: /2012/08/25/picasaweb-export-flickr-pro/
 post_image:
-  - /images/allbsuploads/2012/08/flickr_pro.png
-categories:
-  - photography
-  - services
+- "/images/allbsuploads/2012/08/flickr_pro.png"
 ---
+
 Having decided to make the move away from Picasaweb &#8211; [post] &#8216;<a title="New family photo workflow" href="/2012/08/17/family-photo-workflow/" target="_blank">new family photo workflow</a>&#8216; , one of the problems we needed to overcome was to get all of our historic albums (around 175 albums, appx. 40GB) from PicasaWeb up to to new location.
 
 Picasa (the desktop app) has a great operation as part of their <a title="http://www.dataliberation.org/" href="http://www.dataliberation.org/" target="_blank">Data Liberation Front</a> :&#8221;**Import from Google+ Photos**&#8221; , which allows you to easily make a local copy of everything in your picasaweb/google+ photos account. However, be WARNED, it <span style="text-decoration: underline;">does not</span> download files already on your machine, which in some cases could be the most efficient approach, but which unfortunately does not suit our circumstances.

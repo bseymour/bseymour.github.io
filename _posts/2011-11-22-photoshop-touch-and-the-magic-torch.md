@@ -1,15 +1,15 @@
 ---
+title: Photoshop touch and the magic torch
+date: 2011-11-22 13:49:46 Z
+permalink: "/2011/11/22/photoshop-touch-and-the-magic-torch/"
+categories:
+- android
+- photography
 layout: single
 author_profile: true
 type: pages
-
-title: Photoshop touch and the magic torch
-date: 2011-11-22T13:49:46+00:00
-permalink: /2011/11/22/photoshop-touch-and-the-magic-torch/
-categories:
-  - android
-  - photography
 ---
+
 John Nack posted about this amazing tutorial by Russell Brown.
 
 I&#8217;ve got to be honest, when watching it I was somewhat sceptical, and wondered if the US has another April Fools day in Mid-November.

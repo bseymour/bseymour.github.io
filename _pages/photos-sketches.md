@@ -1,15 +1,14 @@
 ---
+title: Sketches
+date: 2016-10-20 09:00:00 Z
+permalink: "/sketches/"
 layout: single
 author_profile: false
-date: 2016-10-20T09:00:00+00:00
 type: pages
-permalink: /sketches/
-title: Sketches
-
 sidebar:
-    nav: "photos_sidenav"
-
+  nav: photos_sidenav
 ---
+
 ## Sketches, by Ben
 
 I've always admired the skills and guts of people who are willing to creatively express themselves (in any medium), and am fortunate enough to come from a family which includes concert level classical musicians, award winning Jazz musicians, and award winning artists. Sketching is something that has appealed to me for some time, and so despite my lack of... experience... I'll be taking an 'open' approach, and will be sharing my ongoing sketches here.

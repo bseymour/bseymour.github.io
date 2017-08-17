@@ -1,15 +1,15 @@
 ---
+title: Combining Content and Commerce
+date: 2014-07-10 13:52:33 Z
+permalink: "/2014/07/10/combining-content-and-commerce/"
+categories:
+- eCommerce
+- feature
 layout: single
 author_profile: true
 type: pages
-
-title: Combining Content and Commerce
-date: 2014-07-10T13:52:33+00:00
-permalink: /2014/07/10/combining-content-and-commerce/
-categories:
-  - eCommerce
-category: feature
 ---
+
 Note: This post originally appeared on the blog at Amplience.com (however the images were lost using a migration)
 
 &nbsp;

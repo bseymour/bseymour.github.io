@@ -1,14 +1,14 @@
 ---
+title: Amazon Route 53 with S3/Cloudfront
+date: 2011-11-28 23:44:53 Z
+permalink: "/2011/11/28/amazon-route-53-with-s3/"
+categories:
+- AWS
 layout: single
 author_profile: true
 type: pages
-
-title: Amazon Route 53 with S3/Cloudfront
-date: 2011-11-28T23:44:53+00:00
-permalink: /2011/11/28/amazon-route-53-with-s3/
-categories:
-  - AWS
 ---
+
 I&#8217;d been meaning to investigate Amazon Route 53 for a few months, but the addition of Route 53 support to the AWS Console (hopefully) just makes this even simpler.
 
 Amazon Route 53 allows you to create and manage your public DNS records, however Amazon does not act as a domain registrar, so you need to use your usual provider for that.

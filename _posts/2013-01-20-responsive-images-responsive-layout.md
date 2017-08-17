@@ -1,20 +1,20 @@
 ---
+title: Responsive Images in a Responsive Layout
+date: 2013-01-20 23:15:25 Z
+permalink: "/2013/01/20/responsive-images-responsive-layout/"
+categories:
+- Dynamic Media
+- HEADER
+- Responsive Images
+- Rich Media
+- RWD
 layout: single
 author_profile: true
 type: pages
-
-title: Responsive Images in a Responsive Layout
-date: 2013-01-20T23:15:25+00:00
-permalink: /2013/01/20/responsive-images-responsive-layout/
 post_image:
-  - /images/allbsuploads/2013/01/Screenshot_2013-01-20-22-44-20-Copy.jpg
-categories:
-  - Dynamic Media
-  - HEADER
-  - Responsive Images
-  - Rich Media
-  - RWD
+- "/images/allbsuploads/2013/01/Screenshot_2013-01-20-22-44-20-Copy.jpg"
 ---
+
 I&#8217;ve been meaning to update my previous responsive images example to be in conjunction with a responsive grid layout (rather than mapping to the whole page width). It&#8217;s a relatively small change, but makes for a more real-world use case. I used the rather excellent <a title="Initializr" href="http://www.initializr.com" target="_blank">Initializr</a> to form the initial page template
 
 [Screen shots from Nexus7, where changing orientation causes the grid layout to change considerably, and the container with the image to change by 50px. ]

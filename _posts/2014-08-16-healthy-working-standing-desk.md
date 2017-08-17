@@ -1,19 +1,19 @@
 ---
+title: 'Healthy Working : Standing-Desk Edition'
+date: 2014-08-16 14:30:44 Z
+permalink: "/2014/08/16/healthy-working-standing-desk/"
+categories:
+- habit
+- HEADER
+- life
+- feature
 layout: single
 author_profile: true
 type: pages
-
-title: 'Healthy Working : Standing-Desk Edition'
-date: 2014-08-16T14:30:44+00:00
-permalink: /2014/08/16/healthy-working-standing-desk/
 post_image:
-  - /images/allbsuploads/2014/08/2014-08-16-15.51.11_sq.jpg
-categories:
-  - habit
-  - HEADER
-  - life
-category: feature
+- "/images/allbsuploads/2014/08/2014-08-16-15.51.11_sq.jpg"
 ---
+
 Are you sitting comfortably?
 
 &#8230; I hope that you won’t be for long.

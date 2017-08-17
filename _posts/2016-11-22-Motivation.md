@@ -1,16 +1,19 @@
 ---
+title: What Motivates Us
+date: 2016-11-22 02:09:00 Z
+permalink: "/2016/11/22/Motivation"
+categories:
+- general
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: What Motivates Us
-date: 2016-11-22T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo22-th.jpg
-permalink: /2016/11/22/Motivation
-categories: [general]
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo22-th.jpg"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 Studies show that:
 As long as a task uses only mechanical skill, structured financial rewards work as expected i.e. higher rewards lead to greater performance
 However, once a task calls for even rudimentary cognitive skills, larger incentives lead to poorer performance

@@ -1,19 +1,20 @@
 ---
+title: You can&#8217;t manage what you don&#8217;t measure
+date: 2015-04-22 19:11:57 Z
+permalink: "/2015/04/22/you-cant-manage-what-you-dont-measure/"
+categories:
+- habit
+- life
+- feature
+- top5
 layout: single
 author_profile: true
 type: pages
-
-title: 'You can&#8217;t manage what you don&#8217;t measure'
 short_title: Habits
-date: 2015-04-22T19:11:57+00:00
-permalink: /2015/04/22/you-cant-manage-what-you-dont-measure/
 post_image:
-  - /images/allbsuploads/2015/04/Screenshot-2015-04-22-11.16.00-rotate.png
-categories:
-  - habit
-  - life
-category: [feature, top5]
+- "/images/allbsuploads/2015/04/Screenshot-2015-04-22-11.16.00-rotate.png"
 ---
+
 As you may have read my [previous](http://allbs.co.uk/2014/01/05/healthy-working/) [posts](http://allbs.co.uk/2014/08/16/healthy-working-standing-desk/) on healthy working, I have been endeavouring to better manage some of my day-to-day lifestyle habits.
 
 When it came to general activity levels, it was the data from my Fitbit which made me realise just how little activity my normal routine required. On the weekends, we love cycling and canoeing and with two young children have no choice than to be pretty active. However during the week, as someone who spends s lot of time sitting at a desk, or sitting on trains or driving, it was quite concerning to see just how sedentary my working habits caused me to be.

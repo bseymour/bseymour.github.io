@@ -1,17 +1,17 @@
 ---
+title: 'Responsive Images : featured Flow on Gibbon'
+date: 2014-04-22 16:09:28 Z
+permalink: "/2014/04/22/responsive-images-featured-flow-on-gibbon/"
+categories:
+- Dynamic Media
+- Responsive Images
+- Rich Media
+- RWD
 layout: single
 author_profile: true
 type: pages
-
-title: 'Responsive Images : featured Flow on Gibbon'
-date: 2014-04-22T16:09:28+00:00
-permalink: /2014/04/22/responsive-images-featured-flow-on-gibbon/
-categories:
-  - Dynamic Media
-  - Responsive Images
-  - Rich Media
-  - RWD
 ---
+
 I’m really thrilled that my Responsive Images flow is currently being featured on Gibbon.co
 
 <https://gibbon.co/bseymour/responsive-images>

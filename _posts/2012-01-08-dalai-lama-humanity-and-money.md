@@ -1,16 +1,16 @@
 ---
+title: 'Dalai Lama: humanity and money'
+date: 2012-01-08 23:10:23 Z
+permalink: "/2012/01/08/dalai-lama-humanity-and-money/"
+categories:
+- inspiring
+- life
+- feature
 layout: single
 author_profile: true
 type: pages
-
-title: 'Dalai Lama: humanity and money'
-date: 2012-01-08T23:10:23+00:00
-permalink: /2012/01/08/dalai-lama-humanity-and-money/
-categories:
-  - inspiring
-  - life
-category: feature
 ---
+
 I first read this on a G+ post, and it appears there may be some doubt about the accuracy of the citation, but regardless of that it is a great for providing some balance to ones perspective:
 
 The Dalai Lama, when asked what surprised him most about humanity, said:

@@ -1,18 +1,22 @@
 ---
+title: Making the most of your fears
+date: 2016-11-16 02:09:00 Z
+permalink: "/2016/11/16/Making-the-most-of-your-fears"
+categories:
+- general
+- feature
+- top5
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: Making the most of your fears
 short_title: Fears
-date: 2016-11-16T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo16-th.jpg
-permalink: /2016/11/16/Making-the-most-of-your-fears
-categories: [general]
-category: [feature, top5]
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo16-th.jpg"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 I'm not a fan of flying. I have a pretty good cognitive grasp of the physics, engineering tolerances, flight crew's ongoing training and testing procedures. But a small irrational part of me has a tendency, unbidden, to come to the conclusion that this is 'the end'.
 
 One suggestion is that a fear of flying relates to a lack of control, but really the only thing you can really control is your perspective.

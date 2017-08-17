@@ -1,14 +1,14 @@
 ---
+title: Starting over with Facebook
+date: 2011-05-23 16:41:21 Z
+permalink: "/2011/05/23/starting-over-with-facebook/"
+categories:
+- social
 layout: single
 author_profile: true
 type: pages
-
-title: Starting over with Facebook
-date: 2011-05-23T16:41:21+00:00
-permalink: /2011/05/23/starting-over-with-facebook/
-categories:
-  - social
 ---
+
 After a really interesting and insightful presentation by Christian Hernandez (Facebook’s Head of International Business Development) at the Adobe Omniture Summit last week, I&#8217;ve decided I&#8217;m really overdue spending more time exploring Facebook from both an end-user&#8217;s perspective, and as a business/commercial platform.
 
 Step 1: research hooking Facebook status updates into my already habitual twitter posts.

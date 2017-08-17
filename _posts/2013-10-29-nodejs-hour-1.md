@@ -1,19 +1,23 @@
 ---
+title: 'Node.js : hour 1'
+date: 2013-10-29 23:22:04 Z
+permalink: "/2013/10/29/nodejs-hour-1/"
+categories:
+- Node
+- WebDev
+- feature
+tags:
+- dev
+- injustanhour
 layout: single
 author_profile: true
 type: pages
-
-title: 'Node.js : hour 1'
-date: 2013-10-29T23:22:04+00:00
-permalink: /2013/10/29/nodejs-hour-1/
 post_image:
-  - /images/allbsuploads/2013/10/Screen-Shot-2013-10-29-at-23.25.09.png
-categories: [Node, WebDev]
-category: feature
-tags: [dev, injustanhour]
+- "/images/allbsuploads/2013/10/Screen-Shot-2013-10-29-at-23.25.09.png"
 sidebar:
-    nav: "blog_sidenav"
+  nav: blog_sidenav
 ---
+
 During half term, Em and the kids were off visiting family for a few days.
 
 The [Big Storm](http://www.bbc.co.uk/news/uk-24690552) caused chaos to the trains, and so  I hadn’t done my usual Monday commute to Shoreditch.

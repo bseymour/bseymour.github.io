@@ -1,15 +1,15 @@
 ---
+title: Test while offline
+date: 2011-05-19 11:35:38 Z
+permalink: "/2011/05/19/test-while-offline/"
+categories:
+- android
+- archive
 layout: single
 author_profile: true
 type: pages
-
-title: Test while offline
-date: 2011-05-19T11:35:38+00:00
-permalink: /2011/05/19/test-while-offline/
-categories:
-  - android
-category: archive
 ---
+
 Android WordPress is offline as I type this, testing how it responds.
 
 [Update]: It responded very well :)

@@ -1,12 +1,12 @@
 ---
+title: Projects
+date: 2016-10-05 09:00:00 Z
+permalink: "/projects/"
 layout: single
 author_profile: true
-title: Projects
-date: 2016-10-05T09:00:00+00:00
 type: pages
-permalink: /projects/
 sidebar:
-    nav: "core_sidenav"
+  nav: core_sidenav
 ---
 
 <div>

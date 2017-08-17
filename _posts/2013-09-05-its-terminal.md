@@ -1,19 +1,23 @@
 ---
+title: Terminal Velocity
+date: 2013-09-05 19:42:01 Z
+permalink: "/2013/09/05/its-terminal/"
+categories:
+- Workflow
+- feature
+tags:
+- terminal
+- bash
+- injustanhour
 layout: single
 author_profile: false
 type: pages
-
-title: Terminal Velocity
-date: 2013-09-05T19:42:01+00:00
-permalink: /2013/09/05/its-terminal/
 post_image:
-  - /images/allbsuploads/2013/09/Screen-Shot-2013-09-04-at-20.55.58.png
-categories: [Workflow]
-category: feature
-tags: [terminal, bash, injustanhour]
+- "/images/allbsuploads/2013/09/Screen-Shot-2013-09-04-at-20.55.58.png"
 sidebar:
-    nav: "blog_sidenav"
+  nav: blog_sidenav
 ---
+
 I had one of those problems to solve, that initially had me toying with blowing the dust of some Python, but in the end it struck me as the perfect time to get more in touch with my Mac&#8217;s Command Line a.k.a. The Terminal.
 
 A few years ago I was working with the brilliant Jan Exner, and on a client site was spellbound as he used the command line to completely pacify and coerce a massive SiteCat log file. A few deft, and obscure looking commands, and he had whittled the monster text file into the usable and meaningful snippets (for the problems at hand). He then contorted it, and output into a sequence of secondary files, which became the human-readable data for the analysis that would follow.

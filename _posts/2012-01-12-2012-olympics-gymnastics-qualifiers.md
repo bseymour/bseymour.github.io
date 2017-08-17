@@ -1,16 +1,16 @@
 ---
+title: 2012 Olympics Gymnastics qualifiers
+date: 2012-01-12 22:50:49 Z
+permalink: "/2012/01/12/2012-olympics-gymnastics-qualifiers/"
+categories:
+- inspiring
+- life
 layout: single
 author_profile: true
 type: pages
-
-title: 2012 Olympics Gymnastics qualifiers
-date: 2012-01-12T22:50:49+00:00
-permalink: /2012/01/12/2012-olympics-gymnastics-qualifiers/
-post_image: /images/allbsuploads/2012/01/DSC06256-150x150.jpg
-categories:
-  - inspiring
-  - life
+post_image: "/images/allbsuploads/2012/01/DSC06256-150x150.jpg"
 ---
+
 I was lucky enough to get an unexpected ticket to join my wife and son to see the 2012 Olympics Gymnastics qualifiers on Tuesday (10at the O2 Arena in London.
 
 I&#8217;ve never seen Gymnastics live before, and it was truly awe inspiring &#8211; amazing power but with sublime control. I&#8217;ve included a few photos, in which the snapshots the athletes look like they are about to fall flat on their faces, but none of them did.

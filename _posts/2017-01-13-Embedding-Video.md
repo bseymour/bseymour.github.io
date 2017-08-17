@@ -1,17 +1,20 @@
 ---
+title: Embedding Videos into Jekyll without a plugin
+date: 2017-01-13 02:09:00 Z
+permalink: "/2017/01/13/Video-Embed"
+categories:
+- general
+- feature
+tags:
+- general
 layout: single
 author_profile: false
 type: pages
-title: Embedding Videos into Jekyll without a plugin
-date: 2017-01-13T2:09:00+00:00
-post_image: /images/posts/video-embed-th.png
-permalink: /2017/01/13/Video-Embed
-category: [feature]
-categories: [general]
-tags: [general]
+post_image: "/images/posts/video-embed-th.png"
 sidebar:
-    nav: "blog_sidenav"
+  nav: blog_sidenav
 ---
+
 I'd previously explored 2 options for embedding videos in Jekyll posts (I'm hosted oh gh-pages, and so am limited in the available plugins):
 
 1) Placing an image in the page, which links to another site (such as Vimeo or YouTube) to play the video, as [discussed in an earlier post](https://benseymour.com/2016/11/13/Jekyll-Embedded-Video---timelapses).

@@ -1,16 +1,17 @@
 ---
+title: Imagemagick with TIFF support &#8211; &#8220;no decode delegate for this image
+  format&#8221;
+date: 2013-09-09 20:55:31 Z
+permalink: "/2013/09/09/imagemagick-with-tiff/"
+categories:
+- Mac
+- quicktip
+- Terminal
 layout: single
 author_profile: true
 type: pages
-
-title: 'Imagemagick with TIFF support &#8211; &#8220;no decode delegate for this image format&#8221;'
-date: 2013-09-09T20:55:31+00:00
-permalink: /2013/09/09/imagemagick-with-tiff/
-categories:
-  - Mac
-  - quicktip
-  - Terminal
 ---
+
 I&#8217;ve been loving using Mac Terminal but I&#8217;d being having problem using ImageMagick with TIFFs.
 
 I couldn&#8217;t get past : &#8220;no decode delegate for this image format&#8221; . I tried far too many overly-complex possibilities, and it was becoming a real time-suck so while this is a short post it took me far too much time to find this solution:

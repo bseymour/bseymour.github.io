@@ -1,22 +1,22 @@
 ---
+title: Screen Video Capture of non-rooted Android Tablet
+date: 2014-05-13 20:47:26 Z
+permalink: "/2014/05/13/screen-video-capture-of-non-rooted-android/"
+categories:
+- android
+- HEADER
+- Mac
+tags:
+- android
+- mac
+- minecraft
 layout: single
 author_profile: true
 type: pages
-
-title: Screen Video Capture of non-rooted Android Tablet
-date: 2014-05-13T20:47:26+00:00
-permalink: /2014/05/13/screen-video-capture-of-non-rooted-android/
 post_image:
-  - /images/allbsuploads/2014/05/Screenshot-2014-05-13-21.49.13.png
-categories:
-  - android
-  - HEADER
-  - Mac
-tags:
-  - android
-  - mac
-  - minecraft
+- "/images/allbsuploads/2014/05/Screenshot-2014-05-13-21.49.13.png"
 ---
+
 My Android Tablet is NOT ROOTED, but I needed to capture some video of the screen footage from my son’s Pocket Minecraft based project. The Google Play store appears to have stacks of apps which will capture video of the screen with one button press, but due to an Android platform restriction, at this time they all require that the device be rooted. I was using a Mac and a non-rooted Nexus7, and here are the steps that worked for me:
 
 Grab the the Android SDK: <https://developer.android.com/sdk/index.html>

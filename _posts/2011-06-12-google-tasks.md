@@ -1,17 +1,17 @@
 ---
+title: Google Tasks
+date: 2011-06-12 01:39:53 Z
+permalink: "/2011/06/12/google-tasks/"
+categories:
+- android
+- handy
+- quicktip
+- archive
 layout: single
 author_profile: true
 type: pages
-
-title: Google Tasks
-date: 2011-06-12T01:39:53+00:00
-permalink: /2011/06/12/google-tasks/
-categories:
-  - android
-  - handy
-  - quicktip
-category: archive
 ---
+
 For day to day task lists, in addition to my whiteboard for day-to-day use, I really like MS OneNote, but the lack of utilisation/sync&#8217;ing for smartphone/tablet/android means I need to look for alternatives.
 
 As such I am currently trialling Google Tasks: There is an Android appcalled  &#8216;GTasks&#8217; which is so far simple but sufficient. It seems odd that there is no decent PC desktop app available (that I have found so far). However an app may not be necessary as I recently found the following better URL for better in-browser access to Google Tasks: <a title="https://mail.google.com/tasks/canvas" href="https://mail.google.com/tasks/canvas" target="_blank">https://mail.google.com/tasks/canvas</a>

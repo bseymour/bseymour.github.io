@@ -1,21 +1,21 @@
 ---
+title: 'Responsive Images &#8211; #intro'
+date: 2012-05-11 10:21:58 Z
+permalink: "/2012/05/11/responsive-images-intro/"
+categories:
+- Dynamic Media
+- Responsive Images
+- Rich Media
+- RWD
+- WebDev
+- Workflow
 layout: single
 author_profile: true
 type: pages
-
-title: 'Responsive Images &#8211; #intro'
-date: 2012-05-11T10:21:58+00:00
-permalink: /2012/05/11/responsive-images-intro/
 post_image:
-  - /images/allbsuploads/2012/05/ResponsiveImages3.png
-categories:
-  - Dynamic Media
-  - Responsive Images
-  - Rich Media
-  - RWD
-  - WebDev
-  - Workflow
+- "/images/allbsuploads/2012/05/ResponsiveImages3.png"
 ---
+
 Since I first saw Simon Collison&#8217;s beautiful and responsive site ( <a title="http://colly.com/" href="http://colly.com/" target="_blank">http://colly.com/</a>) I&#8217;ve been enamoured by the prospect of Responsive Web Design.
 
 Some other great examples of RWD in action here: <a title="http://designmodo.com/responsive-design-examples/" href="http://designmodo.com/responsive-design-examples/" target="_blank">http://designmodo.com/responsive-design-examples/</a>

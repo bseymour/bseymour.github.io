@@ -1,13 +1,14 @@
 ---
+title: Recent Bookmarks - from Pinboard
+date: 2016-10-20 09:00:00 Z
+permalink: "/bookmarks/"
 layout: single
 author_profile: true
-date: 2016-10-20T09:00:00+00:00
 type: pages
-permalink: /bookmarks/
-title: Recent Bookmarks - from Pinboard
 sidebar:
-    nav: "core_sidenav"
+  nav: core_sidenav
 ---
+
 Basic page displaying my recent public bookmarks from [Pinboard](https://pinboard.in).
 
 ** These are all external sites, whose contents are outside of my control, and may have been updated since I last viewed them **  

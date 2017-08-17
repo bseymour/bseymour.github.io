@@ -1,17 +1,20 @@
 ---
+title: The Ratchet
+date: 2016-11-23 02:09:00 Z
+permalink: "/2016/11/23/The-Ratchet"
+categories:
+- general
+- feature
+tags:
+- NaBloPoMo
 layout: single
 author_profile: false
 type: pages
-title: The Ratchet
-date: 2016-11-23T2:09:00+00:00
-post_image: /images/posts/NaBloPoMo23-ratchet.jpg
-permalink: /2016/11/23/The-Ratchet
-categories: [general]
-category: feature
-tags: [NaBloPoMo]
+post_image: "/images/posts/NaBloPoMo23-ratchet.jpg"
 sidebar:
-    nav: "nablopomo_blog_sidenav"
+  nav: nablopomo_blog_sidenav
 ---
+
 *A* ratchet is a mechanical device that allows continuous linear or rotary motion in only one direction while preventing motion in the opposite direction. When using a ratchet to perhaps lift a heavy object, each time you successfully apply effort, the pawl clicks over the gear's tooth, and effectively locks-in that effort. Even if you walk away from the machine leaving it untouched for a month, it will remain in that state, persisting the potential energy you provided it.
 
 ![Ratchet diagram](/images/posts/NaBloPoMo23-diagram.png)

@@ -1,19 +1,19 @@
 ---
+title: Sync All The Things
+date: 2013-08-07 18:22:09 Z
+permalink: "/2013/08/07/sync-all-the-things/"
+categories:
+- Mac
+- photography
+- services
+- Workflow
 layout: single
 author_profile: true
 type: pages
-
-title: Sync All The Things
-date: 2013-08-07T18:22:09+00:00
-permalink: /2013/08/07/sync-all-the-things/
 post_image:
-  - /images/allbsuploads/2013/08/Screen-Shot-2013-08-11-at-19.26.20.png
-categories:
-  - Mac
-  - photography
-  - services
-  - Workflow
+- "/images/allbsuploads/2013/08/Screen-Shot-2013-08-11-at-19.26.20.png"
 ---
+
 While we love DropBox and Google Drive for cloud based file sync&#8217;ing across all our devices, today I&#8217;m trying out an option for local-network Mac/PC sync&#8217;ing: **<span style="text-decoration: underline;">SyncMate Extra</span>**. [<span style="color: #ff3417;">*Warning : check out my update at the bottom before considering trying it</span>]
 
 As a family, we already have a set of well established internal and offsite backup routines. Having recently introduced some Macs into the family inventory, (and a DropBox/WiFi enabled Galaxy Camera) we wanted to integrate the new Macs and update our family photo workflow, without having to dismantle the existing setup.

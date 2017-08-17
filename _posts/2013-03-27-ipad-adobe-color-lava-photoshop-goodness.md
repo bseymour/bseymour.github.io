@@ -1,14 +1,14 @@
 ---
+title: iPad + Adobe Color Lava + Photoshop = creative workflow loveliness
+date: 2013-03-27 22:42:16 Z
+permalink: "/2013/03/27/ipad-adobe-color-lava-photoshop-goodness/"
+categories:
+- general
 layout: single
 author_profile: true
 type: pages
-
-title: iPad + Adobe Color Lava + Photoshop = creative workflow loveliness
-date: 2013-03-27T22:42:16+00:00
-permalink: /2013/03/27/ipad-adobe-color-lava-photoshop-goodness/
-categories:
-  - general
 ---
+
 I&#8217;ve finally got my hands on an iPad. The first thing I wanted to try out, was Color Lava, which was something I&#8217;ve loved the idea of ever since I first saw an internal demo back in my Adobe days.
 
 Adobe Color Lava is an iPad-only companion app for Photoshop, which provides colour mixer functionality which real-time syncs with Photoshop to control your colour palette and currently selected colour.
