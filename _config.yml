@@ -17,27 +17,6 @@ repository               : bseymour/bseymour.github.io # GitHub username/repo-na
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-
----
-title: Ben Seymour
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-locale: en-GB
-title_separator: "-"
-name: Oxford U.K. - eCommerce & Dynamic Content Specialist, Responsive Images Advocate
-description: The core online presence of Ben Seymour (Oxford, U.K.)
-url: https://benseymour.com
-baseurl: 
-repository: bseymour/bseymour.github.io
-teaser: 
-words_per_minute: 200
-
 comments:
   provider: 
   disqus:
