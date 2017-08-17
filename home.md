@@ -3,7 +3,7 @@ title: "Ben Seymour"
 custom_title: "Ben Seymour, Oxford U.K. - eCommerce & Dynamic Content Specialist, Responsive Images Advocate"
 layout: splash
 permalink: /index.html
-date: 2016-13-13T11:48:41-04:00
+date: 2017-08-17T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

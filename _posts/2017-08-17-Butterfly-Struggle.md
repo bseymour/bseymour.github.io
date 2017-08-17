@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 type: pages
 title: The Struggle (is (probably) necessary)
-date: 2017-08-14T2:09:00+00:00
+date: 2017-08-17T2:09:00+00:00
 post_image: /images/600/Butterfly.jpg
 permalink: /2017/08/17/The-Struggle
 category: [feature]
@@ -45,7 +45,6 @@ When the butterfly is ready, it starts to break through the cocoon. First a hole
 >
 >
 >Lim Siong Guan Head, Civil Service
-
 
 
 
