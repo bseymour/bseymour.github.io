@@ -2,6 +2,7 @@
 title: The Struggle (is (probably) necessary)
 date: 2017-08-14 02:09:00 Z
 permalink: "/2017/08/17/The-Struggle"
+category: [feature]
 categories:
 - general
 - feature
@@ -10,9 +11,6 @@ tags:
 layout: single
 author_profile: false
 type: pages
-category: [feature]
-categories: [general]
-tags: [general]
 post_image: "/images/600/Butterfly.jpg"
 sidebar:
   nav: blog_sidenav
