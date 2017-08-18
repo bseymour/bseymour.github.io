@@ -1,5 +1,5 @@
 ---
-title: The Struggle (is (probably) necessary)
+title: The Struggle
 date: 2017-08-14 02:09:00 Z
 permalink: "/2017/08/17/The-Struggle"
 category: [feature]
@@ -23,7 +23,7 @@ DM-image:
   quality: 65
 ---
 
-If you've seen any of my old demo's, or seen some of the examples from ebook, you might have noticed that I rather like using images of butterflies as my demo image content.
+If you've seen any of my old demos, or seen some of the examples from ebook, you might have noticed that I rather like using images of butterflies as my demo image content.
 
 That may be partially why this article from 2004 recently caught my eye, but the expression of why struggle, albeit in the case of a butterfly, is an unavoidable and in some cases necessary.
 
