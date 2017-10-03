@@ -1,0 +1,13 @@
+---
+- week: '37'
+  deskbike_hours: '1'
+  standing_hours: '1'
+- week: '38'
+  deskbike_hours: '1'
+  standing_hours: '1'
+- week: '39'
+  deskbike_hours: '2'
+  standing_hours: '3'
+- week: '40'
+  deskbike_hours: '3'
+  standing_hours: '1'
