@@ -9,11 +9,11 @@ sidebar:
   nav: core_sidenav
 ---
 <script src="//d3js.org/d3.v3.min.js"></script>
-<h3>D3.js Bar Chart Using YAML and Jekyll</h3>
+<h3>Healthy Working - using D3 from YAML generated json</h3>
 <p>This is a D3.js bar chart that is driven from dynamically generated JSON, from YAML stored in the _data folder within this Github Pages repository running Jekyll.</p>
 <div id="chart"></div>
-<p>The YAML can be found in <a href="https://github.com/kinlane/d3-js-using-yaml-jekyll/tree/gh-pages/_data" target="_blank">_data/bar-chart.yaml</a>, but is transformed into the JSON needed for this chart, using <a href="https://github.com/kinlane/d3-js-using-yaml-jekyll/blob/gh-pages/data/bar-chart.json" target="_blank">/data/bar-chart.json</a>, demonstrating how YAML can be used to drive visualizations on Github.</p>  
-Hat tip to <a href="https://apievangelist.com/2016/09/20/d3js-visualizations-using-yaml-and-jekyll/">this site)<a/>
+<p>The YAML can be found in _data/bar-chart.yaml, but is transformed into the JSON needed for this chart, using /data/healthy-working-chart-jekyll-liquid.json, demonstrating how YAML can be used to drive visualizations on Github.</p>  
+Big thanks to guidance from <a href="https://apievangelist.com/2016/09/20/d3js-visualizations-using-yaml-and-jekyll/">this site<a/>.
 
 <style>
 
@@ -89,7 +89,7 @@ d3.json("/data/healthy-working-chart-jekyll-liquid.json", function(error, data) 
       .attr("y", 6)
       .attr("dy", ".71em")
       .style("text-anchor", "end")
-      .text("Number of Years");
+      .text("Healthy Hours");
 
   svg.selectAll(".bar")
       .data(data)
