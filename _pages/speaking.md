@@ -44,6 +44,14 @@ sidebar:
       <p><a href="{{ talk.event-url }}"  target="_blank">{{ talk.event }}</a> : {{ talk.date | date: '%B %Y'  }} : {{ talk.city }}</p>
     {% endif %}
 
+    {% if talk.audioid %}
+      <audio controls="controls" id="audio_player">
+        <source src="/assets/audio/{{talk.audioid"}}.ogg" type="audio/ogg" />
+        <source src="/assets/audio/{{talk.audioid"}}.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+      </audio>
+    {% endif %}
+
     {% if talk.slideshareid %}
       <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/{{talk.slideshareid}}" width="700" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen">
       </iframe>
