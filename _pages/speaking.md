@@ -46,8 +46,8 @@ sidebar:
 
     {% if talk.audioid %}
       <audio controls="controls" id="audio_player">
-        <source src="/assets/audio/{{talk.audioid"}}.ogg" type="audio/ogg" />
-        <source src="/assets/audio/{{talk.audioid"}}.mp3" type="audio/mpeg" />
+        <source src="/assets/audio/{{ talk.audioid }}.ogg" type="audio/ogg" />
+        <source src="/assets/audio/{{ talk.audioid }}.mp3" type="audio/mpeg" />
         Your browser does not support the audio element.
       </audio>
     {% endif %}
