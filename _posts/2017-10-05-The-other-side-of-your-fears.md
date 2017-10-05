@@ -11,15 +11,20 @@ tags:
 layout: single
 author_profile: false
 type: pages
-post_image: "/images/600/Butterfly.jpg"
+post_image: "/images/600/Microflight.jpg"
 sidebar:
   nav: blog_sidenav
+image:
+- src: Microflight.jpg
+  alt: Let's get this show on the....
 ---
 > "Everything you ever wanted is on the other side of your fears."
-
 I've just scheduled my first micro-light flight. While I have to regularly fly on commercial airlines for work, I also give talks on 'making the most of your fears' centred around how I feel about flying....
 
 Here's hoping the weather is calmer than my current state of mind!
+
+{% assign image = page.image[0] %}
+{% include srcset-sizes.html %}
 
 Below are the audio recording and the slides from my [MKGN](https://mkgeeknight.co.uk/) talk on 'Making the most of your fears'.
 {% include html-audio-player.html id="your-fears-MKGN" %}
