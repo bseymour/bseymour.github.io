@@ -115,24 +115,28 @@ photos_sidenav:
     children:
       - title: "Reflecting on the Weekend"
         url: /reflecting
+      - title: "2017 Photostream"
+        url: /2017stream
       - title: "Sketches"
         url: /sketches
-      - title: "2016 Photostream"
-        url: /2016stream
       - title: "Timelapses"
         url: /timelapses
 
 
   - title: Memories
     children:
-      - title: "Photo365 2013"
-        url: /photo365-2013
+      - title: "2017 Photostream"
+        url: /2017stream
+      - title: "2016 Photostream"
+        url: /2016stream
       - title: "2015 Photostream"
         url: /2015stream
       - title: "2014 Photostream"
         url: /2014stream
       - title: "2013 Photostream"
         url: /2013stream
+      - title: "Photo365 2013"
+        url: /photo365-2013
       - title: "Seymour Photos [external]"
         url: http://www.seymour.photos/
       - title: "DefMo [TODO]"
