@@ -24,7 +24,7 @@ Project 1: [About Me - PDF](https://codeclub-project-assets.s3-eu-west-1.amazona
 Project 2: [Rock Paper Scissors - PDF](https://codeclub-project-assets.s3-eu-west-1.amazonaws.com/public/en-GB/rock-paper-scissors.pdf) : ([R,P,S - Trinket](http://jumpto.cc/rps-go) )
 
 
-Project 3:[Tutle Race - PDF](https://codeclub-project-assets.s3-eu-west-1.amazonaws.com/public/en-GB/turtle-race.pdf)
+Project 3:[Turtle Race - PDF](https://codeclub-project-assets.s3-eu-west-1.amazonaws.com/public/en-GB/turtle-race.pdf)
 
 ---
 
