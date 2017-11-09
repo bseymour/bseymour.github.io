@@ -26,6 +26,8 @@ type: pages
 
 [Tutle Race - PDF](https://codeclub-project-assets.s3-eu-west-1.amazonaws.com/public/en-GB/turtle-race.pdf)
 
+---
 
+[Your Trinkets](https://trinket.io/library/trinkets) - need to be logged in
 
 
