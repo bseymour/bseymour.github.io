@@ -42,7 +42,7 @@ right(90)
 forward(100)
 ```
 
-Shape and stamp
+Pen shape and stamp
 
 ```python
 from turtle import *
@@ -51,4 +51,45 @@ shape("turtle")
 stamp()
 forward(100)
 stamp()
+```
+
+
+Drawing Shapes
+
+```python
+circle(50)
+```
+
+Fill colour
+
+```python
+color('red', 'yellow')
+begin_fill()
+circle(50)
+end_fill()
+```
+
+
+```python
+color('red', 'yellow')
+begin_fill()
+forward(100)
+right(120)
+forward(100)
+right(120)
+forward(100)
+right(120)
+end_fill()
+```
+
+
+Functions
+
+```python
+def first_function():
+    print "This line is indented 4 spaces!"
+
+
+
+first_function()    
 ```
