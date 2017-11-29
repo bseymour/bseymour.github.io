@@ -9,14 +9,17 @@ type: pages
 ---
 
 ---  
-# Python 
+# Python quick links
 
 ---
 
-[New blank Python Trinket](http://jumpto.cc/python-new) 
+[Your Trinkets](https://trinket.io/library/trinkets) - you need to be logged in
 
 ---
 
+[Python 101](/python101)
+
+---
 
 Project 1: [About Me - PDF](https://codeclub-project-assets.s3-eu-west-1.amazonaws.com/public/en-GB/about-me.pdf)
 
