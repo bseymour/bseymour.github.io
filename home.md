@@ -15,7 +15,7 @@ excerpt: "• eCommerce & Optimisation<br/> • Dynamic Content Specialist<br/> 
   Images • Author <br/> • STEMNet Ambassador<br/> • Code Club"
 intro:
 - excerpt: "** Currently working on : [unslump.me](http://unslump.me/), [storyus](http://storyus.life/)
-    *[*](/codeclub)<br/>Recently worked on: [Getting Kids into Coding](http://12devsofxmas.co.uk/2017/01/day-7-getting-kids-into-coding/),
+    *[*](/codeclub)<br/>Recently worked on: [Getting Kids into Coding](https://benseymour.com/2017/01/01/Getting-Kids-Into-Coding),
     [Dynamic Content](https://benseymour.com/dynamic-content/)"
 feature_row:
 - image_path: practical-responsive-images-book-and-speaking-th.jpg
