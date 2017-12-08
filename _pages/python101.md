@@ -87,9 +87,31 @@ Functions
 
 ```python
 def first_function():
-    print "This line is indented 4 spaces!"
+    print "This is my first line!"
+    print "This is my second line!"
 
 
 
 first_function()    
+```
+
+A custom circle drawing function 
+
+```python
+from turtle import *
+
+def drawCircle(x, y, colour):
+  penup()
+  goto(x,y)
+  pendown()
+  color(colour)
+  begin_fill()
+  circle(25)
+  end_fill()
+
+
+
+drawCircle(0,0, 'red')
+drawCircle(50,50, 'purple')
+drawCircle(-50,50, 'yellow')
 ```
