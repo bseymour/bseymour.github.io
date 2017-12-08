@@ -34,7 +34,7 @@ feature_row:
   excerpt: For the 2017 '12 Devs of Xmas' I wrote about my experiences teaching Primary
     aged children, sharing insights into how to make coding interesting and relevant
     for all children.
-  url: http://12devsofxmas.co.uk/2017/01/day-7-getting-kids-into-coding/
+  url: https://benseymour.com/2017/01/01/Getting-Kids-Into-Coding
   btn_label: To '12 Devs' site
   btn_class: btn--inverse
 - image_path: NaBloPoMo-homepage.jpg
