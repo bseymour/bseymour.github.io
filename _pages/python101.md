@@ -115,3 +115,35 @@ drawCircle(0,0, 'red')
 drawCircle(50,50, 'purple')
 drawCircle(-50,50, 'yellow')
 ```
+
+
+Function -> Forest
+
+```python
+from turtle import *
+
+def tree(x,y):
+  speed(20)
+  penup()
+  goto(x-50,y)
+  pendown()
+  begin_fill()
+  color("darkgreen", "lightgreen")
+  forward(100)
+  left(120)
+  forward(100)
+  left(120)
+  forward(100)
+  end_fill()
+  
+
+tree(0,0)
+tree(50,50)
+tree(100,100)
+tree(-50,50)
+tree(-100,100)
+tree(50,-50)
+tree(100,-100)
+tree(-50,-50)
+tree(-100,-100)
+```
