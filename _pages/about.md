@@ -13,7 +13,7 @@ sidebar:
 
 With extensive experience in eCommerce, Dynamic/Rich Media, Conversion Optimisation, Digital Marketing &#8211; Ben Seymour has led the successful delivery of scores of projects for the largest global eCommerce clients and most prestigious brands.
 
-Currently Director of Solution Consulting (previously Director, Professional Services) at Shoreditch-based Amplience, he previously enjoyed 5 years at Adobe Systems where he was a Senior Manager and Senior Solution Specialist.
+Currently Senior Solution Engineer at Sunnyvale CA based Cloudinary (previously enjoying 6 years at Shoreditch-based Amplience where he was Director Solution Consulting, prior to which he enjoyed 5 years at Adobe Systems where he was a Senior Manager and Senior Solution Specialist.
 
 Based near Oxford, Ben is a STEMnet Ambassador and Code Club volunteer, teaching coding and computer skills to Primary School children, and relishes the challenges of helping individuals and organisations to pragmatically make more of the potential available to them through the latest tools in today’s fast paced digital world.
 
