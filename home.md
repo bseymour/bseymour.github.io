@@ -14,9 +14,8 @@ header:
 excerpt: "• eCommerce & Optimisation<br/> • Dynamic Content Specialist<br/> • Responsive
   Images • Author <br/> • STEMNet Ambassador<br/> • Code Club"
 intro:
-- excerpt: "** Currently working on : [unslump.me](http://unslump.me/), [storyus](http://storyus.life/)
-    *[*](/codeclub)<br/>Recently worked on: [Getting Kids into Coding](https://benseymour.com/2017/01/01/Getting-Kids-Into-Coding),
-    [Dynamic Content](https://benseymour.com/dynamic-content/)"
+- excerpt: "** Currently working on : [storyus](http://storyus.life/)
+    *[*](/codeclub)<br/>Recently worked on: [Getting Kids into Coding](https://benseymour.com/2017/01/01/Getting-Kids-Into-Coding), [unslump.me](http://unslump.me/)"
 feature_row:
 - image_path: Paul-Johnson_The-One-Show.png
   title: The One Show
