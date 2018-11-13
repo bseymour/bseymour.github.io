@@ -26,7 +26,7 @@
                   {% if f.image_path contains "://" %}
                     "{{ f.image_path }}"
                   {% else %}
-                    "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
+                    "{{ f.image_path | prepend: "/f_auto,q_auto/live/" | prepend: "https://res.cloudinary.com/benseymourcom/image/upload" }}"
                   {% endif %}
                 alt="{% if f.alt %}{{ f.alt }}{% endif %}">
               </a>
@@ -35,7 +35,7 @@
                 {% if f.image_path contains "://" %}
                   "{{ f.image_path }}"
                 {% else %}
-                  "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
+                  "{{ f.image_path | prepend: "/f_auto,q_auto/live/" | prepend: "https://res.cloudinary.com/benseymourcom/image/upload" }}"
                 {% endif %}
               alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             {% endif %}
