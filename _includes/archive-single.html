@@ -41,7 +41,9 @@
             {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
         </div>
         <div class="post_image">
-            {% if post.post_image %}
+            {% if post.post_cl_image %}
+            <img src="{{ site.cloudinary_base }}/w_250,h_150,c_fit,q_auto,f_auto/live/{{ post.post_cl_image }}"/>
+            {% else if post.post_image %}
               <img src="{{ post.post_image }}"/>
             {% endif %}
         </div>
