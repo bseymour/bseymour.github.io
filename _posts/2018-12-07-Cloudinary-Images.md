@@ -20,7 +20,7 @@ Cl-image:
   alt: Butterfly, fluttering by. Powered by Cloudinary
 ---
 
-Having recently joined the team at [Cloudinary](https://cloudinary.com/), it brilliant to be able to start leveraging ~~their~~ our amazing dynamic media APIs.
+Having recently joined the team at [Cloudinary](https://cloudinary.com/), it's brilliant to be able to start leveraging ~~their~~ our amazing dynamic media APIs.
 
 Here is a live example using srcset and Dynamic Media served by Cloudinary:
 {% assign image = page.Cl-image[0] %}
