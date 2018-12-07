@@ -12,6 +12,7 @@ layout: single
 author_profile: false
 type: pages
 post_image: "/images/Butterfly.orig.jpg"
+post_cl_image: "Butterfly.orig.jpg"
 sidebar:
   nav: blog_sidenav
 Cl-image:
@@ -19,11 +20,13 @@ Cl-image:
   alt: Butterfly, fluttering by. Powered by Cloudinary
 ---
 
-Having recently joined the team at Cloudinary, it made sense to start leveraging ~~their~~ our amazing dynamic media APIs.
+Having recently joined the team at [Cloudinary](https://cloudinary.com/), it brilliant to be able to start leveraging ~~their~~ our amazing dynamic media APIs.
 
 Here is a live example using srcset and Dynamic Media served by Cloudinary:
 {% assign image = page.Cl-image[0] %}
 {% include srcset-and-cloudinary.html %}
+
+## Code Changes Needed
 
 In my front matter (in _config.yml) I added some new site-wide defaults and configurations relating to Responsive Images (and Dynamic Image requests):
 
