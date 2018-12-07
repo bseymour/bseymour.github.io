@@ -11,7 +11,7 @@ tags:
 layout: single
 author_profile: false
 type: pages
-post_image: "/images/posts/first-aid.jpg"
+post_image: "/images/Butterfly.orig.jpg"
 sidebar:
   nav: blog_sidenav
 Cl-image:
