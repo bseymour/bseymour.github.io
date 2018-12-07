@@ -1,0 +1,8 @@
+<!-- srcset using Cloudinary Dynamic Media solution -->
+<!-- image vars via FM -->
+
+<img
+  src="{{ site.cloudinary_base }}/w_{{ site.default_width }},q_auto,f_auto/live/{{ image.imageref }}"
+  sizes="{{ site.sizes }}"
+  srcset="{% for width in site.srcset %}{{ site.cloudinary_base }}/w_{{ width }},q_auto,f_auto/live/{{ image.imageref }} {{ width }}w{% if forloop.last == false %}, {% endif %}{% endfor %}"
+  alt="{{ image.alt }}">
