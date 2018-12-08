@@ -12,6 +12,8 @@ layout: single
 author_profile: false
 type: pages
 post_image: "/images/posts/NaBloPoMo23-ratchet.jpg"
+post_cl_image: "posts/NaBloPoMo23-ratchet.jpg"
+
 sidebar:
   nav: nablopomo_blog_sidenav
 ---

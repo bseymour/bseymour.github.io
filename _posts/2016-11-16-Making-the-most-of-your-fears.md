@@ -14,6 +14,7 @@ author_profile: false
 type: pages
 short_title: Fears
 post_image: "/images/posts/NaBloPoMo16-th.jpg"
+post_cl_image: "posts/NaBloPoMo16-th.jpg"
 sidebar:
   nav: nablopomo_blog_sidenav
 ---
