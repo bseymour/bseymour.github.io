@@ -1,0 +1,194 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Our Links</TITLE>
+<META NAME="Template" CONTENT="C:\PROGRAM FILES\MICROSOFT OFFICE\OFFICE\html.dot">
+</HEAD>
+<BODY LINK="#ffff00" VLINK="#0000ff" BACKGROUND="marble2.gif">
+
+<B><U><FONT FACE="Comic Sans MS" SIZE=6 COLOR="#00ff00"><P ALIGN="CENTER">Our Links</P>
+</B></U></FONT><P ALIGN="CENTER">&nbsp;</P>
+<B><FONT FACE="Abadi MT Condensed Light" COLOR="#00ff00"><P ALIGN="CENTER">Click on the links below to take you to sites relevant to the languages we teach</P>
+<P ALIGN="CENTER"></P></B></FONT>
+<P ALIGN="CENTER"><CENTER><TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=669>
+<TR><TD WIDTH="42%" VALIGN="TOP">
+<P ALIGN="CENTER"><B><FONT FACE="Terminal" COLOR="#ff0000">French</B></FONT><FONT FACE="Terminal"> </FONT><B><FONT FACE="Terminal" COLOR="#ff0000">Links</B></FONT></TD>
+<TD WIDTH="58%" VALIGN="TOP">
+<B><FONT FACE="Terminal" COLOR="#ff0000"><P ALIGN="CENTER">Spanish Links</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="58%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP">
+<P ALIGN="CENTER"><A HREF="http://www.lemonde.fr/">F<B>rench daily newspaper - Le Monde</B></A></TD>
+<TD WIDTH="58%" VALIGN="TOP">
+<P ALIGN="CENTER"><A HREF="http://www.elpais.es/"><B><FONT FACE="Arial">Madrid daily newspaper - El Pa&iacute;s</B></FONT></A></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP">
+<P ALIGN="CENTER"><A HREF="http://www.tf1.fr/"><B>French National TV - TF1</B></A></TD>
+<TD WIDTH="58%" VALIGN="TOP">
+<P ALIGN="CENTER"><A HREF="http://www.abc.es/"><B>Madrid daily newspaper - EL ABC</B></A></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP">
+<P ALIGN="CENTER"><A HREF="http://www.france2.fr/"><B>French National TV - France 2</B></A></TD>
+<TD WIDTH="58%" VALIGN="TOP">
+<P ALIGN="CENTER"><A HREF="http://www.rtve.es/"><B>Spanish National TV and Radio</B></A></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP">
+<P ALIGN="CENTER"><A HREF="http://www.france3.fr/"><B>French National TV - France 3</B></A></TD>
+<TD WIDTH="58%" VALIGN="TOP">
+<P ALIGN="CENTER"><A HREF="http://www.rne.es/"><B>Spanish National Radio</B></A></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="58%" VALIGN="TOP">
+<P ALIGN="CENTER"><A HREF="http://www.cadenaser.es/welcome.ram"><B>Cadena Ser Radio - en directo desde Madrid (Live feed)</B></A></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="58%" VALIGN="TOP">
+<P ALIGN="CENTER"><A HREF="http://www.cope.es/Cope/Cadena/Sound/audio/live.ra"><B>Cadena Cope - Radio en directo (Live feed)</B></A></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="58%" VALIGN="TOP">
+<P ALIGN="CENTER"><A HREF="http://www.rtve.es/rne/audio/reelive.ram"><B>Radio Exterior de Espa&ntilde;a - Live audio feed</B></A></TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<P ALIGN="CENTER"><BR>
+<B><BR>
+&nbsp; <FONT COLOR="#00ff00"><BR>
+</FONT><FONT FACE="Arial" COLOR="#00ff00">MORE SPANISH NEWSPAPERS</P>
+<P ALIGN="CENTER"></P></B></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=751>
+<TR><TD WIDTH="38%" VALIGN="TOP" BGCOLOR="#c0c0c0">
+<P ALIGN="CENTER"><B><FONT FACE="Arial">Text</B></FONT></TD>
+<TD WIDTH="41%" VALIGN="TOP" BGCOLOR="#c0c0c0">
+<B><FONT FACE="Arial"><P ALIGN="CENTER">Link</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="38%" VALIGN="TOP">
+<B><FONT FACE="Arial" COLOR="#00ff00"><P>La Vanguardia – Catalan daily</B></FONT></TD>
+<TD WIDTH="41%" VALIGN="TOP">
+<P><A HREF="http://www.vanguardia.es/"><FONT FACE="Arial">http://www.vanguardia.es/</FONT></A></TD>
+<TD WIDTH="10%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP">
+<B><FONT FACE="Wingdings" COLOR="#ffffff"><P ALIGN="CENTER">&uuml;</FONT><FONT FACE="Arial" COLOR="#ffffff"> </B></FONT></TD>
+</TR>
+<TR><TD WIDTH="38%" VALIGN="TOP">
+<B><FONT FACE="Arial" COLOR="#00ff00"><P>El Mundo – Madrid daily </B></FONT></TD>
+<TD WIDTH="41%" VALIGN="TOP">
+<P><A HREF="http://www.el-mundo.es/"><FONT FACE="Arial">http://www.el-mundo.es/</FONT></A></TD>
+<TD WIDTH="10%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP">
+<B><FONT FACE="Wingdings" COLOR="#ffffff"><P ALIGN="CENTER">&uuml;</FONT><FONT FACE="Arial" COLOR="#ffffff"> </B></FONT></TD>
+</TR>
+<TR><TD WIDTH="38%" VALIGN="TOP">
+<B><FONT FACE="Arial" COLOR="#00ff00"><P>El Correo Espa&ntilde;ol – Basque daily</B></FONT></TD>
+<TD WIDTH="41%" VALIGN="TOP">
+<P><A HREF="http://www.diario-elcorreo.es/"><FONT FACE="Arial">http://www.diario-elcorreo.es/</FONT></A></TD>
+<TD WIDTH="10%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP">
+<B><FONT FACE="Wingdings" COLOR="#ffffff"><P ALIGN="CENTER">&uuml;</FONT><FONT FACE="Arial" COLOR="#ffffff"> </B></FONT></TD>
+</TR>
+<TR><TD WIDTH="38%" VALIGN="TOP">
+<B><FONT FACE="Arial" COLOR="#00ff00"><P>AS – daily sports paper</B></FONT></TD>
+<TD WIDTH="41%" VALIGN="TOP">
+<P><A HREF="http://www.diario-as.es/"><FONT FACE="Arial">http://www.diario-as.es/</FONT></A></TD>
+<TD WIDTH="10%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP">
+<B><FONT FACE="Wingdings" COLOR="#ffffff"><P ALIGN="CENTER">&uuml;</FONT><FONT FACE="Arial" COLOR="#ffffff"> </B></FONT></TD>
+</TR>
+<TR><TD WIDTH="38%" VALIGN="TOP">
+<B><FONT FACE="Arial" COLOR="#00ff00"><P>Marca - daily sports paper</B></FONT></TD>
+<TD WIDTH="41%" VALIGN="TOP">
+<P><A HREF="http://www.recoletos.es/marca"><FONT FACE="Arial">http://www.recoletos.es/marca</FONT></A></TD>
+<TD WIDTH="10%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP">
+<B><FONT FACE="Wingdings" COLOR="#ffffff"><P ALIGN="CENTER">&uuml;</FONT><FONT FACE="Arial" COLOR="#ffffff"> </B></FONT></TD>
+</TR>
+<TR><TD WIDTH="38%" VALIGN="TOP">
+<B><FONT FACE="Arial" COLOR="#00ff00"><P>Diario 16 – Galicia regional</B></FONT></TD>
+<TD WIDTH="41%" VALIGN="TOP">
+<P><A HREF="http://www.galicia.com/d16g.htm"><FONT FACE="Arial">http://www.galicia.com/d16g.htm</FONT></A></TD>
+<TD WIDTH="10%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP">
+<B><FONT FACE="Wingdings" COLOR="#ffffff"><P ALIGN="CENTER">&uuml;</FONT><FONT FACE="Arial" COLOR="#ffffff"> </B></FONT></TD>
+</TR>
+<TR><TD WIDTH="38%" VALIGN="TOP">
+<B><FONT FACE="Arial" COLOR="#00ff00"><P>El Correo Gallego</B></FONT></TD>
+<TD WIDTH="41%" VALIGN="TOP">
+<P><A HREF="http://www.ecg.ozone.es/"><FONT FACE="Arial">http://www.ecg.ozone.es</FONT></A></TD>
+<TD WIDTH="10%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP">
+<B><FONT FACE="Wingdings" COLOR="#ffffff"><P ALIGN="CENTER">&uuml;</FONT><FONT FACE="Arial" COLOR="#ffffff"> </B></FONT></TD>
+</TR>
+<TR><TD WIDTH="38%" VALIGN="TOP">
+<B><FONT FACE="Arial" COLOR="#00ff00"><P>La Tribuna de Salamanca – local paper</B></FONT></TD>
+<TD WIDTH="41%" VALIGN="TOP">
+<P><A HREF="http://www.tribuna.eurart.es/entra-09.htm"><FONT FACE="Arial">http://www.tribuna.eurart.es/entra-09.htm</FONT></A></TD>
+<TD WIDTH="10%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP">
+<B><FONT FACE="Wingdings" COLOR="#ffffff"><P ALIGN="CENTER">&uuml;</FONT><FONT FACE="Arial" COLOR="#ffffff"> </B></FONT></TD>
+</TR>
+<TR><TD WIDTH="38%" VALIGN="TOP">
+<B><FONT FACE="Arial" COLOR="#00ff00"><P>El tiempo - newspaper</B></FONT></TD>
+<TD WIDTH="41%" VALIGN="TOP">
+<P><A HREF="http://www.eltiempo.com/diario"><FONT FACE="Arial">http://www.eltiempo.com/diario</FONT></A></TD>
+<TD WIDTH="10%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP">
+<B><FONT FACE="Wingdings" COLOR="#ffffff"><P ALIGN="CENTER">&uuml;</FONT><FONT FACE="Arial" COLOR="#ffffff"> </B></FONT></TD>
+</TR>
+<TR><TD WIDTH="38%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="41%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="38%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="41%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<B><FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</P>
+</FONT><FONT FACE="Arial" COLOR="#00ff00"><P ALIGN="CENTER">REGIONS OF SPAIN</P>
+<P ALIGN="CENTER"></P></B></FONT>
+<P ALIGN="CENTER"><CENTER><TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=751>
+<TR><TD WIDTH="38%" VALIGN="TOP">
+<P><B><FONT FACE="Arial" COLOR="#00ff00">Basque Country site</B></FONT></TD>
+<TD WIDTH="41%" VALIGN="TOP">
+<P><A HREF="http://www.euskadi.com/"><FONT FACE="Arial">http://www.euskadi.com</FONT></A></TD>
+<TD WIDTH="10%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP">
+<B><FONT FACE="Wingdings" COLOR="#ffffff"><P ALIGN="CENTER">&uuml;</FONT><FONT FACE="Arial" COLOR="#ffffff"> </B></FONT></TD>
+</TR>
+<TR><TD WIDTH="38%" VALIGN="TOP">
+<B><FONT FACE="Arial" COLOR="#00ff00"><P>Galicia site</B></FONT></TD>
+<TD WIDTH="41%" VALIGN="TOP">
+<P><A HREF="http://www.galicia.com/"><FONT FACE="Arial">http://www.galicia.com</FONT></A></TD>
+<TD WIDTH="10%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP">
+<B><FONT FACE="Wingdings" COLOR="#ffffff"><P ALIGN="CENTER">&uuml;</FONT><FONT FACE="Arial" COLOR="#ffffff"> </B></FONT></TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<P ALIGN="CENTER">&nbsp;</P>
+<B><FONT FACE="Arial" COLOR="#ffffff"><P>SPANISH SEARCH ENGINES;</P>
+<P>Netscape Espa&ntilde;a</P>
+</B></FONT><P><A HREF="http://www.ole.es/"><FONT FACE="Arial">http://www.ole.es</FONT></A><FONT FACE="Arial" COLOR="#ffff00"> </FONT><A HREF="http://home.netscape.com/es/es/index.html?cp=iesft01"><FONT FACE="Arial">http://home.netscape.com/es/es/index.html?cp=iesft01 </FONT></A></P>
+<B><FONT FACE="Arial" COLOR="#ffffff"><P>Netscape Am&eacute;rica Latina</P>
+</B></FONT><FONT FACE="Arial"><P> </FONT><A HREF="http://home.netscape.com/es/index.html?cp=ieshsla"><FONT FACE="Arial">http://home.netscape.com/es/index.html?cp=ieshsla</FONT></A></P>
+<FONT FACE="Arial"><P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" COLOR="#ffffff"><P>FRENCH SEARCH ENGINES</P>
+</B></FONT><P><A HREF="http://home.netscape.com/fr/index.html?cp=ilahsfr"><FONT FACE="Arial">http://home.netscape.com/fr/index.html?cp=ilahsfr</FONT></A></P>
+<B><FONT FACE="Arial" COLOR="#ffffff"><P>Institutuo Cervantes</P>
+</B></FONT><P><A HREF="http://www.cervantes.es/"><FONT FACE="Arial">http://www.cervantes.es</FONT></A></P>
+<B><FONT FACE="Arial"><P>&nbsp;</P>
+</FONT><P ALIGN="CENTER">&nbsp;</P></B></BODY>
+</HTML>
