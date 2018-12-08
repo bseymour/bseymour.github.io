@@ -14,6 +14,7 @@ author_profile: false
 type: pages
 short_title: Responsive Images 101
 post_image: "/images/posts/NaBloPoMo9-picture.png"
+post_cl_image: "posts/NaBloPoMo9-picture.png"
 sidebar:
   nav: nablopomo_blog_sidenav
 ---
