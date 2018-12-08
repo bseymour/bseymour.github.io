@@ -10,6 +10,7 @@ layout: single
 author_profile: false
 type: pages
 post_image: "/images/posts/NaBloPoMo21-th.png"
+post_cl_image: "posts/NaBloPoMo21-th.png"
 sidebar:
   nav: nablopomo_blog_sidenav
 ---

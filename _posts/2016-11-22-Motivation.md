@@ -11,6 +11,7 @@ layout: single
 author_profile: false
 type: pages
 post_image: "/images/posts/NaBloPoMo22-th.jpg"
+post_cl_image: "posts/NaBloPoMo22-th.jpg"
 sidebar:
   nav: nablopomo_blog_sidenav
 ---
