@@ -12,6 +12,7 @@ layout: single
 author_profile: false
 type: pages
 post_image: "/images/12devs/01-12Devs-Ben_Seymour.jpg"
+post_cl_image: "12devs/01-12Devs-Ben_Seymour.jpg"
 sidebar:
   nav: blog_sidenav
 ---
