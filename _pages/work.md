@@ -48,8 +48,7 @@ sidebar:
           Diverse skill-set incorporating Technical Pre-Sales, Technology and Solution Evangelism, Solution Consulting, Team Leadership, Technical Project Management (PMP), Project Delivery, Business Analysis, Customer Advocacy, Customer Relationship Management.
         </p>  
 
-        <p>Created CodeParents.org, to help people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding
-        </p>
+
 
         <p>
           STEMnet Ambassador / Code Club volunteer<br /> Volunteering to inspire young people in Science, Technology, Engineering and Mathematics (STEM). It&#8217;s amazing what you can learn, when you try to teach something.
@@ -77,6 +76,7 @@ sidebar:
 		<ul>
 		<li>* 2018 Forbes #Cloud100, recognising the Top Private Cloud Companies in the world</li>
 		<li>* MarTech Breakthrough Winner of the “Best Digital Asset Management Platform” Award.</li>
+</ul>
 		</p>
 		
 		<p>
