@@ -63,9 +63,31 @@ sidebar:
       </div>
 
       <div>
+
+        <div>
+          <strong><u>Cloudindary</u></strong><br/>
+          <strong>Senior Solutions engineer</strong> (Late 2018 &#8211; Present)
+        </div>
+
+
+		<div>
+          <p>
+           With well over 5,000 customers and nearly 400,000 users managing over 25 Billion images and videos, Cloudinary is fast becoming the de-facto solution for powering all aspects of dynamic media optimisation, delivery and management. 
+
+		<ul>
+		<li>* 2018 Forbes #Cloud100, recognising the Top Private Cloud Companies in the world</li>
+		<li>* MarTech Breakthrough Winner of the “Best Digital Asset Management Platform” Award.</li>
+		</p>
+		
+		<p>
+		Used by web and mobile application developers to streamline image and video management and deliver an optimal and engaging User eXperience. With the addition of next generation asset management solutions, we are all that you need to manage and power all digital media for your Enterprise.
+          </p>
+		</div>
+
+
         <div>
           <strong><u>Amplience</u></strong><br/>
-          <strong>Director, Solutions Consulting</strong> (2012 &#8211; Present)
+          <strong>Director, Solutions Consulting</strong> (2012 &#8211; July 2018)
         </div>
 
         <div>
