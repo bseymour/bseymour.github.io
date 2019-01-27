@@ -11,13 +11,13 @@ tags:
 layout: single
 author_profile: false
 type: pages
-post_image: "/images/Butterfly.orig.jpg"
-post_cl_image: "Butterfly.orig.jpg"
+post_image: "/images/VS41.jpg"
+post_cl_image: "VS41.jpg"
 sidebar:
   nav: blog_sidenav
 Cl-image:
-- imageref: Butterfly.orig.jpg
-  alt: Butterfly, fluttering by. Powered by Cloudinary
+- imageref: VS41.jpg
+  alt: Up in the air.
 ---
 I’m writing this while at an altitude of 11,582 meters somewhere over Western Canada, on my way to San Francisco. For those who know me, or who have seen my talks on ‘making the most of your fears’, you will perhps have an idea of my curent state of mind. With that context, it seemed like a good time to make a rough start on a list of ‘Life Lessons for my Kids’. A few of these are of my own making, many more are a collation of learnings i have gained from others, and ideally i will backfill accreditation at some point.
  
