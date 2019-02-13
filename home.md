@@ -12,7 +12,7 @@ header:
   overlay_image: jqueryuk-book.jpg
   caption: 'Photo credit: Al Power'
 excerpt: "• eCommerce & Optimisation<br/> • Dynamic Content Specialist<br/> • Responsive
-  Images • Author <br/> • STEMNet Ambassador<br/> • Code Club"
+  Images • Author <br/> • Founder: Storyus & Save Your Past <br/> • STEMNet Ambassador<br/> • Code Club"
 intro:
 - excerpt: "** Currently working on : [storyus](https://storyus.life/), and at [Cloudinary](https://cloudinary.com/)
     *[*](/codeclub)<br/>Recently worked on: [Getting Kids into Coding](https://benseymour.com/2017/01/01/Getting-Kids-Into-Coding)"
