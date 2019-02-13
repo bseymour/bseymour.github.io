@@ -3,7 +3,7 @@
 {% if page.header.image contains "://" %}
   {% capture img_path %}{{ page.header.image }}{% endcapture %}
 {% else %}
-  {% capture img_path %}{{ page.header.image | prepend: "/f_auto,q_auto/live/" | prepend: "https://res.cloudinary.com/benseymourcom/image/upload" }}{% endcapture %}
+  {% capture img_path %}{{ page.header.image | prepend: "/f_auto,q_auto/live/" | prepend: "https://images.benseymour.com/image/upload" }}{% endcapture %}
 {% endif %}
 
 {% if page.header.cta_url contains "://" %}
