@@ -54,7 +54,7 @@ atom_feed:
   path: 
 image_url: "/images"
 amp_base: "//i1.adis.ws/i/bendemo"
-cloudinary_base: "//res.cloudinary.com/benseymourcom/image/upload/"
+cloudinary_base: "//images.benseymour.com/image/upload/"
 default_width: '1000'
 sizes: "(min-width: 1020px) 60vw, 90vw"
 srcset:
