@@ -86,8 +86,8 @@ feature_row4:
 - image_path: seymour-family-th.jpg
   alt: Seymour Family
   title: Remembering Who I Work For
-  excerpt: Ben is also the co-founder of two energetic creative entities aged 10  &
-    7. He also enjoys motorbikes, mountain bikes, Formula1 and the occasional track
+  excerpt: Ben is also the co-founder of two energetic creative entities aged 12  &
+    9. He also enjoys motorbikes, mountain bikes, Formula1 and the occasional track
     day (most recently Lotus Exige and Audi R8 at Silverstone).<br/><br/> There are
     various less-public repositories of our very happy memories, which we tend to
     share with closer friends and family - ping me for an invitation if you don't
