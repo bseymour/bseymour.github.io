@@ -15,7 +15,7 @@
 {% if page.header.overlay_image contains "://" %}
   {% capture overlay_img_path %}{{ page.header.overlay_image }}{% endcapture %}
 {% elsif page.header.overlay_image %}
-  {% capture overlay_img_path %}{{ page.header.overlay_image | prepend: "/f_auto,q_auto/live/" | prepend: "https://res.cloudinary.com/benseymourcom/image/upload" }}{% endcapture %}
+  {% capture overlay_img_path %}{{ page.header.overlay_image | prepend: "/f_auto,q_auto/live/" | prepend: "https://images.benseymour.com/image/upload" }}{% endcapture %}
 {% endif %}
 
 {% if page.header.overlay_filter contains "rgba" %}
