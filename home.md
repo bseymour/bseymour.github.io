@@ -19,7 +19,7 @@ intro:
 feature_row:
 - image_path: Storyus-Reflecting.JPG
   title: Storyus
-  excerpt: Paul Johnson (my Dad) had his '5 minutes of fame' when he appeared on The One Show in December 2017. With around 5 million viewer it was an amazing opportunity for people to learn about 'Paper Engineering' and for his 'pop-up books' to be showcased to a national audience.
+  excerpt: Storyus® is the family-friendly collaborative storytelling platform, which puts you in control of how your story is told. No 'likes' ♥. No public follower counts. No Adverts. You 'own' your story and can decide what was important, and how best to share it.
   url: https://storyus.life
   btn_label: To Storyus
   btn_class: btn--inverse
