@@ -39,15 +39,6 @@ feature_row:
   url: http://responsiveimag.es/
   btn_label: Go To PRI Site
   btn_class: btn--inverse
-- image_path: 12devs-home.png
-  alt: Getting Kids into Coding
-  title: Getting Kids into Coding
-  excerpt: For the 2017 '12 Devs of Xmas' I wrote about my experiences teaching Primary
-    aged children, sharing insights into how to make coding interesting and relevant
-    for all children.
-  url: https://benseymour.com/2017/01/01/Getting-Kids-Into-Coding
-  btn_label: To '12 Devs' site
-  btn_class: btn--inverse
 feature_row2:
 - image_path: net-mag-exchange-th.jpg
   alt: ".net magazine - exchange expert panel"
