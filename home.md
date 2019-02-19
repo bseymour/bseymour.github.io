@@ -17,7 +17,7 @@ intro:
 - excerpt: "** Currently working on : [storyus](https://storyus.life/), and at [Cloudinary](https://cloudinary.com/)
     *[*](/codeclub)<br/>Recently worked on: [Getting Kids into Coding](https://benseymour.com/2017/01/01/Getting-Kids-Into-Coding)"
 feature_row:
-- image_path: Paul-Johnson_The-One-Show.png
+- image_path: Storyus-Reflecting.JPG
   title: Storyus
   excerpt: Paul Johnson (my Dad) had his '5 minutes of fame' when he appeared on The One Show in December 2017. With around 5 million viewer it was an amazing opportunity for people to learn about 'Paper Engineering' and for his 'pop-up books' to be showcased to a national audience.
   url: https://storyus.life
