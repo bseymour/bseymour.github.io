@@ -18,7 +18,7 @@ intro:
     *[*](/codeclub)<br/>Recently worked on: [Getting Kids into Coding](https://benseymour.com/2017/01/01/Getting-Kids-Into-Coding)"
 feature_row:
 - image_path: Storyus-Reflecting.JPG
-  title: Storyus
+  title: Storyus®
   excerpt: Storyus® is the family-friendly collaborative storytelling platform, which puts you in control of how your story is told. No 'likes' ♥. No public follower counts. No Adverts. You 'own' your story and can decide what was important, and how best to share it.
   url: https://storyus.life
   btn_label: To Storyus
