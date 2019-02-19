@@ -18,6 +18,12 @@ intro:
     *[*](/codeclub)<br/>Recently worked on: [Getting Kids into Coding](https://benseymour.com/2017/01/01/Getting-Kids-Into-Coding)"
 feature_row:
 - image_path: Paul-Johnson_The-One-Show.png
+  title: Storyus
+  excerpt: Paul Johnson (my Dad) had his '5 minutes of fame' when he appeared on The One Show in December 2017. With around 5 million viewer it was an amazing opportunity for people to learn about 'Paper Engineering' and for his 'pop-up books' to be showcased to a national audience.
+  url: https://storyus.life
+  btn_label: To Storyus
+  btn_class: btn--inverse
+- image_path: Paul-Johnson_The-One-Show.png
   title: The One Show
   excerpt: Paul Johnson (my Dad) had his '5 minutes of fame' when he appeared on The One Show in December 2017. With around 5 million viewer it was an amazing opportunity for people to learn about 'Paper Engineering' and for his 'pop-up books' to be showcased to a national audience.
   url: https://bookartoriginals.com
@@ -54,6 +60,15 @@ feature_row2:
   btn_label: Read More
   btn_class: btn--inverse
 feature_row3:
+- image_path: 12devs-home.png
+  alt: Getting Kids into Coding
+  title: Getting Kids into Coding
+  excerpt: For the 2017 '12 Devs of Xmas' I wrote about my experiences teaching Primary
+    aged children, sharing insights into how to make coding interesting and relevant
+    for all children.
+  url: https://benseymour.com/2017/01/01/Getting-Kids-Into-Coding
+  btn_label: To '12 Devs' site
+  btn_class: btn--inverse
 - image_path: NaBloPoMo-homepage.jpg
   title: NaBloPoMo 2016
   excerpt: NaBloPoMo is National Blog Post Month, which has the challenge of writing
@@ -72,15 +87,6 @@ feature_row3:
     work to sensitively turn back the hands of time and rejuvenate them.
   url: http://www.saveyourpast.co.uk/
   btn_label: Go To SYP Site
-  btn_class: btn--inverse
-- image_path: codeparents1-th.jpg
-  title: code.parents()
-  excerpt: Code Parents is for people with little or no prior computing experience,
-    who would like to be better prepared to encourage and support children in starting
-    to explore coding. Ben founded Code Parents, and is keen that it should develop
-    into a community on contributors.
-  url: http://codeparents.org/
-  btn_label: Go To CP Site
   btn_class: btn--inverse
 feature_row4:
 - image_path: seymour-family-th.jpg
