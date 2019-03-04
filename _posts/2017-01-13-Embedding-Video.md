@@ -39,4 +39,4 @@ In this post I am experimenting with a 3rd way - which involves creating a simpl
 {% include youtubePlayer.html id="IvUU8joBb1Q" %}
 
 
-* Note: I initially read of this method [from this blog post](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/).
+* Note: I initially read of this method [from this blog post](https://adam.garrett-harris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin).
