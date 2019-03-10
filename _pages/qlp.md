@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 <p>Quotes, Lyrics and Poems</p>
+
+
+
 <blockquote><p>&#8220;Distractions keep us from:<br />
 &#8211; Wanting what we want to want<br />
 &#8211; Doing what we want to do<br />
@@ -16,6 +19,16 @@ Work in months.<br />
 Live in days.&#8221;</p>
 <p>&#8220;Expectations, not outcomes, govern the happiness of your perceived reality.&#8221;</p>
 <p><img class="aligncenter" src="/images/qlp/101-365.jpg" alt="1.01 365 days a year" width="300" height="225" /></p>
+<p>
+To see a World in a Grain of Sand 
+<br/>
+And a Heaven in a Wild Flower 
+<br/>
+Hold Infinity in the palm of your hand 
+<br/>
+And Eternity in an hour
+<br/>:: William Blake : Auguries of Innocence
+</p>
 <p>&#8220;I just try to live every day, as though I&#8217;ve deliberately come back to this day to enjoy it, as though it was the last full final day of my extraordinary ordinary life&#8221; : About Time</p>
 <p><img class="aligncenter size-large wp-image-2525" src="/images/qlp/about-time.jpg" alt="2015-10-13 21.19.36" width="1024" height="509" /></p>
 <p><em>&#8220;It&#8217;s our obligation to be happy&#8221; : Hector and the Search for Happiness</em></p>
