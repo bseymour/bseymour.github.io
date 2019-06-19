@@ -2,7 +2,7 @@
 title: Ben Seymour
 date: 1970-01-01 00:00:00 Z
 permalink: "/index.html"
-custom_title: Ben Seymour, Oxford U.K. - eCommerce & Dynamic Content Specialist, Responsive Images Advocate
+custom_title: Ben Seymour, Oxford U.K. - Dynamic Media & Content Specialist, Responsive Images, Author & Founder
 layout: splash
 permalink: /index.html
 date: 2017-08-17T11:48:41-04:00
@@ -11,10 +11,10 @@ header:
   overlay_filter: '0.5'
   overlay_image: jqueryuk-book.jpg
   caption: 'Photo credit: Al Power'
-excerpt: "• eCommerce & Optimisation<br/> • Dynamic Content Specialist<br/> • Responsive
-  Images • Author <br/> • Founder: Storyus & Save Your Past <br/> • STEMNet Ambassador<br/> • Code Club"
+excerpt: "• Dynamic Media & Content Specialist<br/> • Responsive
+  Images • Author <br/> • Founder: Storyus & Unslump • Co-Founder: Haktive & Save Your Past <br/> • STEMNet Ambassador<br/> • Code Club"
 intro:
-- excerpt: "** Currently working on : [storyus](https://storyus.life/), and at [Cloudinary](https://cloudinary.com/)
+- excerpt: "** Currently working on : [Storyus](https://storyus.life/),  [Unslump](https://unslump.me/), and at [Cloudinary](https://cloudinary.com/)
     *[*](/codeclub)<br/>Recently worked on: [Getting Kids into Coding](https://benseymour.com/2017/01/01/Getting-Kids-Into-Coding)"
 feature_row:
 - image_path: Storyus-Reflecting.JPG
