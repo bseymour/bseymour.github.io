@@ -17,9 +17,6 @@ sidebar:
 
   <p>Storyus is the family-friendly collaborative storytelling platform.</p> 
 
-  <p style="text-align: center;">
-    <a href="https://www.facebook.com/unslump.me" target="_blank">unslump.me Facebook page</a>
-  </p>
 </div>
 
 <div>
