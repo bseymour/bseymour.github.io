@@ -12,6 +12,34 @@ sidebar:
 <div>
   <hr/>
   <h1 style="text-align: center;">
+    <a href="https://storyus.life" target="_blank">Storyus</a>
+  </h1>
+
+  <p>Storyus is the family-friendly collaborative storytelling platform.</p> 
+
+  <p style="text-align: center;">
+    <a href="https://www.facebook.com/unslump.me" target="_blank">unslump.me Facebook page</a>
+  </p>
+</div>
+
+<div>
+  <hr/>
+  <h1 style="text-align: center;">
+    <a href="https://haktive.com" target="_blank">Haktive</a>
+  </h1>
+
+  <p>Haktive is a project by Emma Seymour with the mission to get more children and families to be active everyday.</p> 
+
+
+  <p style="text-align: center;">
+    <a href="https://www.facebook.com/haktive" target="_blank">Haktive Facebook page</a>
+  </p>
+</div>
+
+
+<div>
+  <hr/>
+  <h1 style="text-align: center;">
     <a href="http://unslump.me" target="_blank">unslump.me</a>
   </h1>
 
