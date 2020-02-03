@@ -64,7 +64,7 @@ sidebar:
       <div>
 
         <div>
-          <strong><u>Cloudindary</u></strong><br/>
+          <strong><u>Cloudinary</u></strong><br/>
           <strong>Senior Solutions engineer</strong> (Late 2018 &#8211; Present)
         </div>
 
