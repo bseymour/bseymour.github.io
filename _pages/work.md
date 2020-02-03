@@ -250,10 +250,27 @@ sidebar:
         <div>
           <a href="https://www.linkedin.com/in/sogge" target="_blank">Pamela Sogge</a> : Senior Director, Adobe Systems
         </div>
+ </blockquote>
+	</div>
 
+
+
+	<div>
+	 <blockquote>
         <div>
+          Ben is a domain expert and great at solving problems for customers with his breadth and depth of industry experience and technical knowledge. He is very bright and articulate, so can convey his knowledge and understanding very effectively. But beyond that, Ben is simply a pleasure to work with. He is an extremely pleasant and humble individual, a real team player, keen to help others, and I'm very happy to have the opportunity to work with him.
         </div>
 
+        <div>
+          Daniel Rotman : VP of Business Lines, Cloudinary
+        </div>
+	 </blockquote>
+	</div>
+
+
+        <div>
+
+	<blockquote>
         <div>
           I&#8217;ve worked with Ben for many years, and most recently on our dynamic imaging migration. Ben has an exceptional eye for detail and is an asset on any project, his knowledge of the Amplience technology and eCommerce in general is outstanding and has been critical to the projects we have completed together.
         </div>
@@ -262,6 +279,7 @@ sidebar:
           <a href="https://www.linkedin.com/in/sipoole" target="_blank">Simon Poole</a> : Senior User Experience Manager, Shop Direct
         </div>
       </blockquote>
+      </div>
 
       <div>
         <blockquote>
