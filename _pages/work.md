@@ -71,11 +71,13 @@ sidebar:
 
 		<div>
           <p>
-           With well over 5,000 customers and nearly 400,000 users managing over 25 Billion images and videos, Cloudinary is fast becoming the de-facto solution for powering all aspects of dynamic media optimisation, delivery and management. 
+          With well over 6,000 customers and nearly 500,000 users managing over 30 Billion images and videos, Cloudinary is fast becoming the de-facto solution for powering all aspects of dynamic media optimisation, delivery and management.
 
 		<ul>
-		<li>* 2018 Forbes #Cloud100, recognising the Top Private Cloud Companies in the world</li>
+		<li>* Forbes #Cloud100 (2019 & 2018), recognising the Top Private Cloud Companies in the world</li>
+		<li>* $60M+ ARR announced end 2019 with zero VC funding, through continued delivery of critical media management, optimisation and delivery tooling.</li>
 		<li>* MarTech Breakthrough Winner of the “Best Digital Asset Management Platform” Award.</li>
+		<li>* Developing and defining next generation media formats such as JPG XL, through participating in expert groups such as the JPEG working group</li>
 </ul>
 		</p>
 		
