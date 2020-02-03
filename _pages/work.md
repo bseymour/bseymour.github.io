@@ -268,8 +268,22 @@ sidebar:
 	</div>
 
 
+<div>
+	 <blockquote>
         <div>
+          Having worked with Ben for 5 years, his enthusiasm for technologies and imaging in particular still continue to grow. Ben is nurturing as a leader, supportive as a peer, inspiring as a teacher and captivating as a speaker.
 
+His many qualifications and years of experience are invaluable to ensuring accurate and timeline delivery of projects, but the underlying mentality of wanting to do what is best is what makes his work successful.
+        </div>
+
+        <div>
+          Neil Mistry : Senior Solutions Engineer, Amplience
+        </div>
+	 </blockquote>
+	</div>
+
+
+        <div>
 	<blockquote>
         <div>
           I&#8217;ve worked with Ben for many years, and most recently on our dynamic imaging migration. Ben has an exceptional eye for detail and is an asset on any project, his knowledge of the Amplience technology and eCommerce in general is outstanding and has been critical to the projects we have completed together.
