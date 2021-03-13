@@ -1,0 +1,54 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: permalink
+  label: permalink
+- type: list
+  name: category
+  label: category
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: layout
+  label: layout
+- type: boolean
+  name: author_profile
+  label: author_profile
+- type: text
+  name: type
+  label: type
+- type: file
+  name: post_image
+  label: post_image
+- type: file
+  name: post_cl_image
+  label: post_cl_image
+- type: field_group
+  name: sidebar
+  label: sidebar
+  fields:
+  - type: text
+    name: nav
+    label: nav
+- type: field_group_list
+  name: Cl-image
+  label: Cl-image
+  fields:
+  - type: file
+    name: imageref
+    label: imageref
+  - type: text
+    name: alt
+    label: alt
