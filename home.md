@@ -14,7 +14,7 @@ header:
 excerpt: "• Dynamic Media & Content Specialist<br/> • Responsive
   Images • Author <br/> • Founder: Storyus & Unslump <br/> • Co-Founder: Haktive & Save Your Past <br/> • STEMNet Ambassador<br/> • Code Club"
 intro:
-- excerpt: "** Currently working on : [Storyus](https://storyus.life/),  [Unslump](https://unslump.me/), and at [Cloudinary](https://cloudinary.com/)
+- excerpt: "** Currently working on : [Storyus](https://storyus.life/),  [Unslump](https://unslump.me/), and at [Vercel](https://vercel.com/)
     *[*](/codeclub)<br/>Recently worked on: [Getting Kids into Coding](https://benseymour.com/2017/01/01/Getting-Kids-Into-Coding)"
 feature_row:
 - image_path: Storyus-Reflecting.JPG
