@@ -15,7 +15,7 @@ excerpt: "• Dynamic Media & Content Specialist<br/> • Responsive
   Images • Author <br/> • Founder: Storyus & Unslump <br/> • Co-Founder: Haktive & Save Your Past <br/> • STEMNet Ambassador<br/> • Code Club"
 intro:
 - excerpt: "** Currently working on : [Storyus](https://storyus.life/),  [Unslump](https://unslump.me/), and at [Vercel](https://vercel.com/)
-    *[*](/codeclub)<br/>Recently worked on: [Getting Kids into Coding](https://benseymour.com/2017/01/01/Getting-Kids-Into-Coding)"
+    *[*](/codeclub)<br/>Recently worked on: [Getting Kids into Coding](https://mra.benseymour.com/2017/01/01/Getting-Kids-Into-Coding)"
 feature_row:
 - image_path: Storyus-Reflecting.JPG
   title: Storyus®
@@ -57,7 +57,7 @@ feature_row3:
   excerpt: For the 2017 '12 Devs of Xmas' I wrote about my experiences teaching Primary
     aged children, sharing insights into how to make coding interesting and relevant
     for all children.
-  url: https://benseymour.com/2017/01/01/Getting-Kids-Into-Coding
+  url: https://mra.benseymour.com/2017/01/01/Getting-Kids-Into-Coding
   btn_label: To '12 Devs' site
   btn_class: btn--inverse
 - image_path: NaBloPoMo-homepage.jpg
